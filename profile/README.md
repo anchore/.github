@@ -16,8 +16,9 @@ We are [Anchore](https://anchore.com/).
 
 We regularly write about what we're working on; here are some recent blog posts:
 
-- [RMF and ATO with RAISE 2.0 — Navy’s DevSecOps solution for Rapid Delivery](https://anchore.com/blog/raise-2-overview/) (Today)
-- [Navigate SSDF Attestation with this Practical Guide](https://anchore.com/blog/navigate-ssdf-attestation-with-this-practical-guide/) (This week)
+
+- [RMF and ATO with RAISE 2.0 — Navy’s DevSecOps solution for Rapid Delivery](https://anchore.com/blog/raise-2-overview/) (today)
+- [Navigate SSDF Attestation with this Practical Guide](https://anchore.com/blog/navigate-ssdf-attestation-with-this-practical-guide/) (2 days ago)
+- [Zero Trust Webinar with Security Boulevard](https://anchore.com/events/zero-trust-webinar-with-security-boulevard/) (3 days ago)
 - [Anchore Enterprise 5.5: Vulnerability Feed Service Improvements](https://anchore.com/blog/enterprise-5-5-release-vulnerability-feed-improvements/) (1 week ago)
 - [Modeling Software Security as Unit Tests: A Mental Model for Developers](https://anchore.com/blog/modeling-software-security-as-unit-tests-a-mental-model-for-developers/) (1 week ago)
-- [Streamlining FedRAMP Compliance: How Anchore Enterprise Simplifies the Process](https://anchore.com/blog/streamlining-fedramp-compliance-how-anchore-enterprise-simplifies-the-process/) (2 weeks ago)
