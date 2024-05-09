@@ -7,3 +7,15 @@
   &nbsp;<a href="https://anchore.com/slack" target="_blank"><img alt="Anchore Community Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>&nbsp;
 </p>
 
+## Welcome 👋
+
+We are [Anchore](https://anchore.com/).
+**Securing and managing the software supply chain. Proud parents of [Syft](https://github.com/anchore/syft) and [Grype](https://gitub.com/anchore/gryft)**
+
+### Blog 
+
+We regularly write about what we're working on; here are some recent blog posts:
+
+{{range rss "https://anchore.com/feed/" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
