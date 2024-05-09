@@ -10,7 +10,7 @@
 ## Welcome 👋
 
 We are [Anchore](https://anchore.com/).
-**Securing and managing the software supply chain. Proud parents of [Syft](https://github.com/anchore/syft) and [Grype](https://gitub.com/anchore/gryft)** ❄️
+**Securing and managing the software supply chain. Proud parents of [Syft](https://github.com/anchore/syft) and [Grype](https://gitub.com/anchore/gryft)**
 
 ### Blog 
 
