@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Best Practices for DevSecOps in DoD Software Factories: A White Paper](https://anchore.com/blog/best-practices-for-devsecops-in-dod-software-factories-a-white-paper/) (1 day ago)
-- [A tale of Scale &amp; Speed: How the US Navy is Enabling Software Delivery of Cutting Edge Capabilities from the Lab to the Fleet](https://anchore.com/events/a-tale-of-scale-speed-how-the-us-navy-is-enabling-software-delivery-of-cutting-edge-capabilities-from-the-lab-to-the-fleet/) (2 days ago)
-- [FedRAMP Requirements Checklist for Container Vulnerability Scanning](https://anchore.com/white-papers/fedramp-requirements-for-containers-checklist/) (5 days ago)
-- [RMF and ATO with RAISE 2.0 — Navy’s DevSecOps solution for Rapid Delivery](https://anchore.com/blog/raise-2-overview/) (6 days ago)
+- [Best Practices for DevSecOps in DoD Software Factories: A White Paper](https://anchore.com/blog/best-practices-for-devsecops-in-dod-software-factories-a-white-paper/) (2 days ago)
+- [A tale of Scale &amp; Speed: How the US Navy is Enabling Software Delivery of Cutting Edge Capabilities from the Lab to the Fleet](https://anchore.com/events/a-tale-of-scale-speed-how-the-us-navy-is-enabling-software-delivery-of-cutting-edge-capabilities-from-the-lab-to-the-fleet/) (3 days ago)
+- [FedRAMP Requirements Checklist for Container Vulnerability Scanning](https://anchore.com/white-papers/fedramp-requirements-for-containers-checklist/) (6 days ago)
+- [RMF and ATO with RAISE 2.0 — Navy’s DevSecOps solution for Rapid Delivery](https://anchore.com/blog/raise-2-overview/) (1 week ago)
 - [Navigate SSDF Attestation with this Practical Guide](https://anchore.com/blog/navigate-ssdf-attestation-with-this-practical-guide/) (1 week ago)
