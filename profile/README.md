@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Carahsoft DevSecOps Conference 2024](https://anchore.com/events/carahsoft-devsecops-conference-2024/) (2 days ago)
-- [Best Practices for DevSecOps in DoD Software Factories: A White Paper](https://anchore.com/blog/best-practices-for-devsecops-in-dod-software-factories-a-white-paper/) (5 days ago)
-- [A tale of Scale &amp; Speed: How the US Navy is Enabling Software Delivery from Lab to Fleet](https://anchore.com/events/a-tale-of-scale-speed-how-the-us-navy-is-enabling-software-delivery-of-cutting-edge-capabilities-from-the-lab-to-the-fleet/) (6 days ago)
+- [Carahsoft DevSecOps Conference 2024](https://anchore.com/events/carahsoft-devsecops-conference-2024/) (3 days ago)
+- [Best Practices for DevSecOps in DoD Software Factories: A White Paper](https://anchore.com/blog/best-practices-for-devsecops-in-dod-software-factories-a-white-paper/) (6 days ago)
+- [A tale of Scale &amp; Speed: How the US Navy is Enabling Software Delivery from Lab to Fleet](https://anchore.com/events/a-tale-of-scale-speed-how-the-us-navy-is-enabling-software-delivery-of-cutting-edge-capabilities-from-the-lab-to-the-fleet/) (1 week ago)
 - [FedRAMP Requirements Checklist for Container Vulnerability Scanning](https://anchore.com/white-papers/fedramp-requirements-for-containers-checklist/) (1 week ago)
 - [RMF and ATO with RAISE 2.0 — Navy’s DevSecOps solution for Rapid Delivery](https://anchore.com/blog/raise-2-overview/) (1 week ago)
