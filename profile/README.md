@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [A Guide to Air Gapping: Balancing Security and Efficiency in Classified Environments](https://anchore.com/blog/dod-devsecops-air-gap-environment/) (1 day ago)
-- [Carahsoft DevSecOps Conference 2024](https://anchore.com/events/carahsoft-devsecops-conference-2024/) (5 days ago)
+- [A Guide to Air Gapping: Balancing Security and Efficiency in Classified Environments](https://anchore.com/blog/dod-devsecops-air-gap-environment/) (2 days ago)
+- [Carahsoft DevSecOps Conference 2024](https://anchore.com/events/carahsoft-devsecops-conference-2024/) (6 days ago)
 - [Best Practices for DevSecOps in DoD Software Factories: A White Paper](https://anchore.com/blog/best-practices-for-devsecops-in-dod-software-factories-a-white-paper/) (1 week ago)
 - [A tale of Scale &amp; Speed: How the US Navy is Enabling Software Delivery from Lab to Fleet](https://anchore.com/events/a-tale-of-scale-speed-how-the-us-navy-is-enabling-software-delivery-of-cutting-edge-capabilities-from-the-lab-to-the-fleet/) (1 week ago)
 - [FedRAMP Requirements Checklist for Container Vulnerability Scanning](https://anchore.com/white-papers/fedramp-requirements-for-containers-checklist/) (1 week ago)
