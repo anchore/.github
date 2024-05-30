@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [VIPERR Workshop](https://anchore.com/events/carahsoft-devsecops-conference-2024-2/) (1 day ago)
-- [Navigating the Updates to cATO: Critical Changes &amp; Practical Advice for DoD Programs](https://anchore.com/blog/cato-spring-2024-updates/) (1 day ago)
-- [How Cisco Umbrella Achieved FedRAMP Compliance in Weeks](https://anchore.com/case-studies/how-cisco-umbrella-achieved-fedramp-compliance-in-weeks/) (5 days ago)
+- [VIPERR Workshop](https://anchore.com/events/carahsoft-devsecops-conference-2024-2/) (2 days ago)
+- [Navigating the Updates to cATO: Critical Changes &amp; Practical Advice for DoD Programs](https://anchore.com/blog/cato-spring-2024-updates/) (2 days ago)
+- [How Cisco Umbrella Achieved FedRAMP Compliance in Weeks](https://anchore.com/case-studies/how-cisco-umbrella-achieved-fedramp-compliance-in-weeks/) (6 days ago)
 - [A Guide to Air Gapping: Balancing Security and Efficiency in Classified Environments](https://anchore.com/blog/dod-devsecops-air-gap-environment/) (1 week ago)
 - [Carahsoft DevSecOps Conference 2024](https://anchore.com/events/carahsoft-devsecops-conference-2024/) (1 week ago)
