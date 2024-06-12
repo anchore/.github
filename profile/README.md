@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Improving Syft’s Binary Detection](https://anchore.com/blog/improving-syfts-binary-detection/) (today)
 - [Reduce Risk for Software Supply Chain Attacks: Best Practices for Container Security](https://anchore.com/white-papers/reduce-risk-for-software-supply-chain-attacks-best-practices-for-container-security/) (1 day ago)
 - [Anchore Enterprise 5.6: Improved Remediation &amp; Visibility with Account Context Switcher](https://anchore.com/blog/anchore-enterprise-5-6-improved-remediation-visibility-with-account-context-switcher/) (6 days ago)
 - [How Cisco Umbrella Achieved FedRAMP Compliance in Weeks](https://anchore.com/blog/how-cisco-umbrella-achieved-fedramp-compliance-in-weeks-blog/) (1 week ago)
 - [Anchore’s June Line-Up: Essential Events for Software Supply Chain Security and DevSecOps Enthusiasts](https://anchore.com/blog/anchore-june-2024-events/) (1 week ago)
-- [VIPERR Workshop](https://anchore.com/events/carahsoft-devsecops-conference-2024-2/) (2 weeks ago)
