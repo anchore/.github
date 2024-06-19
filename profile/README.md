@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Four Years of Syft Development in 4 Minutes at 4K](https://anchore.com/blog/four-years-of-syft-development-in-4-minutes-at-4k/) (today)
-- [How to Secure Your Kubernetes Software Supply Chain at Scale](https://anchore.com/webinars/how-to-secure-your-kubernetes-software-supply-chain-at-scale/) (5 days ago)
-- [Improving Syft’s Binary Detection](https://anchore.com/blog/improve-open-source-sbom-tool-syft-with-binary-detection/) (6 days ago)
+- [Four Years of Syft Development in 4 Minutes at 4K](https://anchore.com/blog/four-years-of-syft-development-in-4-minutes-at-4k/) (1 day ago)
+- [How to Secure Your Kubernetes Software Supply Chain at Scale](https://anchore.com/webinars/how-to-secure-your-kubernetes-software-supply-chain-at-scale/) (6 days ago)
+- [Improving Syft’s Binary Detection](https://anchore.com/blog/improve-open-source-sbom-tool-syft-with-binary-detection/) (1 week ago)
 - [Reduce Risk for Software Supply Chain Attacks: Best Practices for Container Security](https://anchore.com/white-papers/reduce-risk-for-software-supply-chain-attacks-best-practices-for-container-security/) (1 week ago)
 - [Anchore Enterprise 5.6: Improved Remediation &amp; Visibility with Account Context Switcher](https://anchore.com/blog/anchore-enterprise-5-6-improved-remediation-visibility-with-account-context-switcher/) (1 week ago)
