@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [DevSecOps – Editorial Roundtable](https://anchore.com/webinars/devsecops-editorial-roundtable/) (1 day ago)
-- [Reduce risk in your software supply chain: 5 tips for container security](https://anchore.com/blog/5-tips-container-security-software-supply-chain-white-paper/) (1 day ago)
-- [Four Years of Syft Development in 4 Minutes at 4K](https://anchore.com/blog/four-years-of-syft-development-in-4-minutes-at-4k/) (3 days ago)
+- [DevSecOps – Editorial Roundtable](https://anchore.com/webinars/devsecops-editorial-roundtable/) (2 days ago)
+- [Reduce risk in your software supply chain: 5 tips for container security](https://anchore.com/blog/5-tips-container-security-software-supply-chain-white-paper/) (2 days ago)
+- [Four Years of Syft Development in 4 Minutes at 4K](https://anchore.com/blog/four-years-of-syft-development-in-4-minutes-at-4k/) (4 days ago)
 - [How to Secure Your Kubernetes Software Supply Chain at Scale](https://anchore.com/webinars/how-to-secure-your-kubernetes-software-supply-chain-at-scale/) (1 week ago)
 - [Improving Syft’s Binary Detection](https://anchore.com/blog/improve-open-source-sbom-tool-syft-with-binary-detection/) (1 week ago)
