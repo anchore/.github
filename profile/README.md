@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Modernizing FedRAMP: GSA’s Roadmap to Streamline Authorization](https://anchore.com/blog/fedramp-compliance-modernization-2024-update/) (2 days ago)
-- [75% time savings with vulnerability detection by Anchore](https://anchore.com/case-studies/75-time-savings-with-vulnerability-detection-by-anchore/) (4 days ago)
-- [High volume image scanning &amp; vulnerability management for the Iron Bank](https://anchore.com/case-studies/high-volume-image-scanning-and-vulnerability-management-for-the-iron-bank/) (4 days ago)
-- [Add SBOM Generation to Your GitHub Project with Syft](https://anchore.com/blog/add-sbom-generation-to-your-github-project-with-syft/) (4 days ago)
-- [Easy Compliance is Continuous Compliance](https://anchore.com/webinars/easy-compliance-is-continuous-compliance/) (5 days ago)
+- [Modernizing FedRAMP: GSA’s Roadmap to Streamline Authorization](https://anchore.com/blog/fedramp-compliance-modernization-2024-update/) (3 days ago)
+- [75% time savings with vulnerability detection by Anchore](https://anchore.com/case-studies/75-time-savings-with-vulnerability-detection-by-anchore/) (5 days ago)
+- [High volume image scanning &amp; vulnerability management for the Iron Bank](https://anchore.com/case-studies/high-volume-image-scanning-and-vulnerability-management-for-the-iron-bank/) (5 days ago)
+- [Add SBOM Generation to Your GitHub Project with Syft](https://anchore.com/blog/add-sbom-generation-to-your-github-project-with-syft/) (5 days ago)
+- [Easy Compliance is Continuous Compliance](https://anchore.com/webinars/easy-compliance-is-continuous-compliance/) (6 days ago)
