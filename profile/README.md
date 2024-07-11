@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [How Infoblox Scaled Product Security and Compliance with Anchore Enterprise](https://anchore.com/blog/infoblox-scales-product-security-compliance-with-anchore/) (1 day ago)
+- [How Infoblox Scaled Product Security and Compliance with Anchore Enterprise](https://anchore.com/blog/infoblox-scales-product-security-compliance-with-anchore/) (2 days ago)
 - [AnchoreCTL Setup and Top Tips](https://anchore.com/blog/anchorectl-setup-and-top-tips/) (1 week ago)
-- [Modernizing FedRAMP: GSA’s Roadmap to Streamline Authorization](https://anchore.com/blog/fedramp-compliance-modernization-2024-update/) (1 week ago)
+- [Modernizing FedRAMP: GSA’s Roadmap to Streamline Authorization](https://anchore.com/blog/fedramp-compliance-modernization-2024-update/) (2 weeks ago)
 - [75% time savings with vulnerability detection by Anchore](https://anchore.com/case-studies/75-time-savings-with-vulnerability-detection-by-anchore/) (2 weeks ago)
 - [High volume image scanning &amp; vulnerability management for the Iron Bank](https://anchore.com/case-studies/high-volume-image-scanning-and-vulnerability-management-for-the-iron-bank/) (2 weeks ago)
