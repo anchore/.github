@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Anchore Previews Grype Support for Azure Linux 3.0](https://anchore.com/blog/anchore-previews-grype-support-for-azure-linux-3-0/) (2 days ago)
-- [Anchore Enterprise 5.8 Adds KEV Enrichment Feed](https://anchore.com/blog/anchore-enterprise-5-8-adds-kev-enrichment-feed/) (3 days ago)
+- [Anchore Previews Grype Support for Azure Linux 3.0](https://anchore.com/blog/anchore-previews-grype-support-for-azure-linux-3-0/) (3 days ago)
+- [Anchore Enterprise 5.8 Adds KEV Enrichment Feed](https://anchore.com/blog/anchore-enterprise-5-8-adds-kev-enrichment-feed/) (4 days ago)
 - [Carahsoft: Automated policy enforcement for CMMC with Anchore](https://anchore.com/webinars/carahsoft-automated-policy-enforcement-for-cmmc-with-anchore/) (1 week ago)
 - [Adopting the DoD Software Factory Model: Insights &amp; How Tos](https://anchore.com/webinars/adopting-the-dod-software-factory-model-insights-how-tos/) (1 week ago)
 - [DevSecOps Evolution: How DoD Software Factories Are Reshaping Federal Compliance](https://anchore.com/blog/devsecops-evolution-how-dod-software-factories-are-reshaping-federal-compliance/) (1 week ago)
