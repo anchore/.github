@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Anchore Awarded DoD ESI DevSecOps Phase II Agreement](https://anchore.com/blog/anchore-awarded-dod-esi-devsecops-phase-2-agreement/) (today)
-- [Anchore Previews Grype Support for Azure Linux 3.0](https://anchore.com/blog/anchore-previews-grype-support-for-azure-linux-3-0/) (5 days ago)
-- [Anchore Enterprise 5.8 Adds KEV Enrichment Feed](https://anchore.com/blog/anchore-enterprise-5-8-adds-kev-enrichment-feed/) (6 days ago)
+- [Anchore Awarded DoD ESI DevSecOps Phase II Agreement](https://anchore.com/blog/anchore-awarded-dod-esi-devsecops-phase-2-agreement/) (1 day ago)
+- [Anchore Previews Grype Support for Azure Linux 3.0](https://anchore.com/blog/anchore-previews-grype-support-for-azure-linux-3-0/) (6 days ago)
+- [Anchore Enterprise 5.8 Adds KEV Enrichment Feed](https://anchore.com/blog/anchore-enterprise-5-8-adds-kev-enrichment-feed/) (1 week ago)
 - [A Guide to FedRAMP in 2024: FAQs &amp; Key Takeaways](https://anchore.com/blog/fedramp-overview/) (1 week ago)
-- [Carahsoft: Automated policy enforcement for CMMC with Anchore](https://anchore.com/webinars/carahsoft-automated-policy-enforcement-for-cmmc-with-anchore/) (1 week ago)
+- [Carahsoft: Automated policy enforcement for CMMC with Anchore](https://anchore.com/webinars/carahsoft-automated-policy-enforcement-for-cmmc-with-anchore/) (2 weeks ago)
