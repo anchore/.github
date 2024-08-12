@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Enhancing Software Security: August Webinars on DevSecOps, DoD Software Factories, and CMMC Compliance](https://anchore.com/blog/august-webinars-on-devsecops-dod-software-factories-and-cmmc-compliance/) (4 days ago)
-- [Anchore Awarded DoD ESI DevSecOps Phase II Agreement](https://anchore.com/blog/anchore-awarded-dod-esi-devsecops-phase-2-agreement/) (5 days ago)
+- [Enhancing Software Security: August Webinars on DevSecOps, DoD Software Factories, and CMMC Compliance](https://anchore.com/blog/august-webinars-on-devsecops-dod-software-factories-and-cmmc-compliance/) (5 days ago)
+- [Anchore Awarded DoD ESI DevSecOps Phase II Agreement](https://anchore.com/blog/anchore-awarded-dod-esi-devsecops-phase-2-agreement/) (6 days ago)
 - [Anchore Previews Grype Support for Azure Linux 3.0](https://anchore.com/blog/anchore-previews-grype-support-for-azure-linux-3-0/) (1 week ago)
 - [Anchore Enterprise 5.8 Adds KEV Enrichment Feed](https://anchore.com/blog/anchore-enterprise-5-8-adds-kev-enrichment-feed/) (1 week ago)
 - [A Guide to FedRAMP in 2024: FAQs &amp; Key Takeaways](https://anchore.com/blog/fedramp-overview/) (1 week ago)
