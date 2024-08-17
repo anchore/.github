@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Adopting the DoD Software Factory Model: Insights &amp; How Tos](https://anchore.com/webinars/adopting-the-dod-software-factory-model-insights-how-tos/) (2 days ago)
-- [Billington Cybersecurity Summit](https://anchore.com/webinars/billington-cybersecurity-summit/) (3 days ago)
-- [Anchore at Billington CyberSecurity Summit: Automating Defense in the AI Era](https://anchore.com/blog/anchore-at-billington-cybersecurity-summit-2024/) (3 days ago)
+- [Adopting the DoD Software Factory Model: Insights &amp; How Tos](https://anchore.com/webinars/adopting-the-dod-software-factory-model-insights-how-tos/) (3 days ago)
+- [Billington Cybersecurity Summit](https://anchore.com/webinars/billington-cybersecurity-summit/) (4 days ago)
+- [Anchore at Billington CyberSecurity Summit: Automating Defense in the AI Era](https://anchore.com/blog/anchore-at-billington-cybersecurity-summit-2024/) (4 days ago)
 - [Enhancing Software Security: August Webinars on DevSecOps, DoD Software Factories, and CMMC Compliance](https://anchore.com/blog/august-webinars-on-devsecops-dod-software-factories-and-cmmc-compliance/) (1 week ago)
 - [Anchore Awarded DoD ESI DevSecOps Phase II Agreement](https://anchore.com/blog/anchore-awarded-dod-esi-devsecops-phase-2-agreement/) (1 week ago)
