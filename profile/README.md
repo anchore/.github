@@ -17,4 +17,4 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Join the Anchore Community on Discourse](https://anchore.com/blog/community/) (1 day ago)
+- [Join the Anchore Community on Discourse](https://anchore.com/blog/community/) (2 days ago)
