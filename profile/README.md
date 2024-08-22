@@ -17,6 +17,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [SSDF Attestation Template: Battle-tested Compliance Guidance](https://anchore.com/blog/announcing-ssdf-attestation-template/) (today)
 - [How SBOMs Protect Google’s Massive Software Supply Chain](https://anchore.com/webinars/how-sboms-protect-googles-massive-software-supply-chain/) (2 days ago)
 - [FedRAMP &amp; FISMA Compliance: Key Differences Explained](https://anchore.com/blog/fedramp-vs-fisma/) (2 days ago)
 - [Join the Anchore Community on Discourse](https://anchore.com/blog/community/) (5 days ago)
