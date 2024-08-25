@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [SSDF Attestation Template: Battle-tested Compliance Guidance](https://anchore.com/blog/announcing-ssdf-attestation-template/) (2 days ago)
-- [How SBOMs Protect Google’s Massive Software Supply Chain](https://anchore.com/webinars/how-sboms-protect-googles-massive-software-supply-chain/) (4 days ago)
-- [FedRAMP &amp; FISMA Compliance: Key Differences Explained](https://anchore.com/blog/fedramp-vs-fisma/) (4 days ago)
+- [SSDF Attestation Template: Battle-tested Compliance Guidance](https://anchore.com/blog/announcing-ssdf-attestation-template/) (3 days ago)
+- [How SBOMs Protect Google’s Massive Software Supply Chain](https://anchore.com/webinars/how-sboms-protect-googles-massive-software-supply-chain/) (5 days ago)
+- [FedRAMP &amp; FISMA Compliance: Key Differences Explained](https://anchore.com/blog/fedramp-vs-fisma/) (5 days ago)
 - [Adopting the DoD Software Factory Model: Insights &amp; How Tos](https://anchore.com/webinars/adopting-the-dod-software-factory-model-insights-how-tos/) (1 week ago)
 - [Billington Cybersecurity Summit](https://anchore.com/webinars/billington-cybersecurity-summit/) (1 week ago)
