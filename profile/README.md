@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Automated vulnerability management &amp; transparent security saves 75% time](https://anchore.com/case-studies/dreamfactory-automates-vulnerability-management-transparent-security/) (4 days ago)
-- [How is Open Source Software Security Managed in the Software Supply Chain?](https://anchore.com/blog/open-source-software-security-in-software-supply-chain/) (5 days ago)
+- [Automated vulnerability management &amp; transparent security saves 75% time](https://anchore.com/case-studies/dreamfactory-automates-vulnerability-management-transparent-security/) (5 days ago)
+- [How is Open Source Software Security Managed in the Software Supply Chain?](https://anchore.com/blog/open-source-software-security-in-software-supply-chain/) (6 days ago)
 - [SSDF Attestation Template: Battle-tested Compliance Guidance](https://anchore.com/blog/announcing-ssdf-attestation-template/) (1 week ago)
-- [How SBOMs Protect Google’s Massive Software Supply Chain](https://anchore.com/webinars/how-sboms-protect-googles-massive-software-supply-chain/) (1 week ago)
-- [FedRAMP &amp; FISMA Compliance: Key Differences Explained](https://anchore.com/blog/fedramp-vs-fisma/) (1 week ago)
+- [How SBOMs Protect Google’s Massive Software Supply Chain](https://anchore.com/webinars/how-sboms-protect-googles-massive-software-supply-chain/) (2 weeks ago)
+- [FedRAMP &amp; FISMA Compliance: Key Differences Explained](https://anchore.com/blog/fedramp-vs-fisma/) (2 weeks ago)
