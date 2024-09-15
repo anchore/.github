@@ -17,8 +17,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Accelerate FedRAMP Compliance on Amazon EKS with Anchore](https://anchore.com/events/accelerate-fedramp-compliance-on-amazon-eks-with-anchore/) (1 day ago)
-- [TD Synnex Inspire](https://anchore.com/events/td-synnex-inspire/) (2 days ago)
-- [All Things Open Conference](https://anchore.com/events/all-things-open-conference/) (2 days ago)
-- [SBOMs and Vulnerability Management: OSS Security in the DevSecOps Era](https://anchore.com/blog/sboms-and-vulnerability-scanning-oss-security-for-devsecops/) (4 days ago)
+- [Accelerate FedRAMP Compliance on Amazon EKS with Anchore](https://anchore.com/events/accelerate-fedramp-compliance-on-amazon-eks-with-anchore/) (2 days ago)
+- [TD Synnex Inspire](https://anchore.com/events/td-synnex-inspire/) (3 days ago)
+- [All Things Open Conference](https://anchore.com/events/all-things-open-conference/) (3 days ago)
+- [SBOMs and Vulnerability Management: OSS Security in the DevSecOps Era](https://anchore.com/blog/sboms-and-vulnerability-scanning-oss-security-for-devsecops/) (5 days ago)
 - [DreamFactory Achieves 75% Time Savings with Anchore: A Case Study in Secure API Generation](https://anchore.com/blog/dreamfactory-air-gap-on-prem-anchore-enterprise-case-study/) (1 week ago)
