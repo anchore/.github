@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [How to build an OSS vulnerability management program](https://anchore.com/blog/build-open-source-software-security-program-with-sbom-generation-and-vulnerability-scanning/) (today)
 - [Accelerate FedRAMP Compliance on Amazon EKS with Anchore](https://anchore.com/events/accelerate-fedramp-compliance-on-amazon-eks-with-anchore/) (4 days ago)
 - [TD Synnex Inspire](https://anchore.com/events/td-synnex-inspire/) (5 days ago)
 - [All Things Open Conference](https://anchore.com/events/all-things-open-conference/) (5 days ago)
 - [SBOMs and Vulnerability Management: OSS Security in the DevSecOps Era](https://anchore.com/blog/sboms-and-vulnerability-scanning-oss-security-for-devsecops/) (1 week ago)
-- [DreamFactory Achieves 75% Time Savings with Anchore: A Case Study in Secure API Generation](https://anchore.com/blog/dreamfactory-air-gap-on-prem-anchore-enterprise-case-study/) (2 weeks ago)
 
 ### Community
 
