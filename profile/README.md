@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Accelerate FedRAMP Compliance on Amazon EKS with Anchore](https://anchore.com/events/accelerate-fedramp-compliance-on-amazon-eks-with-anchore/) (3 days ago)
-- [TD Synnex Inspire](https://anchore.com/events/td-synnex-inspire/) (4 days ago)
-- [All Things Open Conference](https://anchore.com/events/all-things-open-conference/) (4 days ago)
-- [SBOMs and Vulnerability Management: OSS Security in the DevSecOps Era](https://anchore.com/blog/sboms-and-vulnerability-scanning-oss-security-for-devsecops/) (6 days ago)
-- [DreamFactory Achieves 75% Time Savings with Anchore: A Case Study in Secure API Generation](https://anchore.com/blog/dreamfactory-air-gap-on-prem-anchore-enterprise-case-study/) (1 week ago)
+- [Accelerate FedRAMP Compliance on Amazon EKS with Anchore](https://anchore.com/events/accelerate-fedramp-compliance-on-amazon-eks-with-anchore/) (4 days ago)
+- [TD Synnex Inspire](https://anchore.com/events/td-synnex-inspire/) (5 days ago)
+- [All Things Open Conference](https://anchore.com/events/all-things-open-conference/) (5 days ago)
+- [SBOMs and Vulnerability Management: OSS Security in the DevSecOps Era](https://anchore.com/blog/sboms-and-vulnerability-scanning-oss-security-for-devsecops/) (1 week ago)
+- [DreamFactory Achieves 75% Time Savings with Anchore: A Case Study in Secure API Generation](https://anchore.com/blog/dreamfactory-air-gap-on-prem-anchore-enterprise-case-study/) (2 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Revisiting ownership-by-file-overlap relationships](https://anchorecommunity.discourse.group/t/revisiting-ownership-by-file-overlap-relationships/137) (today)
-- [Does Grype fetches data from different sources or only from NVD](https://anchorecommunity.discourse.group/t/does-grype-fetches-data-from-different-sources-or-only-from-nvd/136) (today)
-- [Trying to understand sha256 output in syft spdx-json](https://anchorecommunity.discourse.group/t/trying-to-understand-sha256-output-in-syft-spdx-json/134) (4 days ago)
-- [September 12 | Community Meeting Zoom Call](https://anchorecommunity.discourse.group/t/september-12-community-meeting-zoom-call/133) (4 days ago)
-- [September 12 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-12-open-source-gardening-live-stream/132) (4 days ago)
+- [Revisiting ownership-by-file-overlap relationships](https://anchorecommunity.discourse.group/t/revisiting-ownership-by-file-overlap-relationships/137) (1 day ago)
+- [Does Grype fetches data from different sources or only from NVD](https://anchorecommunity.discourse.group/t/does-grype-fetches-data-from-different-sources-or-only-from-nvd/136) (1 day ago)
+- [Trying to understand sha256 output in syft spdx-json](https://anchorecommunity.discourse.group/t/trying-to-understand-sha256-output-in-syft-spdx-json/134) (5 days ago)
+- [September 12 | Community Meeting Zoom Call](https://anchorecommunity.discourse.group/t/september-12-community-meeting-zoom-call/133) (5 days ago)
+- [September 12 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-12-open-source-gardening-live-stream/132) (5 days ago)
