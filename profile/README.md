@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Expert Series: Solving Real-World Challenges in FedRAMP Compliance](https://anchore.com/webinars/expert-series-solving-real-world-challenges-in-fedramp-compliance/) (today)
-- [How to build an OSS vulnerability management program](https://anchore.com/blog/build-open-source-software-security-program-with-sbom-generation-and-vulnerability-scanning/) (1 day ago)
-- [Accelerate FedRAMP Compliance on Amazon EKS with Anchore](https://anchore.com/events/accelerate-fedramp-compliance-on-amazon-eks-with-anchore/) (5 days ago)
-- [TD Synnex Inspire](https://anchore.com/events/td-synnex-inspire/) (6 days ago)
-- [All Things Open Conference](https://anchore.com/events/all-things-open-conference/) (6 days ago)
+- [Expert Series: Solving Real-World Challenges in FedRAMP Compliance](https://anchore.com/webinars/expert-series-solving-real-world-challenges-in-fedramp-compliance/) (1 day ago)
+- [How to build an OSS vulnerability management program](https://anchore.com/blog/build-open-source-software-security-program-with-sbom-generation-and-vulnerability-scanning/) (2 days ago)
+- [Accelerate FedRAMP Compliance on Amazon EKS with Anchore](https://anchore.com/events/accelerate-fedramp-compliance-on-amazon-eks-with-anchore/) (6 days ago)
+- [TD Synnex Inspire](https://anchore.com/events/td-synnex-inspire/) (1 week ago)
+- [All Things Open Conference](https://anchore.com/events/all-things-open-conference/) (1 week ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Revisiting ownership-by-file-overlap relationships](https://anchorecommunity.discourse.group/t/revisiting-ownership-by-file-overlap-relationships/137) (2 days ago)
-- [Does Grype fetches data from different sources or only from NVD](https://anchorecommunity.discourse.group/t/does-grype-fetches-data-from-different-sources-or-only-from-nvd/136) (2 days ago)
-- [Trying to understand sha256 output in syft spdx-json](https://anchorecommunity.discourse.group/t/trying-to-understand-sha256-output-in-syft-spdx-json/134) (6 days ago)
-- [September 12 | Community Meeting Zoom Call](https://anchorecommunity.discourse.group/t/september-12-community-meeting-zoom-call/133) (6 days ago)
-- [September 12 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-12-open-source-gardening-live-stream/132) (6 days ago)
+- [Revisiting ownership-by-file-overlap relationships](https://anchorecommunity.discourse.group/t/revisiting-ownership-by-file-overlap-relationships/137) (3 days ago)
+- [Does Grype fetches data from different sources or only from NVD](https://anchorecommunity.discourse.group/t/does-grype-fetches-data-from-different-sources-or-only-from-nvd/136) (3 days ago)
+- [Trying to understand sha256 output in syft spdx-json](https://anchorecommunity.discourse.group/t/trying-to-understand-sha256-output-in-syft-spdx-json/134) (1 week ago)
+- [September 12 | Community Meeting Zoom Call](https://anchorecommunity.discourse.group/t/september-12-community-meeting-zoom-call/133) (1 week ago)
+- [September 12 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-12-open-source-gardening-live-stream/132) (1 week ago)
