@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [US Navy achieves ATO in days with continuous compliance &amp; OSS risk management](https://anchore.com/case-studies/us-navy-achieves-ato-in-days-with-continuous-compliance-oss-risk-management/) (today)
 - [Expert Series: Solving Real-World Challenges in FedRAMP Compliance](https://anchore.com/webinars/expert-series-solving-real-world-challenges-in-fedramp-compliance/) (5 days ago)
 - [How to build an OSS vulnerability management program](https://anchore.com/blog/build-open-source-software-security-program-with-sbom-generation-and-vulnerability-scanning/) (6 days ago)
 - [Accelerate FedRAMP Compliance on Amazon EKS with Anchore](https://anchore.com/events/accelerate-fedramp-compliance-on-amazon-eks-with-anchore/) (1 week ago)
 - [TD Synnex Inspire](https://anchore.com/events/td-synnex-inspire/) (1 week ago)
-- [All Things Open Conference](https://anchore.com/events/all-things-open-conference/) (1 week ago)
 
 ### Community
 
