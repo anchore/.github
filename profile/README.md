@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Supported wildcards for allowlist entries](https://anchorecommunity.discourse.group/t/supported-wildcards-for-allowlist-entries/140) (today)
 - [September 19 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-19-open-source-gardening-live-stream/139) (4 days ago)
 - [Revisiting ownership-by-file-overlap relationships](https://anchorecommunity.discourse.group/t/revisiting-ownership-by-file-overlap-relationships/137) (1 week ago)
 - [Does Grype fetches data from different sources or only from NVD](https://anchorecommunity.discourse.group/t/does-grype-fetches-data-from-different-sources-or-only-from-nvd/136) (1 week ago)
 - [Trying to understand sha256 output in syft spdx-json](https://anchorecommunity.discourse.group/t/trying-to-understand-sha256-output-in-syft-spdx-json/134) (1 week ago)
-- [September 12 | Community Meeting Zoom Call](https://anchorecommunity.discourse.group/t/september-12-community-meeting-zoom-call/133) (1 week ago)
