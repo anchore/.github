@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [We migrated from S3 to R2. Thankfully nobody noticed](https://anchore.com/blog/we-migrated-from-s3-to-r2-thankfully-nobody-noticed/) (today)
-- [US Navy achieves ATO in days with continuous compliance &amp; OSS risk management](https://anchore.com/case-studies/us-navy-achieves-ato-in-days-with-continuous-compliance-oss-risk-management/) (1 day ago)
-- [Expert Series: Solving Real-World Challenges in FedRAMP Compliance](https://anchore.com/webinars/expert-series-solving-real-world-challenges-in-fedramp-compliance/) (6 days ago)
+- [We migrated from S3 to R2. Thankfully nobody noticed](https://anchore.com/blog/we-migrated-from-s3-to-r2-thankfully-nobody-noticed/) (1 day ago)
+- [US Navy achieves ATO in days with continuous compliance &amp; OSS risk management](https://anchore.com/case-studies/us-navy-achieves-ato-in-days-with-continuous-compliance-oss-risk-management/) (2 days ago)
+- [Expert Series: Solving Real-World Challenges in FedRAMP Compliance](https://anchore.com/webinars/expert-series-solving-real-world-challenges-in-fedramp-compliance/) (1 week ago)
 - [How to build an OSS vulnerability management program](https://anchore.com/blog/build-open-source-software-security-program-with-sbom-generation-and-vulnerability-scanning/) (1 week ago)
 - [Accelerate FedRAMP Compliance on Amazon EKS with Anchore](https://anchore.com/events/accelerate-fedramp-compliance-on-amazon-eks-with-anchore/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.80.2 released](https://anchorecommunity.discourse.group/t/grype-v0-80-2-released/142) (today)
-- [Syft - v1.13.0 released](https://anchorecommunity.discourse.group/t/syft-v1-13-0-released/141) (today)
-- [Supported wildcards for allowlist entries](https://anchorecommunity.discourse.group/t/supported-wildcards-for-allowlist-entries/140) (1 day ago)
-- [September 19 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-19-open-source-gardening-live-stream/139) (5 days ago)
+- [Grype - v0.80.2 released](https://anchorecommunity.discourse.group/t/grype-v0-80-2-released/142) (1 day ago)
+- [Syft - v1.13.0 released](https://anchorecommunity.discourse.group/t/syft-v1-13-0-released/141) (1 day ago)
+- [Supported wildcards for allowlist entries](https://anchorecommunity.discourse.group/t/supported-wildcards-for-allowlist-entries/140) (2 days ago)
+- [September 19 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-19-open-source-gardening-live-stream/139) (6 days ago)
 - [Revisiting ownership-by-file-overlap relationships](https://anchorecommunity.discourse.group/t/revisiting-ownership-by-file-overlap-relationships/137) (1 week ago)
