@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [September 26 | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/september-26-community-meeting-zoom-call/147) (today)
 - [Grype - v0.81.0 released](https://anchorecommunity.discourse.group/t/grype-v0-81-0-released/146) (1 day ago)
 - [Does syft has internal exclusions?](https://anchorecommunity.discourse.group/t/does-syft-has-internal-exclusions/144) (1 day ago)
 - [Grype - v0.80.2 released](https://anchorecommunity.discourse.group/t/grype-v0-80-2-released/142) (2 days ago)
 - [Syft - v1.13.0 released](https://anchorecommunity.discourse.group/t/syft-v1-13-0-released/141) (2 days ago)
-- [Supported wildcards for allowlist entries](https://anchorecommunity.discourse.group/t/supported-wildcards-for-allowlist-entries/140) (3 days ago)
