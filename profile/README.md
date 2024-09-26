@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [September 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-26th-open-source-gardening-live-stream/149) (today)
 - [Strange emails from GitHub actions](https://anchorecommunity.discourse.group/t/strange-emails-from-github-actions/148) (today)
 - [September 26 | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/september-26-community-meeting-zoom-call/147) (today)
 - [Grype - v0.81.0 released](https://anchorecommunity.discourse.group/t/grype-v0-81-0-released/146) (1 day ago)
 - [Does syft has internal exclusions?](https://anchorecommunity.discourse.group/t/does-syft-has-internal-exclusions/144) (1 day ago)
-- [Grype - v0.80.2 released](https://anchorecommunity.discourse.group/t/grype-v0-80-2-released/142) (2 days ago)
