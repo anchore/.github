@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Introducing the Anchore Data Service](https://anchore.com/webinars/introducing-the-anchore-data-service/) (today)
-- [Mark Your Calendars: Anchore’s Must-Attend Events and Webinars in October](https://anchore.com/blog/anchore-october-2024-events/) (today)
-- [We migrated from S3 to R2. Thankfully nobody noticed](https://anchore.com/blog/we-migrated-from-s3-to-r2-thankfully-nobody-noticed/) (2 days ago)
-- [US Navy achieves ATO in days with continuous compliance &amp; OSS risk management](https://anchore.com/case-studies/us-navy-achieves-ato-in-days-with-continuous-compliance-oss-risk-management/) (3 days ago)
+- [Introducing the Anchore Data Service](https://anchore.com/webinars/introducing-the-anchore-data-service/) (1 day ago)
+- [Mark Your Calendars: Anchore’s Must-Attend Events and Webinars in October](https://anchore.com/blog/anchore-october-2024-events/) (1 day ago)
+- [We migrated from S3 to R2. Thankfully nobody noticed](https://anchore.com/blog/we-migrated-from-s3-to-r2-thankfully-nobody-noticed/) (3 days ago)
+- [US Navy achieves ATO in days with continuous compliance &amp; OSS risk management](https://anchore.com/case-studies/us-navy-achieves-ato-in-days-with-continuous-compliance-oss-risk-management/) (4 days ago)
 - [Expert Series: Solving Real-World Challenges in FedRAMP Compliance](https://anchore.com/webinars/expert-series-solving-real-world-challenges-in-fedramp-compliance/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [September 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-26th-open-source-gardening-live-stream/149) (today)
-- [Strange emails from GitHub actions](https://anchorecommunity.discourse.group/t/strange-emails-from-github-actions/148) (today)
-- [September 26 | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/september-26-community-meeting-zoom-call/147) (today)
-- [Grype - v0.81.0 released](https://anchorecommunity.discourse.group/t/grype-v0-81-0-released/146) (1 day ago)
-- [Does syft has internal exclusions?](https://anchorecommunity.discourse.group/t/does-syft-has-internal-exclusions/144) (1 day ago)
+- [September 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-26th-open-source-gardening-live-stream/149) (1 day ago)
+- [Strange emails from GitHub actions](https://anchorecommunity.discourse.group/t/strange-emails-from-github-actions/148) (1 day ago)
+- [September 26 | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/september-26-community-meeting-zoom-call/147) (1 day ago)
+- [Grype - v0.81.0 released](https://anchorecommunity.discourse.group/t/grype-v0-81-0-released/146) (2 days ago)
+- [Does syft has internal exclusions?](https://anchorecommunity.discourse.group/t/does-syft-has-internal-exclusions/144) (2 days ago)
