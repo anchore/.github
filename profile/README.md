@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Introducing the Anchore Data Service](https://anchore.com/webinars/introducing-the-anchore-data-service/) (1 day ago)
-- [Mark Your Calendars: Anchore’s Must-Attend Events and Webinars in October](https://anchore.com/blog/anchore-october-2024-events/) (1 day ago)
-- [We migrated from S3 to R2. Thankfully nobody noticed](https://anchore.com/blog/we-migrated-from-s3-to-r2-thankfully-nobody-noticed/) (3 days ago)
-- [US Navy achieves ATO in days with continuous compliance &amp; OSS risk management](https://anchore.com/case-studies/us-navy-achieves-ato-in-days-with-continuous-compliance-oss-risk-management/) (4 days ago)
+- [Introducing the Anchore Data Service](https://anchore.com/webinars/introducing-the-anchore-data-service/) (2 days ago)
+- [Mark Your Calendars: Anchore’s Must-Attend Events and Webinars in October](https://anchore.com/blog/anchore-october-2024-events/) (2 days ago)
+- [We migrated from S3 to R2. Thankfully nobody noticed](https://anchore.com/blog/we-migrated-from-s3-to-r2-thankfully-nobody-noticed/) (4 days ago)
+- [US Navy achieves ATO in days with continuous compliance &amp; OSS risk management](https://anchore.com/case-studies/us-navy-achieves-ato-in-days-with-continuous-compliance-oss-risk-management/) (5 days ago)
 - [Expert Series: Solving Real-World Challenges in FedRAMP Compliance](https://anchore.com/webinars/expert-series-solving-real-world-challenges-in-fedramp-compliance/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [How to choose the right binary snippet when adding/improving binary classifier?](https://anchorecommunity.discourse.group/t/how-to-choose-the-right-binary-snippet-when-adding-improving-binary-classifier/150) (today)
-- [September 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-26th-open-source-gardening-live-stream/149) (1 day ago)
-- [Strange emails from GitHub actions](https://anchorecommunity.discourse.group/t/strange-emails-from-github-actions/148) (1 day ago)
-- [September 26 | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/september-26-community-meeting-zoom-call/147) (1 day ago)
-- [Grype - v0.81.0 released](https://anchorecommunity.discourse.group/t/grype-v0-81-0-released/146) (2 days ago)
+- [How to choose the right binary snippet when adding/improving binary classifier?](https://anchorecommunity.discourse.group/t/how-to-choose-the-right-binary-snippet-when-adding-improving-binary-classifier/150) (1 day ago)
+- [September 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-26th-open-source-gardening-live-stream/149) (2 days ago)
+- [Strange emails from GitHub actions](https://anchorecommunity.discourse.group/t/strange-emails-from-github-actions/148) (2 days ago)
+- [September 26 | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/september-26-community-meeting-zoom-call/147) (2 days ago)
+- [Grype - v0.81.0 released](https://anchorecommunity.discourse.group/t/grype-v0-81-0-released/146) (3 days ago)
