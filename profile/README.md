@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Syft own format, how to distinguish dependency vs devDependency for npm?](https://anchorecommunity.discourse.group/t/syft-own-format-how-to-distinguish-dependency-vs-devdependency-for-npm/151) (today)
 - [How to choose the right binary snippet when adding/improving binary classifier?](https://anchorecommunity.discourse.group/t/how-to-choose-the-right-binary-snippet-when-adding-improving-binary-classifier/150) (2 days ago)
 - [September 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-26th-open-source-gardening-live-stream/149) (3 days ago)
 - [Strange emails from GitHub actions](https://anchorecommunity.discourse.group/t/strange-emails-from-github-actions/148) (3 days ago)
 - [September 26 | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/september-26-community-meeting-zoom-call/147) (3 days ago)
-- [Grype - v0.81.0 released](https://anchorecommunity.discourse.group/t/grype-v0-81-0-released/146) (4 days ago)
