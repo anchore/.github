@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Introducing the Anchore Data Service](https://anchore.com/webinars/introducing-the-anchore-data-service/) (4 days ago)
-- [Mark Your Calendars: Anchore’s Must-Attend Events and Webinars in October](https://anchore.com/blog/anchore-october-2024-events/) (4 days ago)
-- [We migrated from S3 to R2. Thankfully nobody noticed](https://anchore.com/blog/we-migrated-from-s3-to-r2-thankfully-nobody-noticed/) (6 days ago)
+- [Introducing the Anchore Data Service](https://anchore.com/webinars/introducing-the-anchore-data-service/) (5 days ago)
+- [Mark Your Calendars: Anchore’s Must-Attend Events and Webinars in October](https://anchore.com/blog/anchore-october-2024-events/) (5 days ago)
+- [We migrated from S3 to R2. Thankfully nobody noticed](https://anchore.com/blog/we-migrated-from-s3-to-r2-thankfully-nobody-noticed/) (1 week ago)
 - [US Navy achieves ATO in days with continuous compliance &amp; OSS risk management](https://anchore.com/case-studies/us-navy-achieves-ato-in-days-with-continuous-compliance-oss-risk-management/) (1 week ago)
 - [Expert Series: Solving Real-World Challenges in FedRAMP Compliance](https://anchore.com/webinars/expert-series-solving-real-world-challenges-in-fedramp-compliance/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Syft own format, how to distinguish dependency vs devDependency for npm?](https://anchorecommunity.discourse.group/t/syft-own-format-how-to-distinguish-dependency-vs-devdependency-for-npm/151) (1 day ago)
-- [How to choose the right binary snippet when adding/improving binary classifier?](https://anchorecommunity.discourse.group/t/how-to-choose-the-right-binary-snippet-when-adding-improving-binary-classifier/150) (3 days ago)
-- [September 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-26th-open-source-gardening-live-stream/149) (4 days ago)
-- [Strange emails from GitHub actions](https://anchorecommunity.discourse.group/t/strange-emails-from-github-actions/148) (4 days ago)
-- [September 26 | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/september-26-community-meeting-zoom-call/147) (4 days ago)
+- [Syft own format, how to distinguish dependency vs devDependency for npm?](https://anchorecommunity.discourse.group/t/syft-own-format-how-to-distinguish-dependency-vs-devdependency-for-npm/151) (2 days ago)
+- [How to choose the right binary snippet when adding/improving binary classifier?](https://anchorecommunity.discourse.group/t/how-to-choose-the-right-binary-snippet-when-adding-improving-binary-classifier/150) (4 days ago)
+- [September 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-26th-open-source-gardening-live-stream/149) (5 days ago)
+- [Strange emails from GitHub actions](https://anchorecommunity.discourse.group/t/strange-emails-from-github-actions/148) (5 days ago)
+- [September 26 | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/september-26-community-meeting-zoom-call/147) (5 days ago)
