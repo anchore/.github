@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [US Navy achieves ATO in days with continuous compliance and OSS risk management](https://anchore.com/blog/us-navy-black-pearl-dod-software-factory-with-anchore/) (2 days ago)
+- [US Navy achieves ATO in days with continuous compliance and OSS risk management](https://anchore.com/blog/us-navy-black-pearl-dod-software-factory-with-anchore/) (3 days ago)
 - [Introducing the Anchore Data Service](https://anchore.com/webinars/introducing-the-anchore-data-service/) (1 week ago)
 - [Mark Your Calendars: Anchore’s Must-Attend Events and Webinars in October](https://anchore.com/blog/anchore-october-2024-events/) (1 week ago)
 - [We migrated from S3 to R2. Thankfully nobody noticed](https://anchore.com/blog/we-migrated-from-s3-to-r2-thankfully-nobody-noticed/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grant - v0.2.2 released](https://anchorecommunity.discourse.group/t/grant-v0-2-2-released/158) (today)
-- [Seeing a real weird issue with github actions for scan-action](https://anchorecommunity.discourse.group/t/seeing-a-real-weird-issue-with-github-actions-for-scan-action/156) (1 day ago)
-- [Syft own format, how to distinguish dependency vs devDependency for npm?](https://anchorecommunity.discourse.group/t/syft-own-format-how-to-distinguish-dependency-vs-devdependency-for-npm/151) (4 days ago)
-- [How to choose the right binary snippet when adding/improving binary classifier?](https://anchorecommunity.discourse.group/t/how-to-choose-the-right-binary-snippet-when-adding-improving-binary-classifier/150) (6 days ago)
+- [Grant - v0.2.2 released](https://anchorecommunity.discourse.group/t/grant-v0-2-2-released/158) (1 day ago)
+- [Seeing a real weird issue with github actions for scan-action](https://anchorecommunity.discourse.group/t/seeing-a-real-weird-issue-with-github-actions-for-scan-action/156) (2 days ago)
+- [Syft own format, how to distinguish dependency vs devDependency for npm?](https://anchorecommunity.discourse.group/t/syft-own-format-how-to-distinguish-dependency-vs-devdependency-for-npm/151) (5 days ago)
+- [How to choose the right binary snippet when adding/improving binary classifier?](https://anchorecommunity.discourse.group/t/how-to-choose-the-right-binary-snippet-when-adding-improving-binary-classifier/150) (1 week ago)
 - [September 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-26th-open-source-gardening-live-stream/149) (1 week ago)
