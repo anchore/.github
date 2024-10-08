@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Shift Security Left with Anchore Enterprise](https://anchore.com/solution-guide/shift-security-left-with-anchore-enterprise/) (3 days ago)
-- [US Navy achieves ATO in days with continuous compliance and OSS risk management](https://anchore.com/blog/us-navy-black-pearl-dod-software-factory-with-anchore/) (6 days ago)
+- [Shift Security Left with Anchore Enterprise](https://anchore.com/solution-guide/shift-security-left-with-anchore-enterprise/) (4 days ago)
+- [US Navy achieves ATO in days with continuous compliance and OSS risk management](https://anchore.com/blog/us-navy-black-pearl-dod-software-factory-with-anchore/) (1 week ago)
 - [Introducing the Anchore Data Service](https://anchore.com/webinars/introducing-the-anchore-data-service/) (1 week ago)
 - [Mark Your Calendars: Anchore’s Must-Attend Events and Webinars in October](https://anchore.com/blog/anchore-october-2024-events/) (1 week ago)
-- [We migrated from S3 to R2. Thankfully nobody noticed](https://anchore.com/blog/we-migrated-from-s3-to-r2-thankfully-nobody-noticed/) (1 week ago)
+- [We migrated from S3 to R2. Thankfully nobody noticed](https://anchore.com/blog/we-migrated-from-s3-to-r2-thankfully-nobody-noticed/) (2 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.82.0 released](https://anchorecommunity.discourse.group/t/grype-v0-82-0-released/166) (today)
-- [Grype is getting more fix info soon](https://anchorecommunity.discourse.group/t/grype-is-getting-more-fix-info-soon/165) (today)
-- [Syft - v1.14.0 released](https://anchorecommunity.discourse.group/t/syft-v1-14-0-released/164) (today)
-- [Grant - v0.2.2 released](https://anchorecommunity.discourse.group/t/grant-v0-2-2-released/158) (4 days ago)
-- [Seeing a real weird issue with github actions for scan-action](https://anchorecommunity.discourse.group/t/seeing-a-real-weird-issue-with-github-actions-for-scan-action/156) (5 days ago)
+- [Grype - v0.82.0 released](https://anchorecommunity.discourse.group/t/grype-v0-82-0-released/166) (1 day ago)
+- [Grype is getting more fix info soon](https://anchorecommunity.discourse.group/t/grype-is-getting-more-fix-info-soon/165) (1 day ago)
+- [Syft - v1.14.0 released](https://anchorecommunity.discourse.group/t/syft-v1-14-0-released/164) (1 day ago)
+- [Grant - v0.2.2 released](https://anchorecommunity.discourse.group/t/grant-v0-2-2-released/158) (5 days ago)
+- [Seeing a real weird issue with github actions for scan-action](https://anchorecommunity.discourse.group/t/seeing-a-real-weird-issue-with-github-actions-for-scan-action/156) (6 days ago)
