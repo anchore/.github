@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Navigating Open Source Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (1 day ago)
-- [Shift Security Left with Anchore Enterprise](https://anchore.com/solution-guide/shift-security-left-with-anchore-enterprise/) (5 days ago)
+- [Navigating Open Source Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (2 days ago)
+- [Shift Security Left with Anchore Enterprise](https://anchore.com/solution-guide/shift-security-left-with-anchore-enterprise/) (6 days ago)
 - [US Navy achieves ATO in days with continuous compliance and OSS risk management](https://anchore.com/blog/us-navy-black-pearl-dod-software-factory-with-anchore/) (1 week ago)
-- [Introducing the Anchore Data Service](https://anchore.com/webinars/introducing-the-anchore-data-service/) (1 week ago)
-- [Mark Your Calendars: Anchore’s Must-Attend Events and Webinars in October](https://anchore.com/blog/anchore-october-2024-events/) (1 week ago)
+- [Introducing the Anchore Data Service](https://anchore.com/webinars/introducing-the-anchore-data-service/) (2 weeks ago)
+- [Mark Your Calendars: Anchore’s Must-Attend Events and Webinars in October](https://anchore.com/blog/anchore-october-2024-events/) (2 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [How to specify file name if --flag is depreciated?](https://anchorecommunity.discourse.group/t/how-to-specify-file-name-if-flag-is-depreciated/169) (today)
-- [Grype - v0.82.0 released](https://anchorecommunity.discourse.group/t/grype-v0-82-0-released/166) (2 days ago)
-- [Grype is getting more fix info soon](https://anchorecommunity.discourse.group/t/grype-is-getting-more-fix-info-soon/165) (2 days ago)
-- [Syft - v1.14.0 released](https://anchorecommunity.discourse.group/t/syft-v1-14-0-released/164) (2 days ago)
-- [Grant - v0.2.2 released](https://anchorecommunity.discourse.group/t/grant-v0-2-2-released/158) (6 days ago)
+- [How to specify file name if --flag is depreciated?](https://anchorecommunity.discourse.group/t/how-to-specify-file-name-if-flag-is-depreciated/169) (1 day ago)
+- [Grype - v0.82.0 released](https://anchorecommunity.discourse.group/t/grype-v0-82-0-released/166) (3 days ago)
+- [Grype is getting more fix info soon](https://anchorecommunity.discourse.group/t/grype-is-getting-more-fix-info-soon/165) (3 days ago)
+- [Syft - v1.14.0 released](https://anchorecommunity.discourse.group/t/syft-v1-14-0-released/164) (3 days ago)
+- [Grant - v0.2.2 released](https://anchorecommunity.discourse.group/t/grant-v0-2-2-released/158) (1 week ago)
