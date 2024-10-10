@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Discussion about vulnerability fixed information](https://anchorecommunity.discourse.group/t/discussion-about-vulnerability-fixed-information/172) (today)
+- [October 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-10th-open-source-gardening-live-stream/171) (today)
+- [Grype reporting vulns for unknown versions](https://anchorecommunity.discourse.group/t/grype-reporting-vulns-for-unknown-versions/174) (today)
 - [How to specify file name if --flag is depreciated?](https://anchorecommunity.discourse.group/t/how-to-specify-file-name-if-flag-is-depreciated/169) (1 day ago)
 - [Grype - v0.82.0 released](https://anchorecommunity.discourse.group/t/grype-v0-82-0-released/166) (3 days ago)
-- [Grype is getting more fix info soon](https://anchorecommunity.discourse.group/t/grype-is-getting-more-fix-info-soon/165) (3 days ago)
-- [Syft - v1.14.0 released](https://anchorecommunity.discourse.group/t/syft-v1-14-0-released/164) (3 days ago)
-- [Grant - v0.2.2 released](https://anchorecommunity.discourse.group/t/grant-v0-2-2-released/158) (1 week ago)
