@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Navigating Open Source Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (5 days ago)
+- [Navigating Open Source Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (6 days ago)
 - [Shift Security Left with Anchore Enterprise](https://anchore.com/solution-guide/shift-security-left-with-anchore-enterprise/) (1 week ago)
 - [US Navy achieves ATO in days with continuous compliance and OSS risk management](https://anchore.com/blog/us-navy-black-pearl-dod-software-factory-with-anchore/) (1 week ago)
 - [Introducing the Anchore Data Service](https://anchore.com/webinars/introducing-the-anchore-data-service/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Discussion about vulnerability fixed information](https://anchorecommunity.discourse.group/t/discussion-about-vulnerability-fixed-information/172) (3 days ago)
-- [October 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-10th-open-source-gardening-live-stream/171) (3 days ago)
-- [Grype reporting vulns for unknown versions](https://anchorecommunity.discourse.group/t/grype-reporting-vulns-for-unknown-versions/174) (3 days ago)
-- [How to specify file name if --flag is depreciated?](https://anchorecommunity.discourse.group/t/how-to-specify-file-name-if-flag-is-depreciated/169) (4 days ago)
-- [Grype - v0.82.0 released](https://anchorecommunity.discourse.group/t/grype-v0-82-0-released/166) (6 days ago)
+- [Discussion about vulnerability fixed information](https://anchorecommunity.discourse.group/t/discussion-about-vulnerability-fixed-information/172) (4 days ago)
+- [October 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-10th-open-source-gardening-live-stream/171) (4 days ago)
+- [Grype reporting vulns for unknown versions](https://anchorecommunity.discourse.group/t/grype-reporting-vulns-for-unknown-versions/174) (4 days ago)
+- [How to specify file name if --flag is depreciated?](https://anchorecommunity.discourse.group/t/how-to-specify-file-name-if-flag-is-depreciated/169) (5 days ago)
+- [Grype - v0.82.0 released](https://anchorecommunity.discourse.group/t/grype-v0-82-0-released/166) (1 week ago)
