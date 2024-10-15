@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Stereoscope - v0.0.4 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-4-released/181) (today)
+- [Grype - v0.82.1 released](https://anchorecommunity.discourse.group/t/grype-v0-82-1-released/180) (today)
+- [Syft - v1.14.1 released](https://anchorecommunity.discourse.group/t/syft-v1-14-1-released/179) (today)
 - [GitHub Action failing with SARIF upload](https://anchorecommunity.discourse.group/t/github-action-failing-with-sarif-upload/178) (today)
 - [Discussion about vulnerability fixed information](https://anchorecommunity.discourse.group/t/discussion-about-vulnerability-fixed-information/172) (5 days ago)
-- [October 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-10th-open-source-gardening-live-stream/171) (5 days ago)
-- [Grype reporting vulns for unknown versions](https://anchorecommunity.discourse.group/t/grype-reporting-vulns-for-unknown-versions/174) (5 days ago)
-- [How to specify file name if --flag is depreciated?](https://anchorecommunity.discourse.group/t/how-to-specify-file-name-if-flag-is-depreciated/169) (6 days ago)
