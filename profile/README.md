@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (today)
 - [Navigating Open Source Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (1 week ago)
 - [Shift Security Left with Anchore Enterprise](https://anchore.com/solution-guide/shift-security-left-with-anchore-enterprise/) (1 week ago)
 - [US Navy achieves ATO in days with continuous compliance and OSS risk management](https://anchore.com/blog/us-navy-black-pearl-dod-software-factory-with-anchore/) (2 weeks ago)
 - [Introducing the Anchore Data Service](https://anchore.com/webinars/introducing-the-anchore-data-service/) (2 weeks ago)
-- [Mark Your Calendars: Anchore’s Must-Attend Events and Webinars in October](https://anchore.com/blog/anchore-october-2024-events/) (2 weeks ago)
 
 ### Community
 
