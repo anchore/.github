@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Anchore Data Service Webinar](https://anchorecommunity.discourse.group/t/anchore-data-service-webinar/182) (today)
 - [Stereoscope - v0.0.4 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-4-released/181) (1 day ago)
 - [Grype - v0.82.1 released](https://anchorecommunity.discourse.group/t/grype-v0-82-1-released/180) (1 day ago)
 - [Syft - v1.14.1 released](https://anchorecommunity.discourse.group/t/syft-v1-14-1-released/179) (1 day ago)
 - [GitHub Action failing with SARIF upload](https://anchorecommunity.discourse.group/t/github-action-failing-with-sarif-upload/178) (1 day ago)
-- [Discussion about vulnerability fixed information](https://anchorecommunity.discourse.group/t/discussion-about-vulnerability-fixed-information/172) (6 days ago)
