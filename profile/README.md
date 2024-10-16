@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (today)
-- [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (today)
+- [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (1 day ago)
+- [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (1 day ago)
 - [Navigating Open Source Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (1 week ago)
 - [Shift Security Left with Anchore Enterprise](https://anchore.com/solution-guide/shift-security-left-with-anchore-enterprise/) (1 week ago)
 - [US Navy achieves ATO in days with continuous compliance and OSS risk management](https://anchore.com/blog/us-navy-black-pearl-dod-software-factory-with-anchore/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Stereoscope - v0.0.4 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-4-released/181) (today)
-- [Grype - v0.82.1 released](https://anchorecommunity.discourse.group/t/grype-v0-82-1-released/180) (today)
-- [Syft - v1.14.1 released](https://anchorecommunity.discourse.group/t/syft-v1-14-1-released/179) (today)
-- [GitHub Action failing with SARIF upload](https://anchorecommunity.discourse.group/t/github-action-failing-with-sarif-upload/178) (today)
-- [Discussion about vulnerability fixed information](https://anchorecommunity.discourse.group/t/discussion-about-vulnerability-fixed-information/172) (5 days ago)
+- [Stereoscope - v0.0.4 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-4-released/181) (1 day ago)
+- [Grype - v0.82.1 released](https://anchorecommunity.discourse.group/t/grype-v0-82-1-released/180) (1 day ago)
+- [Syft - v1.14.1 released](https://anchorecommunity.discourse.group/t/syft-v1-14-1-released/179) (1 day ago)
+- [GitHub Action failing with SARIF upload](https://anchorecommunity.discourse.group/t/github-action-failing-with-sarif-upload/178) (1 day ago)
+- [Discussion about vulnerability fixed information](https://anchorecommunity.discourse.group/t/discussion-about-vulnerability-fixed-information/172) (6 days ago)
