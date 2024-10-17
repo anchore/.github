@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (1 day ago)
-- [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (1 day ago)
+- [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (2 days ago)
+- [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (2 days ago)
 - [Navigating Open Source Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (1 week ago)
 - [Shift Security Left with Anchore Enterprise](https://anchore.com/solution-guide/shift-security-left-with-anchore-enterprise/) (1 week ago)
 - [US Navy achieves ATO in days with continuous compliance and OSS risk management](https://anchore.com/blog/us-navy-black-pearl-dod-software-factory-with-anchore/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Configuring Grype to use only NVD as a source](https://anchorecommunity.discourse.group/t/configuring-grype-to-use-only-nvd-as-a-source/184) (today)
-- [Anchore Data Service Webinar](https://anchorecommunity.discourse.group/t/anchore-data-service-webinar/182) (today)
-- [Stereoscope - v0.0.4 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-4-released/181) (1 day ago)
-- [Grype - v0.82.1 released](https://anchorecommunity.discourse.group/t/grype-v0-82-1-released/180) (1 day ago)
-- [Syft - v1.14.1 released](https://anchorecommunity.discourse.group/t/syft-v1-14-1-released/179) (1 day ago)
+- [Configuring Grype to use only NVD as a source](https://anchorecommunity.discourse.group/t/configuring-grype-to-use-only-nvd-as-a-source/184) (1 day ago)
+- [Anchore Data Service Webinar](https://anchorecommunity.discourse.group/t/anchore-data-service-webinar/182) (1 day ago)
+- [Stereoscope - v0.0.4 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-4-released/181) (2 days ago)
+- [Grype - v0.82.1 released](https://anchorecommunity.discourse.group/t/grype-v0-82-1-released/180) (2 days ago)
+- [Syft - v1.14.1 released](https://anchorecommunity.discourse.group/t/syft-v1-14-1-released/179) (2 days ago)
