@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Blog: Preparing for a critical vulnerability](https://anchorecommunity.discourse.group/t/blog-preparing-for-a-critical-vulnerability/188) (today)
 - [October 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-17th-open-source-gardening-live-stream/187) (4 days ago)
 - [How to act on go-module vulnerabilities?](https://anchorecommunity.discourse.group/t/how-to-act-on-go-module-vulnerabilities/186) (4 days ago)
 - [Configuring Grype to use only NVD as a source](https://anchorecommunity.discourse.group/t/configuring-grype-to-use-only-nvd-as-a-source/184) (5 days ago)
 - [Anchore Data Service Webinar](https://anchorecommunity.discourse.group/t/anchore-data-service-webinar/182) (5 days ago)
-- [Stereoscope - v0.0.4 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-4-released/181) (6 days ago)
