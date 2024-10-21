@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (3 days ago)
-- [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (5 days ago)
-- [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (5 days ago)
+- [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (4 days ago)
+- [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (6 days ago)
+- [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (6 days ago)
 - [Navigating Open Source Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (1 week ago)
 - [Shift Security Left with Anchore Enterprise](https://anchore.com/solution-guide/shift-security-left-with-anchore-enterprise/) (2 weeks ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [October 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-17th-open-source-gardening-live-stream/187) (3 days ago)
-- [How to act on go-module vulnerabilities?](https://anchorecommunity.discourse.group/t/how-to-act-on-go-module-vulnerabilities/186) (3 days ago)
-- [Configuring Grype to use only NVD as a source](https://anchorecommunity.discourse.group/t/configuring-grype-to-use-only-nvd-as-a-source/184) (4 days ago)
-- [Anchore Data Service Webinar](https://anchorecommunity.discourse.group/t/anchore-data-service-webinar/182) (4 days ago)
-- [Stereoscope - v0.0.4 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-4-released/181) (5 days ago)
+- [October 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-17th-open-source-gardening-live-stream/187) (4 days ago)
+- [How to act on go-module vulnerabilities?](https://anchorecommunity.discourse.group/t/how-to-act-on-go-module-vulnerabilities/186) (4 days ago)
+- [Configuring Grype to use only NVD as a source](https://anchorecommunity.discourse.group/t/configuring-grype-to-use-only-nvd-as-a-source/184) (5 days ago)
+- [Anchore Data Service Webinar](https://anchorecommunity.discourse.group/t/anchore-data-service-webinar/182) (5 days ago)
+- [Stereoscope - v0.0.4 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-4-released/181) (6 days ago)
