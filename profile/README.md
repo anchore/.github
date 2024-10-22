@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (4 days ago)
-- [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (6 days ago)
-- [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (6 days ago)
-- [Navigating Open Source Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (1 week ago)
+- [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (5 days ago)
+- [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (1 week ago)
+- [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (1 week ago)
+- [Navigating Open Source Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (2 weeks ago)
 - [Shift Security Left with Anchore Enterprise](https://anchore.com/solution-guide/shift-security-left-with-anchore-enterprise/) (2 weeks ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.82.2 released](https://anchorecommunity.discourse.group/t/grype-v0-82-2-released/190) (today)
-- [Syft - v1.14.2 released](https://anchorecommunity.discourse.group/t/syft-v1-14-2-released/189) (today)
-- [Blog: Preparing for a critical vulnerability](https://anchorecommunity.discourse.group/t/blog-preparing-for-a-critical-vulnerability/188) (today)
-- [October 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-17th-open-source-gardening-live-stream/187) (4 days ago)
-- [How to act on go-module vulnerabilities?](https://anchorecommunity.discourse.group/t/how-to-act-on-go-module-vulnerabilities/186) (4 days ago)
+- [Grype - v0.82.2 released](https://anchorecommunity.discourse.group/t/grype-v0-82-2-released/190) (1 day ago)
+- [Syft - v1.14.2 released](https://anchorecommunity.discourse.group/t/syft-v1-14-2-released/189) (1 day ago)
+- [Blog: Preparing for a critical vulnerability](https://anchorecommunity.discourse.group/t/blog-preparing-for-a-critical-vulnerability/188) (1 day ago)
+- [October 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-17th-open-source-gardening-live-stream/187) (5 days ago)
+- [How to act on go-module vulnerabilities?](https://anchorecommunity.discourse.group/t/how-to-act-on-go-module-vulnerabilities/186) (5 days ago)
