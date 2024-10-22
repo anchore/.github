@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Help needed with &#34;interesting&#34; commands](https://anchorecommunity.discourse.group/t/help-needed-with-interesting-commands/191) (today)
 - [Grype - v0.82.2 released](https://anchorecommunity.discourse.group/t/grype-v0-82-2-released/190) (1 day ago)
 - [Syft - v1.14.2 released](https://anchorecommunity.discourse.group/t/syft-v1-14-2-released/189) (1 day ago)
 - [Blog: Preparing for a critical vulnerability](https://anchorecommunity.discourse.group/t/blog-preparing-for-a-critical-vulnerability/188) (1 day ago)
 - [October 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-17th-open-source-gardening-live-stream/187) (5 days ago)
-- [How to act on go-module vulnerabilities?](https://anchorecommunity.discourse.group/t/how-to-act-on-go-module-vulnerabilities/186) (5 days ago)
