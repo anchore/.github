@@ -22,7 +22,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 - [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (6 days ago)
 - [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (1 week ago)
 - [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (1 week ago)
-- [Navigating Open Source Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (2 weeks ago)
+- [Navigating Open Source Software Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (2 weeks ago)
 
 ### Community
 
