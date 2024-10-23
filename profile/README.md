@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (today)
-- [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (5 days ago)
+- [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (1 day ago)
+- [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (6 days ago)
 - [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (1 week ago)
 - [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (1 week ago)
 - [Navigating Open Source Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Help needed with &#34;interesting&#34; commands](https://anchorecommunity.discourse.group/t/help-needed-with-interesting-commands/191) (today)
-- [Grype - v0.82.2 released](https://anchorecommunity.discourse.group/t/grype-v0-82-2-released/190) (1 day ago)
-- [Syft - v1.14.2 released](https://anchorecommunity.discourse.group/t/syft-v1-14-2-released/189) (1 day ago)
-- [Blog: Preparing for a critical vulnerability](https://anchorecommunity.discourse.group/t/blog-preparing-for-a-critical-vulnerability/188) (1 day ago)
-- [October 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-17th-open-source-gardening-live-stream/187) (5 days ago)
+- [Help needed with &#34;interesting&#34; commands](https://anchorecommunity.discourse.group/t/help-needed-with-interesting-commands/191) (1 day ago)
+- [Grype - v0.82.2 released](https://anchorecommunity.discourse.group/t/grype-v0-82-2-released/190) (2 days ago)
+- [Syft - v1.14.2 released](https://anchorecommunity.discourse.group/t/syft-v1-14-2-released/189) (2 days ago)
+- [Blog: Preparing for a critical vulnerability](https://anchorecommunity.discourse.group/t/blog-preparing-for-a-critical-vulnerability/188) (2 days ago)
+- [October 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-17th-open-source-gardening-live-stream/187) (6 days ago)
