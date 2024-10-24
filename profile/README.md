@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [PSA: No gardening livestream this week](https://anchorecommunity.discourse.group/t/psa-no-gardening-livestream-this-week/196) (today)
 - [We&#39;re going to All Things Open!](https://anchorecommunity.discourse.group/t/were-going-to-all-things-open/195) (today)
 - [Grype is showing all critical vulnerabilities even in latest gitlab-ce 17.5.0 docker image are not fixed :(](https://anchorecommunity.discourse.group/t/grype-is-showing-all-critical-vulnerabilities-even-in-latest-gitlab-ce-17-5-0-docker-image-are-not-fixed/194) (today)
 - [Grype-db - v0.26.0 released](https://anchorecommunity.discourse.group/t/grype-db-v0-26-0-released/192) (1 day ago)
 - [Help needed with &#34;interesting&#34; commands](https://anchorecommunity.discourse.group/t/help-needed-with-interesting-commands/191) (2 days ago)
-- [Grype - v0.82.2 released](https://anchorecommunity.discourse.group/t/grype-v0-82-2-released/190) (3 days ago)
