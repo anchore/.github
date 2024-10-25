@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (2 days ago)
+- [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (3 days ago)
 - [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (1 week ago)
 - [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (1 week ago)
 - [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [PSA: No gardening livestream this week](https://anchorecommunity.discourse.group/t/psa-no-gardening-livestream-this-week/196) (today)
-- [We&#39;re going to All Things Open!](https://anchorecommunity.discourse.group/t/were-going-to-all-things-open/195) (today)
-- [Grype is showing all critical vulnerabilities even in latest gitlab-ce 17.5.0 docker image are not fixed :(](https://anchorecommunity.discourse.group/t/grype-is-showing-all-critical-vulnerabilities-even-in-latest-gitlab-ce-17-5-0-docker-image-are-not-fixed/194) (today)
-- [Grype-db - v0.26.0 released](https://anchorecommunity.discourse.group/t/grype-db-v0-26-0-released/192) (1 day ago)
-- [Help needed with &#34;interesting&#34; commands](https://anchorecommunity.discourse.group/t/help-needed-with-interesting-commands/191) (2 days ago)
+- [PSA: No gardening livestream this week](https://anchorecommunity.discourse.group/t/psa-no-gardening-livestream-this-week/196) (1 day ago)
+- [We&#39;re going to All Things Open!](https://anchorecommunity.discourse.group/t/were-going-to-all-things-open/195) (1 day ago)
+- [Grype is showing all critical vulnerabilities even in latest gitlab-ce 17.5.0 docker image are not fixed :(](https://anchorecommunity.discourse.group/t/grype-is-showing-all-critical-vulnerabilities-even-in-latest-gitlab-ce-17-5-0-docker-image-are-not-fixed/194) (1 day ago)
+- [Grype-db - v0.26.0 released](https://anchorecommunity.discourse.group/t/grype-db-v0-26-0-released/192) (2 days ago)
+- [Help needed with &#34;interesting&#34; commands](https://anchorecommunity.discourse.group/t/help-needed-with-interesting-commands/191) (3 days ago)
