@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (today)
 - [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (1 week ago)
 - [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (1 week ago)
 - [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (2 weeks ago)
 - [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (2 weeks ago)
-- [Navigating Open Source Software Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (3 weeks ago)
 
 ### Community
 
