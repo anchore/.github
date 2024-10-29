@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (6 days ago)
+- [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (1 week ago)
 - [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (1 week ago)
-- [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (1 week ago)
-- [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (1 week ago)
-- [Navigating Open Source Software Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (2 weeks ago)
+- [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (2 weeks ago)
+- [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (2 weeks ago)
+- [Navigating Open Source Software Compliance in Regulated Industries](https://anchore.com/blog/navigating-open-source-compliance-in-regulated-industries/) (3 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Syft process getting hung](https://anchorecommunity.discourse.group/t/syft-process-getting-hung/197) (3 days ago)
-- [PSA: No gardening livestream this week](https://anchorecommunity.discourse.group/t/psa-no-gardening-livestream-this-week/196) (4 days ago)
-- [We&#39;re going to All Things Open!](https://anchorecommunity.discourse.group/t/were-going-to-all-things-open/195) (4 days ago)
-- [Grype is showing all critical vulnerabilities even in latest gitlab-ce 17.5.0 docker image are not fixed :(](https://anchorecommunity.discourse.group/t/grype-is-showing-all-critical-vulnerabilities-even-in-latest-gitlab-ce-17-5-0-docker-image-are-not-fixed/194) (4 days ago)
-- [Grype-db - v0.26.0 released](https://anchorecommunity.discourse.group/t/grype-db-v0-26-0-released/192) (5 days ago)
+- [Syft process getting hung](https://anchorecommunity.discourse.group/t/syft-process-getting-hung/197) (4 days ago)
+- [PSA: No gardening livestream this week](https://anchorecommunity.discourse.group/t/psa-no-gardening-livestream-this-week/196) (5 days ago)
+- [We&#39;re going to All Things Open!](https://anchorecommunity.discourse.group/t/were-going-to-all-things-open/195) (5 days ago)
+- [Grype is showing all critical vulnerabilities even in latest gitlab-ce 17.5.0 docker image are not fixed :(](https://anchorecommunity.discourse.group/t/grype-is-showing-all-critical-vulnerabilities-even-in-latest-gitlab-ce-17-5-0-docker-image-are-not-fixed/194) (5 days ago)
+- [Grype-db - v0.26.0 released](https://anchorecommunity.discourse.group/t/grype-db-v0-26-0-released/192) (6 days ago)
