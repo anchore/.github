@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Missing CVEs in Grype Vulnerability Table](https://anchorecommunity.discourse.group/t/missing-cves-in-grype-vulnerability-table/202) (today)
 - [How should we represent dependencies in release notes?](https://anchorecommunity.discourse.group/t/how-should-we-represent-dependencies-in-release-notes/200) (1 day ago)
 - [Syft process getting hung](https://anchorecommunity.discourse.group/t/syft-process-getting-hung/197) (5 days ago)
 - [PSA: No gardening livestream this week](https://anchorecommunity.discourse.group/t/psa-no-gardening-livestream-this-week/196) (6 days ago)
 - [We&#39;re going to All Things Open!](https://anchorecommunity.discourse.group/t/were-going-to-all-things-open/195) (6 days ago)
-- [Grype is showing all critical vulnerabilities even in latest gitlab-ce 17.5.0 docker image are not fixed :(](https://anchorecommunity.discourse.group/t/grype-is-showing-all-critical-vulnerabilities-even-in-latest-gitlab-ce-17-5-0-docker-image-are-not-fixed/194) (6 days ago)
