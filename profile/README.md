@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (today)
+- [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (1 day ago)
 - [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (1 week ago)
 - [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (1 week ago)
 - [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [How should we represent dependencies in release notes?](https://anchorecommunity.discourse.group/t/how-should-we-represent-dependencies-in-release-notes/200) (today)
-- [Syft process getting hung](https://anchorecommunity.discourse.group/t/syft-process-getting-hung/197) (4 days ago)
-- [PSA: No gardening livestream this week](https://anchorecommunity.discourse.group/t/psa-no-gardening-livestream-this-week/196) (5 days ago)
-- [We&#39;re going to All Things Open!](https://anchorecommunity.discourse.group/t/were-going-to-all-things-open/195) (5 days ago)
-- [Grype is showing all critical vulnerabilities even in latest gitlab-ce 17.5.0 docker image are not fixed :(](https://anchorecommunity.discourse.group/t/grype-is-showing-all-critical-vulnerabilities-even-in-latest-gitlab-ce-17-5-0-docker-image-are-not-fixed/194) (5 days ago)
+- [How should we represent dependencies in release notes?](https://anchorecommunity.discourse.group/t/how-should-we-represent-dependencies-in-release-notes/200) (1 day ago)
+- [Syft process getting hung](https://anchorecommunity.discourse.group/t/syft-process-getting-hung/197) (5 days ago)
+- [PSA: No gardening livestream this week](https://anchorecommunity.discourse.group/t/psa-no-gardening-livestream-this-week/196) (6 days ago)
+- [We&#39;re going to All Things Open!](https://anchorecommunity.discourse.group/t/were-going-to-all-things-open/195) (6 days ago)
+- [Grype is showing all critical vulnerabilities even in latest gitlab-ce 17.5.0 docker image are not fixed :(](https://anchorecommunity.discourse.group/t/grype-is-showing-all-critical-vulnerabilities-even-in-latest-gitlab-ce-17-5-0-docker-image-are-not-fixed/194) (6 days ago)
