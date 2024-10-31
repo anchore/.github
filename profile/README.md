@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (1 day ago)
+- [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (2 days ago)
 - [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (1 week ago)
-- [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (1 week ago)
+- [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (2 weeks ago)
 - [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (2 weeks ago)
 - [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (2 weeks ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Floss Weekly Discussion with Josh Bressers](https://anchorecommunity.discourse.group/t/floss-weekly-discussion-with-josh-bressers/207) (today)
-- [Syft - v1.15.0 released](https://anchorecommunity.discourse.group/t/syft-v1-15-0-released/205) (today)
-- [Missing CVEs in Grype Vulnerability Table](https://anchorecommunity.discourse.group/t/missing-cves-in-grype-vulnerability-table/202) (today)
-- [How should we represent dependencies in release notes?](https://anchorecommunity.discourse.group/t/how-should-we-represent-dependencies-in-release-notes/200) (1 day ago)
-- [Syft process getting hung](https://anchorecommunity.discourse.group/t/syft-process-getting-hung/197) (5 days ago)
+- [Floss Weekly Discussion with Josh Bressers](https://anchorecommunity.discourse.group/t/floss-weekly-discussion-with-josh-bressers/207) (1 day ago)
+- [Syft - v1.15.0 released](https://anchorecommunity.discourse.group/t/syft-v1-15-0-released/205) (1 day ago)
+- [Missing CVEs in Grype Vulnerability Table](https://anchorecommunity.discourse.group/t/missing-cves-in-grype-vulnerability-table/202) (1 day ago)
+- [How should we represent dependencies in release notes?](https://anchorecommunity.discourse.group/t/how-should-we-represent-dependencies-in-release-notes/200) (2 days ago)
+- [Syft process getting hung](https://anchorecommunity.discourse.group/t/syft-process-getting-hung/197) (6 days ago)
