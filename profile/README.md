@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [October 31st 🎃 Open Source Gardening | Alive Stream](https://anchorecommunity.discourse.group/t/october-31st-open-source-gardening-alive-stream/209) (today)
 - [All Things Open 2024 Trip Report](https://anchorecommunity.discourse.group/t/all-things-open-2024-trip-report/208) (today)
 - [Floss Weekly Discussion with Josh Bressers](https://anchorecommunity.discourse.group/t/floss-weekly-discussion-with-josh-bressers/207) (1 day ago)
 - [Syft - v1.15.0 released](https://anchorecommunity.discourse.group/t/syft-v1-15-0-released/205) (1 day ago)
 - [Missing CVEs in Grype Vulnerability Table](https://anchorecommunity.discourse.group/t/missing-cves-in-grype-vulnerability-table/202) (1 day ago)
-- [How should we represent dependencies in release notes?](https://anchorecommunity.discourse.group/t/how-should-we-represent-dependencies-in-release-notes/200) (2 days ago)
