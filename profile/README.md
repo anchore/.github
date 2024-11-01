@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (2 days ago)
+- [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (3 days ago)
 - [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (1 week ago)
 - [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (2 weeks ago)
 - [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [October 31st 🎃 Open Source Gardening | Alive Stream](https://anchorecommunity.discourse.group/t/october-31st-open-source-gardening-alive-stream/209) (today)
-- [All Things Open 2024 Trip Report](https://anchorecommunity.discourse.group/t/all-things-open-2024-trip-report/208) (today)
-- [Floss Weekly Discussion with Josh Bressers](https://anchorecommunity.discourse.group/t/floss-weekly-discussion-with-josh-bressers/207) (1 day ago)
-- [Syft - v1.15.0 released](https://anchorecommunity.discourse.group/t/syft-v1-15-0-released/205) (1 day ago)
-- [Missing CVEs in Grype Vulnerability Table](https://anchorecommunity.discourse.group/t/missing-cves-in-grype-vulnerability-table/202) (1 day ago)
+- [October 31st 🎃 Open Source Gardening | Alive Stream](https://anchorecommunity.discourse.group/t/october-31st-open-source-gardening-alive-stream/209) (1 day ago)
+- [All Things Open 2024 Trip Report](https://anchorecommunity.discourse.group/t/all-things-open-2024-trip-report/208) (1 day ago)
+- [Floss Weekly Discussion with Josh Bressers](https://anchorecommunity.discourse.group/t/floss-weekly-discussion-with-josh-bressers/207) (2 days ago)
+- [Syft - v1.15.0 released](https://anchorecommunity.discourse.group/t/syft-v1-15-0-released/205) (2 days ago)
+- [Missing CVEs in Grype Vulnerability Table](https://anchorecommunity.discourse.group/t/missing-cves-in-grype-vulnerability-table/202) (2 days ago)
