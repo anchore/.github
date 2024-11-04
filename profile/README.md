@@ -19,10 +19,10 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 
 - [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (6 days ago)
+- [Grype Support for Azure Linux 3 released](https://anchore.com/blog/grype-support-for-azure-linux-3-released/) (1 week ago)
 - [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (1 week ago)
+- [Who watches the watchmen? Introducing yardstick validate](https://anchore.com/blog/who-watches-the-watchmen-introducing-yardstick-validate/) (1 week ago)
 - [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (2 weeks ago)
-- [STIG 101: Insights for Compliance and Cyber Readiness](https://anchore.com/webinars/stig-101-insights-for-compliance-and-cyber-readiness/) (2 weeks ago)
-- [Compliance Requirements for DISA’s Security Technical Implementation Guides (STIGs)](https://anchore.com/blog/stig-compliance-requirements/) (2 weeks ago)
 
 ### Community
 
@@ -33,4 +33,4 @@ We discuss our open source tools on <a href="https://anchore.com/discourse">Disc
 - [October 31st 🎃 Open Source Gardening | Alive Stream](https://anchorecommunity.discourse.group/t/october-31st-open-source-gardening-alive-stream/209) (4 days ago)
 - [All Things Open 2024 Trip Report](https://anchorecommunity.discourse.group/t/all-things-open-2024-trip-report/208) (4 days ago)
 - [Floss Weekly Discussion with Josh Bressers](https://anchorecommunity.discourse.group/t/floss-weekly-discussion-with-josh-bressers/207) (5 days ago)
-- [Syft - v1.15.0 released](https://anchorecommunity.discourse.group/t/syft-v1-15-0-released/205) (5 days ago)
+- [Missing CVEs in Grype Vulnerability Table](https://anchorecommunity.discourse.group/t/missing-cves-in-grype-vulnerability-table/202) (5 days ago)
