@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (6 days ago)
+- [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (1 week ago)
 - [Grype Support for Azure Linux 3 released](https://anchore.com/blog/grype-support-for-azure-linux-3-released/) (1 week ago)
-- [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (1 week ago)
-- [Who watches the watchmen? Introducing yardstick validate](https://anchore.com/blog/who-watches-the-watchmen-introducing-yardstick-validate/) (1 week ago)
+- [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (2 weeks ago)
+- [Who watches the watchmen? Introducing yardstick validate](https://anchore.com/blog/who-watches-the-watchmen-introducing-yardstick-validate/) (2 weeks ago)
 - [Preparing for a critical vulnerability](https://anchore.com/blog/preparing-for-a-critical-vulnerability/) (2 weeks ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Anchore OSS Monthly Newsletter - October 2024](https://anchorecommunity.discourse.group/t/anchore-oss-monthly-newsletter-october-2024/215) (today)
-- [Inconsistent Package Naming in Grype](https://anchorecommunity.discourse.group/t/inconsistent-package-naming-in-grype/211) (1 day ago)
-- [October 31st 🎃 Open Source Gardening | Alive Stream](https://anchorecommunity.discourse.group/t/october-31st-open-source-gardening-alive-stream/209) (4 days ago)
-- [All Things Open 2024 Trip Report](https://anchorecommunity.discourse.group/t/all-things-open-2024-trip-report/208) (4 days ago)
-- [Floss Weekly Discussion with Josh Bressers](https://anchorecommunity.discourse.group/t/floss-weekly-discussion-with-josh-bressers/207) (5 days ago)
+- [Anchore OSS Monthly Newsletter - October 2024](https://anchorecommunity.discourse.group/t/anchore-oss-monthly-newsletter-october-2024/215) (1 day ago)
+- [Inconsistent Package Naming in Grype](https://anchorecommunity.discourse.group/t/inconsistent-package-naming-in-grype/211) (2 days ago)
+- [October 31st 🎃 Open Source Gardening | Alive Stream](https://anchorecommunity.discourse.group/t/october-31st-open-source-gardening-alive-stream/209) (5 days ago)
+- [All Things Open 2024 Trip Report](https://anchorecommunity.discourse.group/t/all-things-open-2024-trip-report/208) (5 days ago)
+- [Floss Weekly Discussion with Josh Bressers](https://anchorecommunity.discourse.group/t/floss-weekly-discussion-with-josh-bressers/207) (6 days ago)
