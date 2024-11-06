@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.84.0 released](https://anchorecommunity.discourse.group/t/grype-v0-84-0-released/219) (today)
-- [Syft - v1.16.0 released](https://anchorecommunity.discourse.group/t/syft-v1-16-0-released/218) (today)
-- [Anchore OSS Monthly Newsletter - October 2024](https://anchorecommunity.discourse.group/t/anchore-oss-monthly-newsletter-october-2024/215) (1 day ago)
-- [Inconsistent Package Naming in Grype](https://anchorecommunity.discourse.group/t/inconsistent-package-naming-in-grype/211) (2 days ago)
-- [October 31st 🎃 Open Source Gardening | Alive Stream](https://anchorecommunity.discourse.group/t/october-31st-open-source-gardening-alive-stream/209) (5 days ago)
+- [Grype - v0.84.0 released](https://anchorecommunity.discourse.group/t/grype-v0-84-0-released/219) (1 day ago)
+- [Syft - v1.16.0 released](https://anchorecommunity.discourse.group/t/syft-v1-16-0-released/218) (1 day ago)
+- [Anchore OSS Monthly Newsletter - October 2024](https://anchorecommunity.discourse.group/t/anchore-oss-monthly-newsletter-october-2024/215) (2 days ago)
+- [Inconsistent Package Naming in Grype](https://anchorecommunity.discourse.group/t/inconsistent-package-naming-in-grype/211) (3 days ago)
+- [October 31st 🎃 Open Source Gardening | Alive Stream](https://anchorecommunity.discourse.group/t/october-31st-open-source-gardening-alive-stream/209) (6 days ago)
