@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Tonight’s Movie: The Terminal (of your laptop)](https://anchore.com/blog/tonights-movie-the-terminal-of-your-laptop/) (today)
+- [Tonight’s Movie: The Terminal (of your laptop)](https://anchore.com/blog/tonights-movie-the-terminal-of-your-laptop/) (1 day ago)
 - [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (1 week ago)
-- [Grype Support for Azure Linux 3 released](https://anchore.com/blog/grype-support-for-azure-linux-3-released/) (1 week ago)
+- [Grype Support for Azure Linux 3 released](https://anchore.com/blog/grype-support-for-azure-linux-3-released/) (2 weeks ago)
 - [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (2 weeks ago)
 - [Who watches the watchmen? Introducing yardstick validate](https://anchore.com/blog/who-watches-the-watchmen-introducing-yardstick-validate/) (2 weeks ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Blog: Tonight’s Movie: The Terminal (of your laptop)](https://anchorecommunity.discourse.group/t/blog-tonight-s-movie-the-terminal-of-your-laptop/221) (today)
-- [Grype - v0.84.0 released](https://anchorecommunity.discourse.group/t/grype-v0-84-0-released/219) (1 day ago)
-- [Syft - v1.16.0 released](https://anchorecommunity.discourse.group/t/syft-v1-16-0-released/218) (1 day ago)
-- [Anchore OSS Monthly Newsletter - October 2024](https://anchorecommunity.discourse.group/t/anchore-oss-monthly-newsletter-october-2024/215) (2 days ago)
-- [Inconsistent Package Naming in Grype](https://anchorecommunity.discourse.group/t/inconsistent-package-naming-in-grype/211) (3 days ago)
+- [Blog: Tonight’s Movie: The Terminal (of your laptop)](https://anchorecommunity.discourse.group/t/blog-tonight-s-movie-the-terminal-of-your-laptop/221) (1 day ago)
+- [Grype - v0.84.0 released](https://anchorecommunity.discourse.group/t/grype-v0-84-0-released/219) (2 days ago)
+- [Syft - v1.16.0 released](https://anchorecommunity.discourse.group/t/syft-v1-16-0-released/218) (2 days ago)
+- [Anchore OSS Monthly Newsletter - October 2024](https://anchorecommunity.discourse.group/t/anchore-oss-monthly-newsletter-october-2024/215) (3 days ago)
+- [Inconsistent Package Naming in Grype](https://anchorecommunity.discourse.group/t/inconsistent-package-naming-in-grype/211) (4 days ago)
