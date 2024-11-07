@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (today)
+- [2024 Trends in Software Supply Chain Security](https://anchore.com/webinars/2024-trends-in-software-supply-chain-security/) (today)
 - [Tonight’s Movie: The Terminal (of your laptop)](https://anchore.com/blog/tonights-movie-the-terminal-of-your-laptop/) (1 day ago)
 - [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (1 week ago)
 - [Grype Support for Azure Linux 3 released](https://anchore.com/blog/grype-support-for-azure-linux-3-released/) (2 weeks ago)
-- [Introducing Anchore Data Service and Anchore Enterprise 5.10](https://anchore.com/blog/anchore-enterprise-fall-product-update-2024/) (2 weeks ago)
-- [Who watches the watchmen? Introducing yardstick validate](https://anchore.com/blog/who-watches-the-watchmen-introducing-yardstick-validate/) (2 weeks ago)
 
 ### Community
 
