@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [November 7th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/november-7th-community-meeting-zoom-call/225) (today)
 - [Java Transitive Dependencies](https://anchorecommunity.discourse.group/t/java-transitive-dependencies/224) (today)
 - [Blog: Tonight’s Movie: The Terminal (of your laptop)](https://anchorecommunity.discourse.group/t/blog-tonight-s-movie-the-terminal-of-your-laptop/221) (1 day ago)
 - [Grype - v0.84.0 released](https://anchorecommunity.discourse.group/t/grype-v0-84-0-released/219) (2 days ago)
 - [Syft - v1.16.0 released](https://anchorecommunity.discourse.group/t/syft-v1-16-0-released/218) (2 days ago)
-- [Anchore OSS Monthly Newsletter - October 2024](https://anchorecommunity.discourse.group/t/anchore-oss-monthly-newsletter-october-2024/215) (3 days ago)
