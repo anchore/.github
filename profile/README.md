@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (2 days ago)
-- [2024 Trends in Software Supply Chain Security](https://anchore.com/webinars/2024-trends-in-software-supply-chain-security/) (2 days ago)
-- [Tonight’s Movie: The Terminal (of your laptop)](https://anchore.com/blog/tonights-movie-the-terminal-of-your-laptop/) (3 days ago)
+- [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (3 days ago)
+- [2024 Trends in Software Supply Chain Security](https://anchore.com/webinars/2024-trends-in-software-supply-chain-security/) (3 days ago)
+- [Tonight’s Movie: The Terminal (of your laptop)](https://anchore.com/blog/tonights-movie-the-terminal-of-your-laptop/) (4 days ago)
 - [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (1 week ago)
 - [Grype Support for Azure Linux 3 released](https://anchore.com/blog/grype-support-for-azure-linux-3-released/) (2 weeks ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [November 7th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-7th-open-source-gardening-live-stream/226) (2 days ago)
-- [November 7th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/november-7th-community-meeting-zoom-call/225) (2 days ago)
-- [Java Transitive Dependencies](https://anchorecommunity.discourse.group/t/java-transitive-dependencies/224) (2 days ago)
-- [Blog: Tonight’s Movie: The Terminal (of your laptop)](https://anchorecommunity.discourse.group/t/blog-tonight-s-movie-the-terminal-of-your-laptop/221) (3 days ago)
-- [Grype - v0.84.0 released](https://anchorecommunity.discourse.group/t/grype-v0-84-0-released/219) (4 days ago)
+- [November 7th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-7th-open-source-gardening-live-stream/226) (3 days ago)
+- [November 7th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/november-7th-community-meeting-zoom-call/225) (3 days ago)
+- [Java Transitive Dependencies](https://anchorecommunity.discourse.group/t/java-transitive-dependencies/224) (3 days ago)
+- [Blog: Tonight’s Movie: The Terminal (of your laptop)](https://anchorecommunity.discourse.group/t/blog-tonight-s-movie-the-terminal-of-your-laptop/221) (4 days ago)
+- [Grype - v0.84.0 released](https://anchorecommunity.discourse.group/t/grype-v0-84-0-released/219) (5 days ago)
