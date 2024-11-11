@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Monitor values in grype-db](https://anchorecommunity.discourse.group/t/monitor-values-in-grype-db/229) (today)
 - [Implement limitation of layer size in image in syft](https://anchorecommunity.discourse.group/t/implement-limitation-of-layer-size-in-image-in-syft/228) (1 day ago)
 - [Why rpmSource \ source is needed?](https://anchorecommunity.discourse.group/t/why-rpmsource-source-is-needed/227) (1 day ago)
 - [November 7th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-7th-open-source-gardening-live-stream/226) (4 days ago)
 - [November 7th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/november-7th-community-meeting-zoom-call/225) (4 days ago)
-- [Java Transitive Dependencies](https://anchorecommunity.discourse.group/t/java-transitive-dependencies/224) (4 days ago)
