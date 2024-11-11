@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (3 days ago)
-- [2024 Trends in Software Supply Chain Security](https://anchore.com/webinars/2024-trends-in-software-supply-chain-security/) (3 days ago)
-- [Tonight’s Movie: The Terminal (of your laptop)](https://anchore.com/blog/tonights-movie-the-terminal-of-your-laptop/) (4 days ago)
+- [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (4 days ago)
+- [2024 Trends in Software Supply Chain Security](https://anchore.com/webinars/2024-trends-in-software-supply-chain-security/) (4 days ago)
+- [Tonight’s Movie: The Terminal (of your laptop)](https://anchore.com/blog/tonights-movie-the-terminal-of-your-laptop/) (5 days ago)
 - [Automate STIG Compliance with MITRE SAF: the Fastest Path to ATO](https://anchore.com/blog/automate-stig-compliance-with-mitre-saf/) (1 week ago)
 - [Grype Support for Azure Linux 3 released](https://anchore.com/blog/grype-support-for-azure-linux-3-released/) (2 weeks ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Implement limitation of layer size in image in syft](https://anchorecommunity.discourse.group/t/implement-limitation-of-layer-size-in-image-in-syft/228) (today)
-- [Why rpmSource \ source is needed?](https://anchorecommunity.discourse.group/t/why-rpmsource-source-is-needed/227) (today)
-- [November 7th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-7th-open-source-gardening-live-stream/226) (3 days ago)
-- [November 7th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/november-7th-community-meeting-zoom-call/225) (3 days ago)
-- [Java Transitive Dependencies](https://anchorecommunity.discourse.group/t/java-transitive-dependencies/224) (3 days ago)
+- [Implement limitation of layer size in image in syft](https://anchorecommunity.discourse.group/t/implement-limitation-of-layer-size-in-image-in-syft/228) (1 day ago)
+- [Why rpmSource \ source is needed?](https://anchorecommunity.discourse.group/t/why-rpmsource-source-is-needed/227) (1 day ago)
+- [November 7th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-7th-open-source-gardening-live-stream/226) (4 days ago)
+- [November 7th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/november-7th-community-meeting-zoom-call/225) (4 days ago)
+- [Java Transitive Dependencies](https://anchorecommunity.discourse.group/t/java-transitive-dependencies/224) (4 days ago)
