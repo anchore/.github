@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Blog: Deep Dive 🤿 — Where Does Grype Data Come From?](https://anchorecommunity.discourse.group/t/blog-deep-dive-where-does-grype-data-come-from/236) (today)
 - [How to make valid sbom files? (Newbie Questions)](https://anchorecommunity.discourse.group/t/how-to-make-valid-sbom-files-newbie-questions/233) (today)
 - [Monitor values in grype-db](https://anchorecommunity.discourse.group/t/monitor-values-in-grype-db/229) (1 day ago)
 - [Implement limitation of layer size in image in syft](https://anchorecommunity.discourse.group/t/implement-limitation-of-layer-size-in-image-in-syft/228) (2 days ago)
 - [Why rpmSource \ source is needed?](https://anchorecommunity.discourse.group/t/why-rpmsource-source-is-needed/227) (2 days ago)
-- [November 7th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-7th-open-source-gardening-live-stream/226) (5 days ago)
