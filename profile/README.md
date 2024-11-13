@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Integration of Custom Vulnerability Tracker with Grype](https://anchorecommunity.discourse.group/t/integration-of-custom-vulnerability-tracker-with-grype/238) (today)
 - [Blog: Deep Dive 🤿 — Where Does Grype Data Come From?](https://anchorecommunity.discourse.group/t/blog-deep-dive-where-does-grype-data-come-from/236) (1 day ago)
 - [&#34;One Minute Security&#34; 2024/11/12](https://anchorecommunity.discourse.group/t/one-minute-security-2024-11-12/235) (1 day ago)
 - [How to make valid sbom files? (Newbie Questions)](https://anchorecommunity.discourse.group/t/how-to-make-valid-sbom-files-newbie-questions/233) (1 day ago)
 - [Monitor values in grype-db](https://anchorecommunity.discourse.group/t/monitor-values-in-grype-db/229) (2 days ago)
-- [Implement limitation of layer size in image in syft](https://anchorecommunity.discourse.group/t/implement-limitation-of-layer-size-in-image-in-syft/228) (3 days ago)
