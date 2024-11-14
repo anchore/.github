@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (today)
-- [Anchore on AWS Marketplace and joins ISV Accelerate](https://anchore.com/blog/anchore-on-aws-marketplace-and-joins-isv-accelerate/) (today)
-- [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (6 days ago)
-- [2024 Trends in Software Supply Chain Security](https://anchore.com/webinars/2024-trends-in-software-supply-chain-security/) (6 days ago)
+- [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (1 day ago)
+- [Anchore on AWS Marketplace and joins ISV Accelerate](https://anchore.com/blog/anchore-on-aws-marketplace-and-joins-isv-accelerate/) (1 day ago)
+- [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (1 week ago)
+- [2024 Trends in Software Supply Chain Security](https://anchore.com/webinars/2024-trends-in-software-supply-chain-security/) (1 week ago)
 - [Tonight’s Movie: The Terminal (of your laptop)](https://anchore.com/blog/tonights-movie-the-terminal-of-your-laptop/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Integration of Custom Vulnerability Tracker with Grype](https://anchorecommunity.discourse.group/t/integration-of-custom-vulnerability-tracker-with-grype/238) (today)
-- [Blog: Deep Dive 🤿 — Where Does Grype Data Come From?](https://anchorecommunity.discourse.group/t/blog-deep-dive-where-does-grype-data-come-from/236) (1 day ago)
-- [&#34;One Minute Security&#34; 2024/11/12](https://anchorecommunity.discourse.group/t/one-minute-security-2024-11-12/235) (1 day ago)
-- [How to make valid sbom files? (Newbie Questions)](https://anchorecommunity.discourse.group/t/how-to-make-valid-sbom-files-newbie-questions/233) (1 day ago)
-- [Monitor values in grype-db](https://anchorecommunity.discourse.group/t/monitor-values-in-grype-db/229) (2 days ago)
+- [Integration of Custom Vulnerability Tracker with Grype](https://anchorecommunity.discourse.group/t/integration-of-custom-vulnerability-tracker-with-grype/238) (1 day ago)
+- [Blog: Deep Dive 🤿 — Where Does Grype Data Come From?](https://anchorecommunity.discourse.group/t/blog-deep-dive-where-does-grype-data-come-from/236) (2 days ago)
+- [&#34;One Minute Security&#34; 2024/11/12](https://anchorecommunity.discourse.group/t/one-minute-security-2024-11-12/235) (2 days ago)
+- [How to make valid sbom files? (Newbie Questions)](https://anchorecommunity.discourse.group/t/how-to-make-valid-sbom-files-newbie-questions/233) (2 days ago)
+- [Monitor values in grype-db](https://anchorecommunity.discourse.group/t/monitor-values-in-grype-db/229) (3 days ago)
