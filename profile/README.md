@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [November 14th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-14th-open-source-gardening-live-stream/239) (today)
 - [Integration of Custom Vulnerability Tracker with Grype](https://anchorecommunity.discourse.group/t/integration-of-custom-vulnerability-tracker-with-grype/238) (1 day ago)
 - [Blog: Deep Dive 🤿 — Where Does Grype Data Come From?](https://anchorecommunity.discourse.group/t/blog-deep-dive-where-does-grype-data-come-from/236) (2 days ago)
 - [&#34;One Minute Security&#34; 2024/11/12](https://anchorecommunity.discourse.group/t/one-minute-security-2024-11-12/235) (2 days ago)
 - [How to make valid sbom files? (Newbie Questions)](https://anchorecommunity.discourse.group/t/how-to-make-valid-sbom-files-newbie-questions/233) (2 days ago)
-- [Monitor values in grype-db](https://anchorecommunity.discourse.group/t/monitor-values-in-grype-db/229) (3 days ago)
