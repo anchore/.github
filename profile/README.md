@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [RFD: configuring output](https://anchorecommunity.discourse.group/t/rfd-configuring-output/241) (today)
 - [Request for discussion: logging levels and when to use them](https://anchorecommunity.discourse.group/t/request-for-discussion-logging-levels-and-when-to-use-them/240) (1 day ago)
 - [November 14th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-14th-open-source-gardening-live-stream/239) (1 day ago)
 - [Integration of Custom Vulnerability Tracker with Grype](https://anchorecommunity.discourse.group/t/integration-of-custom-vulnerability-tracker-with-grype/238) (2 days ago)
 - [Blog: Deep Dive 🤿 — Where Does Grype Data Come From?](https://anchorecommunity.discourse.group/t/blog-deep-dive-where-does-grype-data-come-from/236) (3 days ago)
-- [&#34;One Minute Security&#34; 2024/11/12](https://anchorecommunity.discourse.group/t/one-minute-security-2024-11-12/235) (3 days ago)
