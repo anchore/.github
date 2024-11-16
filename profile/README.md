@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (2 days ago)
-- [Anchore on AWS Marketplace and joins ISV Accelerate](https://anchore.com/blog/anchore-on-aws-marketplace-and-joins-isv-accelerate/) (2 days ago)
+- [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (3 days ago)
+- [Anchore on AWS Marketplace and joins ISV Accelerate](https://anchore.com/blog/anchore-on-aws-marketplace-and-joins-isv-accelerate/) (3 days ago)
 - [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (1 week ago)
 - [2024 Trends in Software Supply Chain Security](https://anchore.com/webinars/2024-trends-in-software-supply-chain-security/) (1 week ago)
 - [Tonight’s Movie: The Terminal (of your laptop)](https://anchore.com/blog/tonights-movie-the-terminal-of-your-laptop/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [RFD: configuring output](https://anchorecommunity.discourse.group/t/rfd-configuring-output/241) (today)
-- [Request for discussion: logging levels and when to use them](https://anchorecommunity.discourse.group/t/request-for-discussion-logging-levels-and-when-to-use-them/240) (1 day ago)
-- [November 14th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-14th-open-source-gardening-live-stream/239) (1 day ago)
-- [Integration of Custom Vulnerability Tracker with Grype](https://anchorecommunity.discourse.group/t/integration-of-custom-vulnerability-tracker-with-grype/238) (2 days ago)
-- [Blog: Deep Dive 🤿 — Where Does Grype Data Come From?](https://anchorecommunity.discourse.group/t/blog-deep-dive-where-does-grype-data-come-from/236) (3 days ago)
+- [RFD: configuring output](https://anchorecommunity.discourse.group/t/rfd-configuring-output/241) (1 day ago)
+- [Request for discussion: logging levels and when to use them](https://anchorecommunity.discourse.group/t/request-for-discussion-logging-levels-and-when-to-use-them/240) (2 days ago)
+- [November 14th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-14th-open-source-gardening-live-stream/239) (2 days ago)
+- [Integration of Custom Vulnerability Tracker with Grype](https://anchorecommunity.discourse.group/t/integration-of-custom-vulnerability-tracker-with-grype/238) (3 days ago)
+- [Blog: Deep Dive 🤿 — Where Does Grype Data Come From?](https://anchorecommunity.discourse.group/t/blog-deep-dive-where-does-grype-data-come-from/236) (4 days ago)
