@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Choosing the Right SBOM Generator: A Framework for Success](https://anchore.com/blog/choose-an-sbom-generation-tool-a-framework/) (1 day ago)
+- [Choosing the Right SBOM Generator: A Framework for Success](https://anchore.com/blog/choose-an-sbom-generation-tool-a-framework/) (2 days ago)
 - [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (1 week ago)
 - [Anchore on AWS Marketplace and joins ISV Accelerate](https://anchore.com/blog/anchore-on-aws-marketplace-and-joins-isv-accelerate/) (1 week ago)
-- [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (1 week ago)
-- [2024 Trends in Software Supply Chain Security](https://anchore.com/webinars/2024-trends-in-software-supply-chain-security/) (1 week ago)
+- [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (2 weeks ago)
+- [2024 Trends in Software Supply Chain Security](https://anchore.com/webinars/2024-trends-in-software-supply-chain-security/) (2 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Automating updates to WinGet?](https://anchorecommunity.discourse.group/t/automating-updates-to-winget/243) (today)
-- [Focus fixed versions on a CVE in grype](https://anchorecommunity.discourse.group/t/focus-fixed-versions-on-a-cve-in-grype/242) (3 days ago)
-- [RFD: configuring output](https://anchorecommunity.discourse.group/t/rfd-configuring-output/241) (5 days ago)
-- [Request for discussion: logging levels and when to use them](https://anchorecommunity.discourse.group/t/request-for-discussion-logging-levels-and-when-to-use-them/240) (6 days ago)
-- [November 14th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-14th-open-source-gardening-live-stream/239) (6 days ago)
+- [Automating updates to WinGet?](https://anchorecommunity.discourse.group/t/automating-updates-to-winget/243) (1 day ago)
+- [Focus fixed versions on a CVE in grype](https://anchorecommunity.discourse.group/t/focus-fixed-versions-on-a-cve-in-grype/242) (4 days ago)
+- [RFD: configuring output](https://anchorecommunity.discourse.group/t/rfd-configuring-output/241) (6 days ago)
+- [Request for discussion: logging levels and when to use them](https://anchorecommunity.discourse.group/t/request-for-discussion-logging-levels-and-when-to-use-them/240) (1 week ago)
+- [November 14th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-14th-open-source-gardening-live-stream/239) (1 week ago)
