@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [November 21st | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/november-21st-community-meeting-zoom-call/246) (today)
+- [Grype - v0.85.0 released](https://anchorecommunity.discourse.group/t/grype-v0-85-0-released/245) (today)
+- [Syft - v1.17.0 released](https://anchorecommunity.discourse.group/t/syft-v1-17-0-released/244) (today)
 - [Automating updates to WinGet?](https://anchorecommunity.discourse.group/t/automating-updates-to-winget/243) (1 day ago)
 - [Focus fixed versions on a CVE in grype](https://anchorecommunity.discourse.group/t/focus-fixed-versions-on-a-cve-in-grype/242) (4 days ago)
-- [RFD: configuring output](https://anchorecommunity.discourse.group/t/rfd-configuring-output/241) (6 days ago)
-- [Request for discussion: logging levels and when to use them](https://anchorecommunity.discourse.group/t/request-for-discussion-logging-levels-and-when-to-use-them/240) (1 week ago)
-- [November 14th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-14th-open-source-gardening-live-stream/239) (1 week ago)
