@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Grype refers to file in repo after nextjs upgrade](https://anchorecommunity.discourse.group/t/grype-refers-to-file-in-repo-after-nextjs-upgrade/252) (today)
 - [Exclude-binary-overlap-by-ownership flag is not working](https://anchorecommunity.discourse.group/t/exclude-binary-overlap-by-ownership-flag-is-not-working/248) (4 days ago)
 - [November 21st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-21st-open-source-gardening-live-stream/247) (4 days ago)
 - [November 21st | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/november-21st-community-meeting-zoom-call/246) (4 days ago)
 - [Grype - v0.85.0 released](https://anchorecommunity.discourse.group/t/grype-v0-85-0-released/245) (4 days ago)
-- [Syft - v1.17.0 released](https://anchorecommunity.discourse.group/t/syft-v1-17-0-released/244) (4 days ago)
