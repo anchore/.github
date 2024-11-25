@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Choosing the Right SBOM Generator: A Framework for Success](https://anchore.com/blog/choose-an-sbom-generation-tool-a-framework/) (5 days ago)
+- [Choosing the Right SBOM Generator: A Framework for Success](https://anchore.com/blog/choose-an-sbom-generation-tool-a-framework/) (6 days ago)
 - [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (1 week ago)
 - [Anchore on AWS Marketplace and joins ISV Accelerate](https://anchore.com/blog/anchore-on-aws-marketplace-and-joins-isv-accelerate/) (1 week ago)
 - [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Exclude-binary-overlap-by-ownership flag is not working](https://anchorecommunity.discourse.group/t/exclude-binary-overlap-by-ownership-flag-is-not-working/248) (3 days ago)
-- [November 21st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-21st-open-source-gardening-live-stream/247) (3 days ago)
-- [November 21st | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/november-21st-community-meeting-zoom-call/246) (3 days ago)
-- [Grype - v0.85.0 released](https://anchorecommunity.discourse.group/t/grype-v0-85-0-released/245) (3 days ago)
-- [Syft - v1.17.0 released](https://anchorecommunity.discourse.group/t/syft-v1-17-0-released/244) (3 days ago)
+- [Exclude-binary-overlap-by-ownership flag is not working](https://anchorecommunity.discourse.group/t/exclude-binary-overlap-by-ownership-flag-is-not-working/248) (4 days ago)
+- [November 21st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-21st-open-source-gardening-live-stream/247) (4 days ago)
+- [November 21st | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/november-21st-community-meeting-zoom-call/246) (4 days ago)
+- [Grype - v0.85.0 released](https://anchorecommunity.discourse.group/t/grype-v0-85-0-released/245) (4 days ago)
+- [Syft - v1.17.0 released](https://anchorecommunity.discourse.group/t/syft-v1-17-0-released/244) (4 days ago)
