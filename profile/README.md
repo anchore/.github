@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The Evolution of SBOMs in the DevSecOps Lifecycle: From Planning to Production](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle/) (today)
+- [The Evolution of SBOMs in the DevSecOps Lifecycle: From Planning to Production](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle/) (1 day ago)
 - [Choosing the Right SBOM Generator: A Framework for Success](https://anchore.com/blog/choose-an-sbom-generation-tool-a-framework/) (1 week ago)
-- [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (1 week ago)
-- [Anchore on AWS Marketplace and joins ISV Accelerate](https://anchore.com/blog/anchore-on-aws-marketplace-and-joins-isv-accelerate/) (1 week ago)
+- [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (2 weeks ago)
+- [Anchore on AWS Marketplace and joins ISV Accelerate](https://anchore.com/blog/anchore-on-aws-marketplace-and-joins-isv-accelerate/) (2 weeks ago)
 - [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (2 weeks ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Kernel headers ignore](https://anchorecommunity.discourse.group/t/kernel-headers-ignore/255) (today)
-- [Grype versions before v0.51.0 (Oct 2022) will stop getting new vulnerability data on 25 January 2025](https://anchorecommunity.discourse.group/t/grype-versions-before-v0-51-0-oct-2022-will-stop-getting-new-vulnerability-data-on-25-january-2025/254) (today)
-- [Question about relationship and the impact on grype results](https://anchorecommunity.discourse.group/t/question-about-relationship-and-the-impact-on-grype-results/253) (today)
-- [Grype refers to file in repo after nextjs upgrade](https://anchorecommunity.discourse.group/t/grype-refers-to-file-in-repo-after-nextjs-upgrade/252) (1 day ago)
-- [Exclude-binary-overlap-by-ownership flag is not working](https://anchorecommunity.discourse.group/t/exclude-binary-overlap-by-ownership-flag-is-not-working/248) (5 days ago)
+- [Kernel headers ignore](https://anchorecommunity.discourse.group/t/kernel-headers-ignore/255) (1 day ago)
+- [Grype versions before v0.51.0 (Oct 2022) will stop getting new vulnerability data on 25 January 2025](https://anchorecommunity.discourse.group/t/grype-versions-before-v0-51-0-oct-2022-will-stop-getting-new-vulnerability-data-on-25-january-2025/254) (1 day ago)
+- [Question about relationship and the impact on grype results](https://anchorecommunity.discourse.group/t/question-about-relationship-and-the-impact-on-grype-results/253) (1 day ago)
+- [Grype refers to file in repo after nextjs upgrade](https://anchorecommunity.discourse.group/t/grype-refers-to-file-in-repo-after-nextjs-upgrade/252) (2 days ago)
+- [Exclude-binary-overlap-by-ownership flag is not working](https://anchorecommunity.discourse.group/t/exclude-binary-overlap-by-ownership-flag-is-not-working/248) (6 days ago)
