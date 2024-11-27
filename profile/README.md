@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Version is parsed from Jar file name instead of Manifest file](https://anchorecommunity.discourse.group/t/version-is-parsed-from-jar-file-name-instead-of-manifest-file/257) (today)
 - [Kernel headers ignore](https://anchorecommunity.discourse.group/t/kernel-headers-ignore/255) (1 day ago)
 - [Grype versions before v0.51.0 (Oct 2022) will stop getting new vulnerability data on 25 January 2025](https://anchorecommunity.discourse.group/t/grype-versions-before-v0-51-0-oct-2022-will-stop-getting-new-vulnerability-data-on-25-january-2025/254) (1 day ago)
 - [Question about relationship and the impact on grype results](https://anchorecommunity.discourse.group/t/question-about-relationship-and-the-impact-on-grype-results/253) (1 day ago)
 - [Grype refers to file in repo after nextjs upgrade](https://anchorecommunity.discourse.group/t/grype-refers-to-file-in-repo-after-nextjs-upgrade/252) (2 days ago)
-- [Exclude-binary-overlap-by-ownership flag is not working](https://anchorecommunity.discourse.group/t/exclude-binary-overlap-by-ownership-flag-is-not-working/248) (6 days ago)
