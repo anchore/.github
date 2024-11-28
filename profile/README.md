@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Removing epoch in rpm version](https://anchorecommunity.discourse.group/t/removing-epoch-in-rpm-version/258) (today)
 - [Version is parsed from Jar file name instead of Manifest file](https://anchorecommunity.discourse.group/t/version-is-parsed-from-jar-file-name-instead-of-manifest-file/257) (1 day ago)
 - [Kernel headers ignore](https://anchorecommunity.discourse.group/t/kernel-headers-ignore/255) (2 days ago)
 - [Grype versions before v0.51.0 (Oct 2022) will stop getting new vulnerability data on 25 January 2025](https://anchorecommunity.discourse.group/t/grype-versions-before-v0-51-0-oct-2022-will-stop-getting-new-vulnerability-data-on-25-january-2025/254) (2 days ago)
 - [Question about relationship and the impact on grype results](https://anchorecommunity.discourse.group/t/question-about-relationship-and-the-impact-on-grype-results/253) (2 days ago)
-- [Grype refers to file in repo after nextjs upgrade](https://anchorecommunity.discourse.group/t/grype-refers-to-file-in-repo-after-nextjs-upgrade/252) (3 days ago)
