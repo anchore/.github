@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The Evolution of SBOMs in the DevSecOps Lifecycle: From Planning to Production](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle/) (2 days ago)
+- [The Evolution of SBOMs in the DevSecOps Lifecycle: From Planning to Production](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle/) (3 days ago)
 - [Choosing the Right SBOM Generator: A Framework for Success](https://anchore.com/blog/choose-an-sbom-generation-tool-a-framework/) (1 week ago)
 - [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (2 weeks ago)
 - [Anchore on AWS Marketplace and joins ISV Accelerate](https://anchore.com/blog/anchore-on-aws-marketplace-and-joins-isv-accelerate/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Matching vulnerabilities using upstream without versions](https://anchorecommunity.discourse.group/t/matching-vulnerabilities-using-upstream-without-versions/259) (today)
-- [Removing epoch in rpm version](https://anchorecommunity.discourse.group/t/removing-epoch-in-rpm-version/258) (today)
-- [Version is parsed from Jar file name instead of Manifest file](https://anchorecommunity.discourse.group/t/version-is-parsed-from-jar-file-name-instead-of-manifest-file/257) (1 day ago)
-- [Kernel headers ignore](https://anchorecommunity.discourse.group/t/kernel-headers-ignore/255) (2 days ago)
-- [Grype versions before v0.51.0 (Oct 2022) will stop getting new vulnerability data on 25 January 2025](https://anchorecommunity.discourse.group/t/grype-versions-before-v0-51-0-oct-2022-will-stop-getting-new-vulnerability-data-on-25-january-2025/254) (2 days ago)
+- [Matching vulnerabilities using upstream without versions](https://anchorecommunity.discourse.group/t/matching-vulnerabilities-using-upstream-without-versions/259) (1 day ago)
+- [Removing epoch in rpm version](https://anchorecommunity.discourse.group/t/removing-epoch-in-rpm-version/258) (1 day ago)
+- [Version is parsed from Jar file name instead of Manifest file](https://anchorecommunity.discourse.group/t/version-is-parsed-from-jar-file-name-instead-of-manifest-file/257) (2 days ago)
+- [Kernel headers ignore](https://anchorecommunity.discourse.group/t/kernel-headers-ignore/255) (3 days ago)
+- [Grype versions before v0.51.0 (Oct 2022) will stop getting new vulnerability data on 25 January 2025](https://anchorecommunity.discourse.group/t/grype-versions-before-v0-51-0-oct-2022-will-stop-getting-new-vulnerability-data-on-25-january-2025/254) (3 days ago)
