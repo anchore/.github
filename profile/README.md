@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [False positive on a custom image with custom python package](https://anchorecommunity.discourse.group/t/false-positive-on-a-custom-image-with-custom-python-package/261) (today)
 - [Matching vulnerabilities using upstream without versions](https://anchorecommunity.discourse.group/t/matching-vulnerabilities-using-upstream-without-versions/259) (1 day ago)
 - [Removing epoch in rpm version](https://anchorecommunity.discourse.group/t/removing-epoch-in-rpm-version/258) (1 day ago)
 - [Version is parsed from Jar file name instead of Manifest file](https://anchorecommunity.discourse.group/t/version-is-parsed-from-jar-file-name-instead-of-manifest-file/257) (2 days ago)
 - [Kernel headers ignore](https://anchorecommunity.discourse.group/t/kernel-headers-ignore/255) (3 days ago)
-- [Grype versions before v0.51.0 (Oct 2022) will stop getting new vulnerability data on 25 January 2025](https://anchorecommunity.discourse.group/t/grype-versions-before-v0-51-0-oct-2022-will-stop-getting-new-vulnerability-data-on-25-january-2025/254) (3 days ago)
