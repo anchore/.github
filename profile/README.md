@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [December 5th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/december-5th-community-meeting-zoom-call/262) (today)
 - [False positive on a custom image with custom python package](https://anchorecommunity.discourse.group/t/false-positive-on-a-custom-image-with-custom-python-package/261) (4 days ago)
 - [Matching vulnerabilities using upstream without versions](https://anchorecommunity.discourse.group/t/matching-vulnerabilities-using-upstream-without-versions/259) (5 days ago)
 - [Removing epoch in rpm version](https://anchorecommunity.discourse.group/t/removing-epoch-in-rpm-version/258) (5 days ago)
 - [Version is parsed from Jar file name instead of Manifest file](https://anchorecommunity.discourse.group/t/version-is-parsed-from-jar-file-name-instead-of-manifest-file/257) (6 days ago)
-- [Kernel headers ignore](https://anchorecommunity.discourse.group/t/kernel-headers-ignore/255) (1 week ago)
