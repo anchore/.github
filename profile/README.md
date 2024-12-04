@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Change the TMPDIR that Syft uses when unarchiving a file](https://anchorecommunity.discourse.group/t/change-the-tmpdir-that-syft-uses-when-unarchiving-a-file/265) (today)
 - [December 5th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-5th-open-source-gardening-live-stream/263) (1 day ago)
 - [December 5th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/december-5th-community-meeting-zoom-call/262) (1 day ago)
 - [False positive on a custom image with custom python package](https://anchorecommunity.discourse.group/t/false-positive-on-a-custom-image-with-custom-python-package/261) (5 days ago)
 - [Matching vulnerabilities using upstream without versions](https://anchorecommunity.discourse.group/t/matching-vulnerabilities-using-upstream-without-versions/259) (6 days ago)
-- [Removing epoch in rpm version](https://anchorecommunity.discourse.group/t/removing-epoch-in-rpm-version/258) (6 days ago)
