@@ -20,8 +20,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 - [The Evolution of SBOMs in the DevSecOps Lifecycle: From Planning to Production](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle/) (1 week ago)
 - [Choosing the Right SBOM Generator: A Framework for Success](https://anchore.com/blog/choose-an-sbom-generation-tool-a-framework/) (2 weeks ago)
-- [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (2 weeks ago)
-- [Anchore on AWS Marketplace and joins ISV Accelerate](https://anchore.com/blog/anchore-on-aws-marketplace-and-joins-isv-accelerate/) (2 weeks ago)
+- [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (3 weeks ago)
+- [Anchore on AWS Marketplace and joins ISV Accelerate](https://anchore.com/blog/anchore-on-aws-marketplace-and-joins-isv-accelerate/) (3 weeks ago)
 - [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (3 weeks ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [December 5th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-5th-open-source-gardening-live-stream/263) (today)
-- [December 5th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/december-5th-community-meeting-zoom-call/262) (today)
-- [False positive on a custom image with custom python package](https://anchorecommunity.discourse.group/t/false-positive-on-a-custom-image-with-custom-python-package/261) (4 days ago)
-- [Matching vulnerabilities using upstream without versions](https://anchorecommunity.discourse.group/t/matching-vulnerabilities-using-upstream-without-versions/259) (5 days ago)
-- [Removing epoch in rpm version](https://anchorecommunity.discourse.group/t/removing-epoch-in-rpm-version/258) (5 days ago)
+- [December 5th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-5th-open-source-gardening-live-stream/263) (1 day ago)
+- [December 5th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/december-5th-community-meeting-zoom-call/262) (1 day ago)
+- [False positive on a custom image with custom python package](https://anchorecommunity.discourse.group/t/false-positive-on-a-custom-image-with-custom-python-package/261) (5 days ago)
+- [Matching vulnerabilities using upstream without versions](https://anchorecommunity.discourse.group/t/matching-vulnerabilities-using-upstream-without-versions/259) (6 days ago)
+- [Removing epoch in rpm version](https://anchorecommunity.discourse.group/t/removing-epoch-in-rpm-version/258) (6 days ago)
