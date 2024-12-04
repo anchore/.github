@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [The Evolution of SBOMs in the DevSecOps Lifecycle: Part 2](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle-part-2/) (1 day ago)
 - [The Evolution of SBOMs in the DevSecOps Lifecycle: From Planning to Production](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle/) (1 week ago)
 - [Choosing the Right SBOM Generator: A Framework for Success](https://anchore.com/blog/choose-an-sbom-generation-tool-a-framework/) (2 weeks ago)
 - [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (3 weeks ago)
 - [Anchore on AWS Marketplace and joins ISV Accelerate](https://anchore.com/blog/anchore-on-aws-marketplace-and-joins-isv-accelerate/) (3 weeks ago)
-- [Anchore Survey 2024: Only 1 in 5 organizations have full visibility of open source](https://anchore.com/blog/anchore-survey-2024-only-1-in-5-organizations-have-full-visibility-of-open-source/) (3 weeks ago)
 
 ### Community
 
