@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The Evolution of SBOMs in the DevSecOps Lifecycle: Part 2](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle-part-2/) (1 day ago)
+- [The Evolution of SBOMs in the DevSecOps Lifecycle: Part 2](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle-part-2/) (2 days ago)
 - [The Evolution of SBOMs in the DevSecOps Lifecycle: From Planning to Production](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle/) (1 week ago)
 - [Choosing the Right SBOM Generator: A Framework for Success](https://anchore.com/blog/choose-an-sbom-generation-tool-a-framework/) (2 weeks ago)
 - [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (3 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Change the TMPDIR that Syft uses when unarchiving a file](https://anchorecommunity.discourse.group/t/change-the-tmpdir-that-syft-uses-when-unarchiving-a-file/265) (today)
-- [December 5th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-5th-open-source-gardening-live-stream/263) (1 day ago)
-- [December 5th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/december-5th-community-meeting-zoom-call/262) (1 day ago)
-- [False positive on a custom image with custom python package](https://anchorecommunity.discourse.group/t/false-positive-on-a-custom-image-with-custom-python-package/261) (5 days ago)
-- [Matching vulnerabilities using upstream without versions](https://anchorecommunity.discourse.group/t/matching-vulnerabilities-using-upstream-without-versions/259) (6 days ago)
+- [Change the TMPDIR that Syft uses when unarchiving a file](https://anchorecommunity.discourse.group/t/change-the-tmpdir-that-syft-uses-when-unarchiving-a-file/265) (1 day ago)
+- [December 5th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-5th-open-source-gardening-live-stream/263) (2 days ago)
+- [December 5th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/december-5th-community-meeting-zoom-call/262) (2 days ago)
+- [False positive on a custom image with custom python package](https://anchorecommunity.discourse.group/t/false-positive-on-a-custom-image-with-custom-python-package/261) (6 days ago)
+- [Matching vulnerabilities using upstream without versions](https://anchorecommunity.discourse.group/t/matching-vulnerabilities-using-upstream-without-versions/259) (1 week ago)
