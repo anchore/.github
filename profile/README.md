@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Syft - v1.18.0 released](https://anchorecommunity.discourse.group/t/syft-v1-18-0-released/272) (today)
 - [Stereoscope - v0.0.10 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-10-released/271) (today)
 - [How to know if a package was added \ updated \ or just existed in dpkg](https://anchorecommunity.discourse.group/t/how-to-know-if-a-package-was-added-updated-or-just-existed-in-dpkg/270) (today)
 - [Research study on challenges and improvements for SCA tools](https://anchorecommunity.discourse.group/t/research-study-on-challenges-and-improvements-for-sca-tools/267) (4 days ago)
 - [Change the TMPDIR that Syft uses when unarchiving a file](https://anchorecommunity.discourse.group/t/change-the-tmpdir-that-syft-uses-when-unarchiving-a-file/265) (5 days ago)
-- [December 5th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-5th-open-source-gardening-live-stream/263) (6 days ago)
