@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Survey Data Shows 200% Increase in Software Supply Chain Focus](https://anchore.com/blog/survey-data-shows-200-increase-in-software-supply-chain-focus/) (today)
 - [ModuleQ reduces vulnerability management time by 80% while meeting the highest regulatory compliance standards](https://anchore.com/case-studies/moduleq-reduces-vulnerability-management-time-by-80-while-meeting-the-highest-regulatory-compliance-standards/) (4 days ago)
 - [The Evolution of SBOMs in the DevSecOps Lifecycle: Part 2](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle-part-2/) (1 week ago)
 - [The Evolution of SBOMs in the DevSecOps Lifecycle: From Planning to Production](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle/) (2 weeks ago)
 - [Choosing the Right SBOM Generator: A Framework for Success](https://anchore.com/blog/choose-an-sbom-generation-tool-a-framework/) (3 weeks ago)
-- [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (3 weeks ago)
 
 ### Community
 
