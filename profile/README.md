@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [ModuleQ reduces vulnerability management time by 80% while meeting the highest regulatory compliance standards](https://anchore.com/case-studies/moduleq-reduces-vulnerability-management-time-by-80-while-meeting-the-highest-regulatory-compliance-standards/) (3 days ago)
-- [The Evolution of SBOMs in the DevSecOps Lifecycle: Part 2](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle-part-2/) (6 days ago)
-- [The Evolution of SBOMs in the DevSecOps Lifecycle: From Planning to Production](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle/) (1 week ago)
-- [Choosing the Right SBOM Generator: A Framework for Success](https://anchore.com/blog/choose-an-sbom-generation-tool-a-framework/) (2 weeks ago)
+- [ModuleQ reduces vulnerability management time by 80% while meeting the highest regulatory compliance standards](https://anchore.com/case-studies/moduleq-reduces-vulnerability-management-time-by-80-while-meeting-the-highest-regulatory-compliance-standards/) (4 days ago)
+- [The Evolution of SBOMs in the DevSecOps Lifecycle: Part 2](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle-part-2/) (1 week ago)
+- [The Evolution of SBOMs in the DevSecOps Lifecycle: From Planning to Production](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle/) (2 weeks ago)
+- [Choosing the Right SBOM Generator: A Framework for Success](https://anchore.com/blog/choose-an-sbom-generation-tool-a-framework/) (3 weeks ago)
 - [2024 Software Supply Chain Security Report](https://anchore.com/reports/2024-software-supply-chain-security-report/) (3 weeks ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.86.0 released](https://anchorecommunity.discourse.group/t/grype-v0-86-0-released/273) (today)
-- [Syft - v1.18.0 released](https://anchorecommunity.discourse.group/t/syft-v1-18-0-released/272) (today)
-- [Stereoscope - v0.0.10 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-10-released/271) (today)
-- [How to know if a package was added \ updated \ or just existed in dpkg](https://anchorecommunity.discourse.group/t/how-to-know-if-a-package-was-added-updated-or-just-existed-in-dpkg/270) (today)
-- [Research study on challenges and improvements for SCA tools](https://anchorecommunity.discourse.group/t/research-study-on-challenges-and-improvements-for-sca-tools/267) (4 days ago)
+- [Grype - v0.86.0 released](https://anchorecommunity.discourse.group/t/grype-v0-86-0-released/273) (1 day ago)
+- [Syft - v1.18.0 released](https://anchorecommunity.discourse.group/t/syft-v1-18-0-released/272) (1 day ago)
+- [Stereoscope - v0.0.10 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-10-released/271) (1 day ago)
+- [How to know if a package was added \ updated \ or just existed in dpkg](https://anchorecommunity.discourse.group/t/how-to-know-if-a-package-was-added-updated-or-just-existed-in-dpkg/270) (1 day ago)
+- [Research study on challenges and improvements for SCA tools](https://anchorecommunity.discourse.group/t/research-study-on-challenges-and-improvements-for-sca-tools/267) (5 days ago)
