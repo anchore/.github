@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [December 12th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-12th-open-source-gardening-live-stream/276) (today)
 - [Evidence in location](https://anchorecommunity.discourse.group/t/evidence-in-location/275) (1 day ago)
 - [Upgrading packages in squash scope](https://anchorecommunity.discourse.group/t/upgrading-packages-in-squash-scope/274) (1 day ago)
 - [Grype - v0.86.0 released](https://anchorecommunity.discourse.group/t/grype-v0-86-0-released/273) (2 days ago)
 - [Syft - v1.18.0 released](https://anchorecommunity.discourse.group/t/syft-v1-18-0-released/272) (2 days ago)
-- [Stereoscope - v0.0.10 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-0-10-released/271) (2 days ago)
