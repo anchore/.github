@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Understanding SBOMs: An Introduction to Modern Development](https://anchore.com/webinars/understanding-sboms-an-introduction/) (today)
 - [Enhancing Container Security with NVIDIA’s AI Blueprint and Anchore’s Syft](https://anchore.com/blog/enhancing-container-security-with-nvidias-ai-blueprint-and-anchores-syft/) (2 days ago)
 - [Survey Data Shows 200% Increase in Software Supply Chain Focus](https://anchore.com/blog/survey-data-shows-200-increase-in-software-supply-chain-focus/) (2 days ago)
 - [ModuleQ reduces vulnerability management time by 80% while meeting the highest regulatory compliance standards](https://anchore.com/case-studies/moduleq-reduces-vulnerability-management-time-by-80-while-meeting-the-highest-regulatory-compliance-standards/) (6 days ago)
 - [The Evolution of SBOMs in the DevSecOps Lifecycle: Part 2](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle-part-2/) (1 week ago)
-- [The Evolution of SBOMs in the DevSecOps Lifecycle: From Planning to Production](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle/) (2 weeks ago)
 
 ### Community
 
