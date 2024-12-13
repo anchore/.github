@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Grype - v0.86.1 released](https://anchorecommunity.discourse.group/t/grype-v0-86-1-released/281) (today)
+- [Syft - v1.18.1 released](https://anchorecommunity.discourse.group/t/syft-v1-18-1-released/280) (today)
 - [What to do about archived go dependencies?](https://anchorecommunity.discourse.group/t/what-to-do-about-archived-go-dependencies/279) (1 day ago)
 - [Ubuntu ESM packages in Grype](https://anchorecommunity.discourse.group/t/ubuntu-esm-packages-in-grype/278) (1 day ago)
 - [December 12th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-12th-open-source-gardening-live-stream/276) (2 days ago)
-- [Evidence in location](https://anchorecommunity.discourse.group/t/evidence-in-location/275) (3 days ago)
-- [Upgrading packages in squash scope](https://anchorecommunity.discourse.group/t/upgrading-packages-in-squash-scope/274) (3 days ago)
