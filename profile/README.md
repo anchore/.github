@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Understanding SBOMs: An Introduction to Modern Development](https://anchore.com/webinars/understanding-sboms-an-introduction/) (2 days ago)
-- [Enhancing Container Security with NVIDIA’s AI Blueprint and Anchore’s Syft](https://anchore.com/blog/enhancing-container-security-with-nvidias-ai-blueprint-and-anchores-syft/) (4 days ago)
-- [Survey Data Shows 200% Increase in Software Supply Chain Focus](https://anchore.com/blog/survey-data-shows-200-increase-in-software-supply-chain-focus/) (4 days ago)
+- [Understanding SBOMs: An Introduction to Modern Development](https://anchore.com/webinars/understanding-sboms-an-introduction/) (3 days ago)
+- [Enhancing Container Security with NVIDIA’s AI Blueprint and Anchore’s Syft](https://anchore.com/blog/enhancing-container-security-with-nvidias-ai-blueprint-and-anchores-syft/) (5 days ago)
+- [Survey Data Shows 200% Increase in Software Supply Chain Focus](https://anchore.com/blog/survey-data-shows-200-increase-in-software-supply-chain-focus/) (5 days ago)
 - [ModuleQ reduces vulnerability management time by 80% while meeting the highest regulatory compliance standards](https://anchore.com/case-studies/moduleq-reduces-vulnerability-management-time-by-80-while-meeting-the-highest-regulatory-compliance-standards/) (1 week ago)
 - [The Evolution of SBOMs in the DevSecOps Lifecycle: Part 2](https://anchore.com/blog/the-evolution-of-sboms-in-the-devsecops-lifecycle-part-2/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.86.1 released](https://anchorecommunity.discourse.group/t/grype-v0-86-1-released/281) (1 day ago)
-- [Syft - v1.18.1 released](https://anchorecommunity.discourse.group/t/syft-v1-18-1-released/280) (1 day ago)
-- [What to do about archived go dependencies?](https://anchorecommunity.discourse.group/t/what-to-do-about-archived-go-dependencies/279) (2 days ago)
-- [Ubuntu ESM packages in Grype](https://anchorecommunity.discourse.group/t/ubuntu-esm-packages-in-grype/278) (2 days ago)
-- [December 12th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-12th-open-source-gardening-live-stream/276) (3 days ago)
+- [Grype - v0.86.1 released](https://anchorecommunity.discourse.group/t/grype-v0-86-1-released/281) (2 days ago)
+- [Syft - v1.18.1 released](https://anchorecommunity.discourse.group/t/syft-v1-18-1-released/280) (2 days ago)
+- [What to do about archived go dependencies?](https://anchorecommunity.discourse.group/t/what-to-do-about-archived-go-dependencies/279) (3 days ago)
+- [Ubuntu ESM packages in Grype](https://anchorecommunity.discourse.group/t/ubuntu-esm-packages-in-grype/278) (3 days ago)
+- [December 12th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-12th-open-source-gardening-live-stream/276) (4 days ago)
