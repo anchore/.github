@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [December 19th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-19th-open-source-gardening-live-stream/283) (today)
+- [December 19th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/december-19th-community-meeting-zoom-call/282) (today)
 - [Grype - v0.86.1 released](https://anchorecommunity.discourse.group/t/grype-v0-86-1-released/281) (5 days ago)
 - [Syft - v1.18.1 released](https://anchorecommunity.discourse.group/t/syft-v1-18-1-released/280) (5 days ago)
 - [What to do about archived go dependencies?](https://anchorecommunity.discourse.group/t/what-to-do-about-archived-go-dependencies/279) (6 days ago)
-- [Ubuntu ESM packages in Grype](https://anchorecommunity.discourse.group/t/ubuntu-esm-packages-in-grype/278) (6 days ago)
-- [December 12th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-12th-open-source-gardening-live-stream/276) (1 week ago)
