@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Known vulnerabilities not in Chainguard / Wolfi tracker?](https://anchorecommunity.discourse.group/t/known-vulnerabilities-not-in-chainguard-wolfi-tracker/286) (today)
 - [Does syft knows how to identify AI packages?](https://anchorecommunity.discourse.group/t/does-syft-knows-how-to-identify-ai-packages/284) (3 days ago)
 - [December 19th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-19th-open-source-gardening-live-stream/283) (3 days ago)
 - [December 19th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/december-19th-community-meeting-zoom-call/282) (3 days ago)
 - [Grype - v0.86.1 released](https://anchorecommunity.discourse.group/t/grype-v0-86-1-released/281) (1 week ago)
-- [Syft - v1.18.1 released](https://anchorecommunity.discourse.group/t/syft-v1-18-1-released/280) (1 week ago)
