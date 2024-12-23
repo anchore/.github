@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Going All In: Anchore at SBOM Plugfest 2024](https://anchore.com/blog/going-all-in-anchore-at-sbom-plugfest-2024/) (2 days ago)
-- [Understanding SBOMs: Deep Dive with Kate Stewart](https://anchore.com/webinars/understanding-sboms-deep-dive-with-kate-stewart/) (2 days ago)
-- [Understanding SBOMs: How to Automate, Generate and Manage SBOMs](https://anchore.com/webinars/understanding-sboms-how-to-automate-generate-and-manage-sboms/) (2 days ago)
-- [ModuleQ reduces vulnerability management time by 80% with Anchore Secure](https://anchore.com/blog/moduleq-2024-case-study/) (5 days ago)
+- [Going All In: Anchore at SBOM Plugfest 2024](https://anchore.com/blog/going-all-in-anchore-at-sbom-plugfest-2024/) (3 days ago)
+- [Understanding SBOMs: Deep Dive with Kate Stewart](https://anchore.com/webinars/understanding-sboms-deep-dive-with-kate-stewart/) (3 days ago)
+- [Understanding SBOMs: How to Automate, Generate and Manage SBOMs](https://anchore.com/webinars/understanding-sboms-how-to-automate-generate-and-manage-sboms/) (3 days ago)
+- [ModuleQ reduces vulnerability management time by 80% with Anchore Secure](https://anchore.com/blog/moduleq-2024-case-study/) (6 days ago)
 - [Understanding SBOMs: An Introduction to Modern Development](https://anchore.com/webinars/understanding-sboms-an-introduction/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Known vulnerabilities not in Chainguard / Wolfi tracker?](https://anchorecommunity.discourse.group/t/known-vulnerabilities-not-in-chainguard-wolfi-tracker/286) (1 day ago)
-- [Does syft knows how to identify AI packages?](https://anchorecommunity.discourse.group/t/does-syft-knows-how-to-identify-ai-packages/284) (4 days ago)
-- [December 19th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-19th-open-source-gardening-live-stream/283) (4 days ago)
-- [December 19th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/december-19th-community-meeting-zoom-call/282) (4 days ago)
+- [Known vulnerabilities not in Chainguard / Wolfi tracker?](https://anchorecommunity.discourse.group/t/known-vulnerabilities-not-in-chainguard-wolfi-tracker/286) (2 days ago)
+- [Does syft knows how to identify AI packages?](https://anchorecommunity.discourse.group/t/does-syft-knows-how-to-identify-ai-packages/284) (5 days ago)
+- [December 19th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/december-19th-open-source-gardening-live-stream/283) (5 days ago)
+- [December 19th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/december-19th-community-meeting-zoom-call/282) (5 days ago)
 - [Grype - v0.86.1 released](https://anchorecommunity.discourse.group/t/grype-v0-86-1-released/281) (1 week ago)
