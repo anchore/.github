@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Going All In: Anchore at SBOM Plugfest 2024](https://anchore.com/blog/going-all-in-anchore-at-sbom-plugfest-2024/) (6 days ago)
-- [Understanding SBOMs: Deep Dive with Kate Stewart](https://anchore.com/webinars/understanding-sboms-deep-dive-with-kate-stewart/) (6 days ago)
-- [Understanding SBOMs: How to Automate, Generate and Manage SBOMs](https://anchore.com/webinars/understanding-sboms-how-to-automate-generate-and-manage-sboms/) (6 days ago)
+- [Going All In: Anchore at SBOM Plugfest 2024](https://anchore.com/blog/going-all-in-anchore-at-sbom-plugfest-2024/) (1 week ago)
+- [Understanding SBOMs: Deep Dive with Kate Stewart](https://anchore.com/webinars/understanding-sboms-deep-dive-with-kate-stewart/) (1 week ago)
+- [Understanding SBOMs: How to Automate, Generate and Manage SBOMs](https://anchore.com/webinars/understanding-sboms-how-to-automate-generate-and-manage-sboms/) (1 week ago)
 - [ModuleQ reduces vulnerability management time by 80% with Anchore Secure](https://anchore.com/blog/moduleq-2024-case-study/) (1 week ago)
 - [Understanding SBOMs: An Introduction to Modern Development](https://anchore.com/webinars/understanding-sboms-an-introduction/) (2 weeks ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Action items of executable](https://anchorecommunity.discourse.group/t/action-items-of-executable/291) (today)
-- [Anchore Open Source: 2024 Year in Review](https://anchorecommunity.discourse.group/t/anchore-open-source-2024-year-in-review/290) (3 days ago)
-- [Explanation about how stereoscope is build and works](https://anchorecommunity.discourse.group/t/explanation-about-how-stereoscope-is-build-and-works/289) (3 days ago)
-- [Connect components from SBOM input to grype output](https://anchorecommunity.discourse.group/t/connect-components-from-sbom-input-to-grype-output/288) (3 days ago)
-- [Known vulnerabilities not in Chainguard / Wolfi tracker?](https://anchorecommunity.discourse.group/t/known-vulnerabilities-not-in-chainguard-wolfi-tracker/286) (5 days ago)
+- [Action items of executable](https://anchorecommunity.discourse.group/t/action-items-of-executable/291) (1 day ago)
+- [Anchore Open Source: 2024 Year in Review](https://anchorecommunity.discourse.group/t/anchore-open-source-2024-year-in-review/290) (4 days ago)
+- [Explanation about how stereoscope is build and works](https://anchorecommunity.discourse.group/t/explanation-about-how-stereoscope-is-build-and-works/289) (4 days ago)
+- [Connect components from SBOM input to grype output](https://anchorecommunity.discourse.group/t/connect-components-from-sbom-input-to-grype-output/288) (4 days ago)
+- [Known vulnerabilities not in Chainguard / Wolfi tracker?](https://anchorecommunity.discourse.group/t/known-vulnerabilities-not-in-chainguard-wolfi-tracker/286) (6 days ago)
