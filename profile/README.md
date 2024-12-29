@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Action items of executable](https://anchorecommunity.discourse.group/t/action-items-of-executable/291) (2 days ago)
-- [Anchore Open Source: 2024 Year in Review](https://anchorecommunity.discourse.group/t/anchore-open-source-2024-year-in-review/290) (5 days ago)
-- [Explanation about how stereoscope is build and works](https://anchorecommunity.discourse.group/t/explanation-about-how-stereoscope-is-build-and-works/289) (5 days ago)
-- [Connect components from SBOM input to grype output](https://anchorecommunity.discourse.group/t/connect-components-from-sbom-input-to-grype-output/288) (5 days ago)
+- [Action items of executable](https://anchorecommunity.discourse.group/t/action-items-of-executable/291) (3 days ago)
+- [Anchore Open Source: 2024 Year in Review](https://anchorecommunity.discourse.group/t/anchore-open-source-2024-year-in-review/290) (6 days ago)
+- [Explanation about how stereoscope is build and works](https://anchorecommunity.discourse.group/t/explanation-about-how-stereoscope-is-build-and-works/289) (6 days ago)
+- [Connect components from SBOM input to grype output](https://anchorecommunity.discourse.group/t/connect-components-from-sbom-input-to-grype-output/288) (6 days ago)
 - [Known vulnerabilities not in Chainguard / Wolfi tracker?](https://anchorecommunity.discourse.group/t/known-vulnerabilities-not-in-chainguard-wolfi-tracker/286) (1 week ago)
