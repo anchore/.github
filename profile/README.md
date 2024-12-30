@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [The Top Ten List: The 2024 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2024-anchore-blog/) (today)
 - [Going All In: Anchore at SBOM Plugfest 2024](https://anchore.com/blog/going-all-in-anchore-at-sbom-plugfest-2024/) (1 week ago)
 - [Understanding SBOMs: Deep Dive with Kate Stewart](https://anchore.com/webinars/understanding-sboms-deep-dive-with-kate-stewart/) (1 week ago)
 - [Understanding SBOMs: How to Automate, Generate and Manage SBOMs](https://anchore.com/webinars/understanding-sboms-how-to-automate-generate-and-manage-sboms/) (1 week ago)
 - [ModuleQ reduces vulnerability management time by 80% with Anchore Secure](https://anchore.com/blog/moduleq-2024-case-study/) (1 week ago)
-- [Understanding SBOMs: An Introduction to Modern Development](https://anchore.com/webinars/understanding-sboms-an-introduction/) (2 weeks ago)
 
 ### Community
 
