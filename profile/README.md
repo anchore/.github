@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The Top Ten List: The 2024 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2024-anchore-blog/) (today)
+- [The Top Ten List: The 2024 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2024-anchore-blog/) (1 day ago)
 - [Going All In: Anchore at SBOM Plugfest 2024](https://anchore.com/blog/going-all-in-anchore-at-sbom-plugfest-2024/) (1 week ago)
 - [Understanding SBOMs: Deep Dive with Kate Stewart](https://anchore.com/webinars/understanding-sboms-deep-dive-with-kate-stewart/) (1 week ago)
 - [Understanding SBOMs: How to Automate, Generate and Manage SBOMs](https://anchore.com/webinars/understanding-sboms-how-to-automate-generate-and-manage-sboms/) (1 week ago)
-- [ModuleQ reduces vulnerability management time by 80% with Anchore Secure](https://anchore.com/blog/moduleq-2024-case-study/) (1 week ago)
+- [ModuleQ reduces vulnerability management time by 80% with Anchore Secure](https://anchore.com/blog/moduleq-2024-case-study/) (2 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Stdlib versions](https://anchorecommunity.discourse.group/t/stdlib-versions/292) (today)
-- [Action items of executable](https://anchorecommunity.discourse.group/t/action-items-of-executable/291) (4 days ago)
+- [Stdlib versions](https://anchorecommunity.discourse.group/t/stdlib-versions/292) (1 day ago)
+- [Action items of executable](https://anchorecommunity.discourse.group/t/action-items-of-executable/291) (5 days ago)
 - [Anchore Open Source: 2024 Year in Review](https://anchorecommunity.discourse.group/t/anchore-open-source-2024-year-in-review/290) (1 week ago)
 - [Explanation about how stereoscope is build and works](https://anchorecommunity.discourse.group/t/explanation-about-how-stereoscope-is-build-and-works/289) (1 week ago)
 - [Connect components from SBOM input to grype output](https://anchorecommunity.discourse.group/t/connect-components-from-sbom-input-to-grype-output/288) (1 week ago)
