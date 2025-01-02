@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [January 2nd | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/january-2nd-community-meeting-zoom-call/296) (today)
 - [Build grype as a dll](https://anchorecommunity.discourse.group/t/build-grype-as-a-dll/294) (today)
 - [Grype scans in batches large SBOMs](https://anchorecommunity.discourse.group/t/grype-scans-in-batches-large-sboms/293) (1 day ago)
 - [Stdlib versions](https://anchorecommunity.discourse.group/t/stdlib-versions/292) (3 days ago)
 - [Action items of executable](https://anchorecommunity.discourse.group/t/action-items-of-executable/291) (1 week ago)
-- [Anchore Open Source: 2024 Year in Review](https://anchorecommunity.discourse.group/t/anchore-open-source-2024-year-in-review/290) (1 week ago)
