@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The Top Ten List: The 2024 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2024-anchore-blog/) (2 days ago)
+- [The Top Ten List: The 2024 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2024-anchore-blog/) (3 days ago)
 - [Going All In: Anchore at SBOM Plugfest 2024](https://anchore.com/blog/going-all-in-anchore-at-sbom-plugfest-2024/) (1 week ago)
 - [Understanding SBOMs: Deep Dive with Kate Stewart](https://anchore.com/webinars/understanding-sboms-deep-dive-with-kate-stewart/) (1 week ago)
 - [Understanding SBOMs: How to Automate, Generate and Manage SBOMs](https://anchore.com/webinars/understanding-sboms-how-to-automate-generate-and-manage-sboms/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype scans in batches large SBOMs](https://anchorecommunity.discourse.group/t/grype-scans-in-batches-large-sboms/293) (today)
-- [Stdlib versions](https://anchorecommunity.discourse.group/t/stdlib-versions/292) (2 days ago)
-- [Action items of executable](https://anchorecommunity.discourse.group/t/action-items-of-executable/291) (6 days ago)
+- [Grype scans in batches large SBOMs](https://anchorecommunity.discourse.group/t/grype-scans-in-batches-large-sboms/293) (1 day ago)
+- [Stdlib versions](https://anchorecommunity.discourse.group/t/stdlib-versions/292) (3 days ago)
+- [Action items of executable](https://anchorecommunity.discourse.group/t/action-items-of-executable/291) (1 week ago)
 - [Anchore Open Source: 2024 Year in Review](https://anchorecommunity.discourse.group/t/anchore-open-source-2024-year-in-review/290) (1 week ago)
 - [Explanation about how stereoscope is build and works](https://anchorecommunity.discourse.group/t/explanation-about-how-stereoscope-is-build-and-works/289) (1 week ago)
