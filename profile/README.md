@@ -22,7 +22,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 - [Going All In: Anchore at SBOM Plugfest 2024](https://anchore.com/blog/going-all-in-anchore-at-sbom-plugfest-2024/) (2 weeks ago)
 - [Understanding SBOMs: Deep Dive with Kate Stewart](https://anchore.com/webinars/understanding-sboms-deep-dive-with-kate-stewart/) (2 weeks ago)
 - [Understanding SBOMs: How to Automate, Generate and Manage SBOMs](https://anchore.com/webinars/understanding-sboms-how-to-automate-generate-and-manage-sboms/) (2 weeks ago)
-- [ModuleQ reduces vulnerability management time by 80% with Anchore Secure](https://anchore.com/blog/moduleq-2024-case-study/) (2 weeks ago)
+- [Automating SBOMs: From Creation to Scanning &amp; Analysis](https://anchore.com/blog/sbom-automation/) (2 weeks ago)
 
 ### Community
 
