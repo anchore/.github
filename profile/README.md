@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Question about identifying base image layers](https://anchorecommunity.discourse.group/t/question-about-identifying-base-image-layers/297) (today)
 - [January 2nd | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/january-2nd-community-meeting-zoom-call/296) (3 days ago)
 - [Build grype as a dll](https://anchorecommunity.discourse.group/t/build-grype-as-a-dll/294) (3 days ago)
 - [Grype scans in batches large SBOMs](https://anchorecommunity.discourse.group/t/grype-scans-in-batches-large-sboms/293) (4 days ago)
 - [Stdlib versions](https://anchorecommunity.discourse.group/t/stdlib-versions/292) (6 days ago)
-- [Action items of executable](https://anchorecommunity.discourse.group/t/action-items-of-executable/291) (1 week ago)
