@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [&#39;Needs Discussion&#39; Review](https://anchorecommunity.discourse.group/t/needs-discussion-review/300) (today)
 - [Package detect, binary NOT detect](https://anchorecommunity.discourse.group/t/package-detect-binary-not-detect/299) (today)
 - [Question about identifying base image layers](https://anchorecommunity.discourse.group/t/question-about-identifying-base-image-layers/297) (1 day ago)
 - [January 2nd | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/january-2nd-community-meeting-zoom-call/296) (4 days ago)
 - [Build grype as a dll](https://anchorecommunity.discourse.group/t/build-grype-as-a-dll/294) (4 days ago)
-- [Grype scans in batches large SBOMs](https://anchorecommunity.discourse.group/t/grype-scans-in-batches-large-sboms/293) (5 days ago)
