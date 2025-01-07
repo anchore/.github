@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Improvements to scanning whole machine](https://anchorecommunity.discourse.group/t/improvements-to-scanning-whole-machine/301) (today)
-- [&#39;Needs Discussion&#39; Review](https://anchorecommunity.discourse.group/t/needs-discussion-review/300) (today)
-- [Package detect, binary NOT detect](https://anchorecommunity.discourse.group/t/package-detect-binary-not-detect/299) (today)
-- [Question about identifying base image layers](https://anchorecommunity.discourse.group/t/question-about-identifying-base-image-layers/297) (1 day ago)
-- [January 2nd | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/january-2nd-community-meeting-zoom-call/296) (4 days ago)
+- [Improvements to scanning whole machine](https://anchorecommunity.discourse.group/t/improvements-to-scanning-whole-machine/301) (1 day ago)
+- [&#39;Needs Discussion&#39; Review](https://anchorecommunity.discourse.group/t/needs-discussion-review/300) (1 day ago)
+- [Package detect, binary NOT detect](https://anchorecommunity.discourse.group/t/package-detect-binary-not-detect/299) (1 day ago)
+- [Question about identifying base image layers](https://anchorecommunity.discourse.group/t/question-about-identifying-base-image-layers/297) (2 days ago)
+- [January 2nd | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/january-2nd-community-meeting-zoom-call/296) (5 days ago)
