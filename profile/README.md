@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [All Things SBOM in 2025: a Weekly Webinar Series](https://anchore.com/blog/all-things-sbom-in-2025-a-weekly-webinar-series/) (today)
+- [All Things SBOM in 2025: a Weekly Webinar Series](https://anchore.com/blog/all-things-sbom-in-2025-a-weekly-webinar-series/) (1 day ago)
 - [The Top Ten List: The 2024 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2024-anchore-blog/) (1 week ago)
 - [Going All In: Anchore at SBOM Plugfest 2024](https://anchore.com/blog/going-all-in-anchore-at-sbom-plugfest-2024/) (2 weeks ago)
 - [Understanding SBOMs: Deep Dive with Kate Stewart](https://anchore.com/webinars/understanding-sboms-deep-dive-with-kate-stewart/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Improvements to scanning whole machine](https://anchorecommunity.discourse.group/t/improvements-to-scanning-whole-machine/301) (1 day ago)
-- [&#39;Needs Discussion&#39; Review](https://anchorecommunity.discourse.group/t/needs-discussion-review/300) (1 day ago)
-- [Package detect, binary NOT detect](https://anchorecommunity.discourse.group/t/package-detect-binary-not-detect/299) (1 day ago)
-- [Question about identifying base image layers](https://anchorecommunity.discourse.group/t/question-about-identifying-base-image-layers/297) (2 days ago)
-- [January 2nd | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/january-2nd-community-meeting-zoom-call/296) (5 days ago)
+- [Improvements to scanning whole machine](https://anchorecommunity.discourse.group/t/improvements-to-scanning-whole-machine/301) (2 days ago)
+- [&#39;Needs Discussion&#39; Review](https://anchorecommunity.discourse.group/t/needs-discussion-review/300) (2 days ago)
+- [Package detect, binary NOT detect](https://anchorecommunity.discourse.group/t/package-detect-binary-not-detect/299) (2 days ago)
+- [Question about identifying base image layers](https://anchorecommunity.discourse.group/t/question-about-identifying-base-image-layers/297) (3 days ago)
+- [January 2nd | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/january-2nd-community-meeting-zoom-call/296) (6 days ago)
