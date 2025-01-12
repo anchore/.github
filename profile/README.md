@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [All Things SBOM in 2025: a Weekly Webinar Series](https://anchore.com/blog/all-things-sbom-in-2025-a-weekly-webinar-series/) (4 days ago)
+- [All Things SBOM in 2025: a Weekly Webinar Series](https://anchore.com/blog/all-things-sbom-in-2025-a-weekly-webinar-series/) (5 days ago)
 - [The Top Ten List: The 2024 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2024-anchore-blog/) (1 week ago)
 - [Going All In: Anchore at SBOM Plugfest 2024](https://anchore.com/blog/going-all-in-anchore-at-sbom-plugfest-2024/) (3 weeks ago)
 - [Understanding SBOMs: Deep Dive with Kate Stewart](https://anchore.com/webinars/understanding-sboms-deep-dive-with-kate-stewart/) (3 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Unable to detect nghttp2, brotli, and sqlite components in a container image SBOM](https://anchorecommunity.discourse.group/t/unable-to-detect-nghttp2-brotli-and-sqlite-components-in-a-container-image-sbom/304) (today)
-- [January 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-9th-open-source-gardening-live-stream/302) (2 days ago)
-- [Improvements to scanning whole machine](https://anchorecommunity.discourse.group/t/improvements-to-scanning-whole-machine/301) (5 days ago)
-- [&#39;Needs Discussion&#39; Review](https://anchorecommunity.discourse.group/t/needs-discussion-review/300) (5 days ago)
-- [Package detect, binary NOT detect](https://anchorecommunity.discourse.group/t/package-detect-binary-not-detect/299) (5 days ago)
+- [Unable to detect nghttp2, brotli, and sqlite components in a container image SBOM](https://anchorecommunity.discourse.group/t/unable-to-detect-nghttp2-brotli-and-sqlite-components-in-a-container-image-sbom/304) (1 day ago)
+- [January 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-9th-open-source-gardening-live-stream/302) (3 days ago)
+- [Improvements to scanning whole machine](https://anchorecommunity.discourse.group/t/improvements-to-scanning-whole-machine/301) (6 days ago)
+- [&#39;Needs Discussion&#39; Review](https://anchorecommunity.discourse.group/t/needs-discussion-review/300) (6 days ago)
+- [Package detect, binary NOT detect](https://anchorecommunity.discourse.group/t/package-detect-binary-not-detect/299) (6 days ago)
