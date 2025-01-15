@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Rocky Mountain Cyber Symposium 2025](https://anchore.com/events/rocky-mountain-cyber-symposium-2025/) (today)
-- [WEST 2025](https://anchore.com/events/west-2025/) (today)
-- [Software Supply Chain Security in 2025: SBOMs Take Center Stage](https://anchore.com/blog/software-supply-chain-security-in-2025-sboms-take-center-stage/) (today)
+- [Rocky Mountain Cyber Symposium 2025](https://anchore.com/events/rocky-mountain-cyber-symposium-2025/) (1 day ago)
+- [WEST 2025](https://anchore.com/events/west-2025/) (1 day ago)
+- [Software Supply Chain Security in 2025: SBOMs Take Center Stage](https://anchore.com/blog/software-supply-chain-security-in-2025-sboms-take-center-stage/) (1 day ago)
 - [All Things SBOM in 2025: a Weekly Webinar Series](https://anchore.com/blog/all-things-sbom-in-2025-a-weekly-webinar-series/) (1 week ago)
 - [The Top Ten List: The 2024 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2024-anchore-blog/) (2 weeks ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Unable to detect nghttp2, brotli, and sqlite components in a container image SBOM](https://anchorecommunity.discourse.group/t/unable-to-detect-nghttp2-brotli-and-sqlite-components-in-a-container-image-sbom/304) (3 days ago)
-- [January 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-9th-open-source-gardening-live-stream/302) (5 days ago)
+- [Unable to detect nghttp2, brotli, and sqlite components in a container image SBOM](https://anchorecommunity.discourse.group/t/unable-to-detect-nghttp2-brotli-and-sqlite-components-in-a-container-image-sbom/304) (4 days ago)
+- [January 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-9th-open-source-gardening-live-stream/302) (6 days ago)
 - [Improvements to scanning whole machine](https://anchorecommunity.discourse.group/t/improvements-to-scanning-whole-machine/301) (1 week ago)
 - [&#39;Needs Discussion&#39; Review](https://anchorecommunity.discourse.group/t/needs-discussion-review/300) (1 week ago)
 - [Package detect, binary NOT detect](https://anchorecommunity.discourse.group/t/package-detect-binary-not-detect/299) (1 week ago)
