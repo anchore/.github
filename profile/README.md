@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [January 16th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/january-16th-community-meeting-zoom-call/308) (today)
 - [Wellness check on Alex Goodman](https://anchorecommunity.discourse.group/t/wellness-check-on-alex-goodman/307) (1 day ago)
 - [Unable to detect nghttp2, brotli, and sqlite components in a container image SBOM](https://anchorecommunity.discourse.group/t/unable-to-detect-nghttp2-brotli-and-sqlite-components-in-a-container-image-sbom/304) (5 days ago)
 - [January 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-9th-open-source-gardening-live-stream/302) (1 week ago)
 - [Improvements to scanning whole machine](https://anchorecommunity.discourse.group/t/improvements-to-scanning-whole-machine/301) (1 week ago)
-- [&#39;Needs Discussion&#39; Review](https://anchorecommunity.discourse.group/t/needs-discussion-review/300) (1 week ago)
