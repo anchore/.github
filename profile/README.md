@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Rocky Mountain Cyber Symposium 2025](https://anchore.com/events/rocky-mountain-cyber-symposium-2025/) (5 days ago)
-- [WEST 2025](https://anchore.com/events/west-2025/) (5 days ago)
-- [Software Supply Chain Security in 2025: SBOMs Take Center Stage](https://anchore.com/blog/software-supply-chain-security-in-2025-sboms-take-center-stage/) (5 days ago)
+- [Rocky Mountain Cyber Symposium 2025](https://anchore.com/events/rocky-mountain-cyber-symposium-2025/) (6 days ago)
+- [WEST 2025](https://anchore.com/events/west-2025/) (6 days ago)
+- [Software Supply Chain Security in 2025: SBOMs Take Center Stage](https://anchore.com/blog/software-supply-chain-security-in-2025-sboms-take-center-stage/) (6 days ago)
 - [All Things SBOM in 2025: a Weekly Webinar Series](https://anchore.com/blog/all-things-sbom-in-2025-a-weekly-webinar-series/) (1 week ago)
-- [The Top Ten List: The 2024 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2024-anchore-blog/) (2 weeks ago)
+- [The Top Ten List: The 2024 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2024-anchore-blog/) (3 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [January 16th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-16th-open-source-gardening-live-stream/309) (3 days ago)
-- [January 16th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/january-16th-community-meeting-zoom-call/308) (3 days ago)
-- [Wellness check on Alex Goodman](https://anchorecommunity.discourse.group/t/wellness-check-on-alex-goodman/307) (4 days ago)
+- [January 16th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-16th-open-source-gardening-live-stream/309) (4 days ago)
+- [January 16th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/january-16th-community-meeting-zoom-call/308) (4 days ago)
+- [Wellness check on Alex Goodman](https://anchorecommunity.discourse.group/t/wellness-check-on-alex-goodman/307) (5 days ago)
 - [Unable to detect nghttp2, brotli, and sqlite components in a container image SBOM](https://anchorecommunity.discourse.group/t/unable-to-detect-nghttp2-brotli-and-sqlite-components-in-a-container-image-sbom/304) (1 week ago)
 - [January 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-9th-open-source-gardening-live-stream/302) (1 week ago)
