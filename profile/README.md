@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [A Complete Guide to Container Security](https://anchore.com/blog/container-security/) (today)
 - [Rocky Mountain Cyber Symposium 2025](https://anchore.com/events/rocky-mountain-cyber-symposium-2025/) (1 week ago)
 - [WEST 2025](https://anchore.com/events/west-2025/) (1 week ago)
 - [Software Supply Chain Security in 2025: SBOMs Take Center Stage](https://anchore.com/blog/software-supply-chain-security-in-2025-sboms-take-center-stage/) (1 week ago)
 - [All Things SBOM in 2025: a Weekly Webinar Series](https://anchore.com/blog/all-things-sbom-in-2025-a-weekly-webinar-series/) (2 weeks ago)
-- [The Top Ten List: The 2024 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2024-anchore-blog/) (3 weeks ago)
 
 ### Community
 
