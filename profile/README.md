@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Syft - v1.19.0 released](https://anchorecommunity.discourse.group/t/syft-v1-19-0-released/313) (today)
 - [False positive in ubuntu openssl 3.0.2](https://anchorecommunity.discourse.group/t/false-positive-in-ubuntu-openssl-3-0-2/312) (today)
 - [January 16th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-16th-open-source-gardening-live-stream/309) (6 days ago)
 - [January 16th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/january-16th-community-meeting-zoom-call/308) (6 days ago)
 - [Wellness check on Alex Goodman](https://anchorecommunity.discourse.group/t/wellness-check-on-alex-goodman/307) (1 week ago)
-- [Unable to detect nghttp2, brotli, and sqlite components in a container image SBOM](https://anchorecommunity.discourse.group/t/unable-to-detect-nghttp2-brotli-and-sqlite-components-in-a-container-image-sbom/304) (1 week ago)
