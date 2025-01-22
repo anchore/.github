@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Grant - v0.2.6 released](https://anchorecommunity.discourse.group/t/grant-v0-2-6-released/315) (today)
+- [Grype - v0.87.0 released](https://anchorecommunity.discourse.group/t/grype-v0-87-0-released/314) (today)
 - [Syft - v1.19.0 released](https://anchorecommunity.discourse.group/t/syft-v1-19-0-released/313) (today)
 - [False positive in ubuntu openssl 3.0.2](https://anchorecommunity.discourse.group/t/false-positive-in-ubuntu-openssl-3-0-2/312) (today)
 - [January 16th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-16th-open-source-gardening-live-stream/309) (6 days ago)
-- [January 16th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/january-16th-community-meeting-zoom-call/308) (6 days ago)
-- [Wellness check on Alex Goodman](https://anchorecommunity.discourse.group/t/wellness-check-on-alex-goodman/307) (1 week ago)
