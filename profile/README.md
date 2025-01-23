@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [A Complete Guide to Container Security](https://anchore.com/blog/container-security/) (1 day ago)
+- [A Complete Guide to Container Security](https://anchore.com/blog/container-security/) (2 days ago)
 - [Rocky Mountain Cyber Symposium 2025](https://anchore.com/events/rocky-mountain-cyber-symposium-2025/) (1 week ago)
 - [WEST 2025](https://anchore.com/events/west-2025/) (1 week ago)
 - [Software Supply Chain Security in 2025: SBOMs Take Center Stage](https://anchore.com/blog/software-supply-chain-security-in-2025-sboms-take-center-stage/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grant - v0.2.6 released](https://anchorecommunity.discourse.group/t/grant-v0-2-6-released/315) (today)
-- [Grype - v0.87.0 released](https://anchorecommunity.discourse.group/t/grype-v0-87-0-released/314) (today)
-- [Syft - v1.19.0 released](https://anchorecommunity.discourse.group/t/syft-v1-19-0-released/313) (today)
-- [False positive in ubuntu openssl 3.0.2](https://anchorecommunity.discourse.group/t/false-positive-in-ubuntu-openssl-3-0-2/312) (today)
-- [January 16th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-16th-open-source-gardening-live-stream/309) (6 days ago)
+- [Grant - v0.2.6 released](https://anchorecommunity.discourse.group/t/grant-v0-2-6-released/315) (1 day ago)
+- [Grype - v0.87.0 released](https://anchorecommunity.discourse.group/t/grype-v0-87-0-released/314) (1 day ago)
+- [Syft - v1.19.0 released](https://anchorecommunity.discourse.group/t/syft-v1-19-0-released/313) (1 day ago)
+- [False positive in ubuntu openssl 3.0.2](https://anchorecommunity.discourse.group/t/false-positive-in-ubuntu-openssl-3-0-2/312) (1 day ago)
+- [January 16th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-16th-open-source-gardening-live-stream/309) (1 week ago)
