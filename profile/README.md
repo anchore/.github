@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [What are the plans for metadata in the syft format](https://anchorecommunity.discourse.group/t/what-are-the-plans-for-metadata-in-the-syft-format/318) (today)
 - [January 23rd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-23rd-open-source-gardening-live-stream/317) (1 day ago)
 - [Show each CVE only once i final results](https://anchorecommunity.discourse.group/t/show-each-cve-only-once-i-final-results/316) (1 day ago)
 - [Grant - v0.2.6 released](https://anchorecommunity.discourse.group/t/grant-v0-2-6-released/315) (2 days ago)
 - [Grype - v0.87.0 released](https://anchorecommunity.discourse.group/t/grype-v0-87-0-released/314) (2 days ago)
-- [Syft - v1.19.0 released](https://anchorecommunity.discourse.group/t/syft-v1-19-0-released/313) (2 days ago)
