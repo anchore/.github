@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [A Complete Guide to Container Security](https://anchore.com/blog/container-security/) (6 days ago)
-- [Rocky Mountain Cyber Symposium 2025](https://anchore.com/events/rocky-mountain-cyber-symposium-2025/) (1 week ago)
-- [WEST 2025](https://anchore.com/events/west-2025/) (1 week ago)
-- [Software Supply Chain Security in 2025: SBOMs Take Center Stage](https://anchore.com/blog/software-supply-chain-security-in-2025-sboms-take-center-stage/) (1 week ago)
-- [All Things SBOM in 2025: a Weekly Webinar Series](https://anchore.com/blog/all-things-sbom-in-2025-a-weekly-webinar-series/) (2 weeks ago)
+- [A Complete Guide to Container Security](https://anchore.com/blog/container-security/) (1 week ago)
+- [Rocky Mountain Cyber Symposium 2025](https://anchore.com/events/rocky-mountain-cyber-symposium-2025/) (2 weeks ago)
+- [WEST 2025](https://anchore.com/events/west-2025/) (2 weeks ago)
+- [Software Supply Chain Security in 2025: SBOMs Take Center Stage](https://anchore.com/blog/software-supply-chain-security-in-2025-sboms-take-center-stage/) (2 weeks ago)
+- [All Things SBOM in 2025: a Weekly Webinar Series](https://anchore.com/blog/all-things-sbom-in-2025-a-weekly-webinar-series/) (3 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [January 30th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-30th-open-source-gardening-live-stream/320) (today)
-- [Change in PURL since syft v.1.19.0](https://anchorecommunity.discourse.group/t/change-in-purl-since-syft-v-1-19-0/319) (1 day ago)
-- [What are the plans for metadata in the syft format](https://anchorecommunity.discourse.group/t/what-are-the-plans-for-metadata-in-the-syft-format/318) (3 days ago)
-- [January 23rd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-23rd-open-source-gardening-live-stream/317) (4 days ago)
-- [Show each CVE only once i final results](https://anchorecommunity.discourse.group/t/show-each-cve-only-once-i-final-results/316) (4 days ago)
+- [January 30th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-30th-open-source-gardening-live-stream/320) (1 day ago)
+- [Change in PURL since syft v.1.19.0](https://anchorecommunity.discourse.group/t/change-in-purl-since-syft-v-1-19-0/319) (2 days ago)
+- [What are the plans for metadata in the syft format](https://anchorecommunity.discourse.group/t/what-are-the-plans-for-metadata-in-the-syft-format/318) (4 days ago)
+- [January 23rd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-23rd-open-source-gardening-live-stream/317) (5 days ago)
+- [Show each CVE only once i final results](https://anchorecommunity.discourse.group/t/show-each-cve-only-once-i-final-results/316) (5 days ago)
