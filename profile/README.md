@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [2025 Cybersecurity Executive Order Requires Up Leveled Software Supply Chain Security](https://anchore.com/blog/2025-cybersecurity-executive-order/) (today)
 - [A Complete Guide to Container Security](https://anchore.com/blog/container-security/) (1 week ago)
 - [Rocky Mountain Cyber Symposium 2025](https://anchore.com/events/rocky-mountain-cyber-symposium-2025/) (2 weeks ago)
 - [WEST 2025](https://anchore.com/events/west-2025/) (2 weeks ago)
 - [Software Supply Chain Security in 2025: SBOMs Take Center Stage](https://anchore.com/blog/software-supply-chain-security-in-2025-sboms-take-center-stage/) (2 weeks ago)
-- [All Things SBOM in 2025: a Weekly Webinar Series](https://anchore.com/blog/all-things-sbom-in-2025-a-weekly-webinar-series/) (3 weeks ago)
 
 ### Community
 
