@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Exploring VM Disk Image Scanning: sbom-vm Project](https://anchorecommunity.discourse.group/t/exploring-vm-disk-image-scanning-sbom-vm-project/326) (today)
 - [SIGSEGV error in anchorectl importing feeds into airgapped environment](https://anchorecommunity.discourse.group/t/sigsegv-error-in-anchorectl-importing-feeds-into-airgapped-environment/322) (4 days ago)
 - [January 30th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-30th-open-source-gardening-live-stream/320) (5 days ago)
 - [Change in PURL since syft v.1.19.0](https://anchorecommunity.discourse.group/t/change-in-purl-since-syft-v-1-19-0/319) (6 days ago)
 - [What are the plans for metadata in the syft format](https://anchorecommunity.discourse.group/t/what-are-the-plans-for-metadata-in-the-syft-format/318) (1 week ago)
-- [January 23rd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-23rd-open-source-gardening-live-stream/317) (1 week ago)
