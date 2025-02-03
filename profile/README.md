@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [2025 Cybersecurity Executive Order Requires Up Leveled Software Supply Chain Security](https://anchore.com/blog/2025-cybersecurity-executive-order/) (5 days ago)
+- [2025 Cybersecurity Executive Order Requires Up Leveled Software Supply Chain Security](https://anchore.com/blog/2025-cybersecurity-executive-order/) (6 days ago)
 - [A Complete Guide to Container Security](https://anchore.com/blog/container-security/) (1 week ago)
 - [Rocky Mountain Cyber Symposium 2025](https://anchore.com/events/rocky-mountain-cyber-symposium-2025/) (2 weeks ago)
 - [WEST 2025](https://anchore.com/events/west-2025/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Exploring VM Disk Image Scanning: sbom-vm Project](https://anchorecommunity.discourse.group/t/exploring-vm-disk-image-scanning-sbom-vm-project/326) (1 day ago)
-- [SIGSEGV error in anchorectl importing feeds into airgapped environment](https://anchorecommunity.discourse.group/t/sigsegv-error-in-anchorectl-importing-feeds-into-airgapped-environment/322) (5 days ago)
-- [January 30th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-30th-open-source-gardening-live-stream/320) (6 days ago)
+- [Exploring VM Disk Image Scanning: sbom-vm Project](https://anchorecommunity.discourse.group/t/exploring-vm-disk-image-scanning-sbom-vm-project/326) (2 days ago)
+- [SIGSEGV error in anchorectl importing feeds into airgapped environment](https://anchorecommunity.discourse.group/t/sigsegv-error-in-anchorectl-importing-feeds-into-airgapped-environment/322) (6 days ago)
+- [January 30th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-30th-open-source-gardening-live-stream/320) (1 week ago)
 - [Change in PURL since syft v.1.19.0](https://anchorecommunity.discourse.group/t/change-in-purl-since-syft-v-1-19-0/319) (1 week ago)
 - [What are the plans for metadata in the syft format](https://anchorecommunity.discourse.group/t/what-are-the-plans-for-metadata-in-the-syft-format/318) (1 week ago)
