@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Do we have plan to introduce CVSS 4.0 score in Grype?](https://anchorecommunity.discourse.group/t/do-we-have-plan-to-introduce-cvss-4-0-score-in-grype/330) (today)
 - [February 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-6th-open-source-gardening-live-stream/328) (2 days ago)
 - [Introducing sbommage - A friendly SBOM viewer](https://anchorecommunity.discourse.group/t/introducing-sbommage-a-friendly-sbom-viewer/327) (2 days ago)
 - [Exploring VM Disk Image Scanning: sbom-vm Project](https://anchorecommunity.discourse.group/t/exploring-vm-disk-image-scanning-sbom-vm-project/326) (4 days ago)
 - [SIGSEGV error in anchorectl importing feeds into airgapped environment](https://anchorecommunity.discourse.group/t/sigsegv-error-in-anchorectl-importing-feeds-into-airgapped-environment/322) (1 week ago)
-- [January 30th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/january-30th-open-source-gardening-live-stream/320) (1 week ago)
