@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Increase Supply Chain Transparency &amp; Security with Harbor and Anchore](https://anchore.com/webinars/increase-supply-chain-transparency-security-with-harbor-and-anchore/) (1 day ago)
-- [SBOM Management: How to Tackle Sprawl and Secure Your Supply Chain](https://anchore.com/blog/sbom-management-how-to-tackle-sprawl-and-secure-your-supply-chain/) (1 day ago)
+- [Increase Supply Chain Transparency &amp; Security with Harbor and Anchore](https://anchore.com/webinars/increase-supply-chain-transparency-security-with-harbor-and-anchore/) (2 days ago)
+- [SBOM Management: How to Tackle Sprawl and Secure Your Supply Chain](https://anchore.com/blog/sbom-management-how-to-tackle-sprawl-and-secure-your-supply-chain/) (2 days ago)
 - [2025 Cybersecurity Executive Order Requires Up Leveled Software Supply Chain Security](https://anchore.com/blog/2025-cybersecurity-executive-order/) (1 week ago)
 - [A Complete Guide to Container Security](https://anchore.com/blog/container-security/) (2 weeks ago)
 - [Rocky Mountain Cyber Symposium 2025](https://anchore.com/events/rocky-mountain-cyber-symposium-2025/) (3 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Reducing number of duplications from VM \ kernel scan](https://anchorecommunity.discourse.group/t/reducing-number-of-duplications-from-vm-kernel-scan/331) (today)
-- [Do we have plan to introduce CVSS 4.0 score in Grype?](https://anchorecommunity.discourse.group/t/do-we-have-plan-to-introduce-cvss-4-0-score-in-grype/330) (today)
-- [February 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-6th-open-source-gardening-live-stream/328) (2 days ago)
-- [Introducing sbommage - A friendly SBOM viewer](https://anchorecommunity.discourse.group/t/introducing-sbommage-a-friendly-sbom-viewer/327) (2 days ago)
-- [Exploring VM Disk Image Scanning: sbom-vm Project](https://anchorecommunity.discourse.group/t/exploring-vm-disk-image-scanning-sbom-vm-project/326) (4 days ago)
+- [Reducing number of duplications from VM \ kernel scan](https://anchorecommunity.discourse.group/t/reducing-number-of-duplications-from-vm-kernel-scan/331) (1 day ago)
+- [Do we have plan to introduce CVSS 4.0 score in Grype?](https://anchorecommunity.discourse.group/t/do-we-have-plan-to-introduce-cvss-4-0-score-in-grype/330) (1 day ago)
+- [February 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-6th-open-source-gardening-live-stream/328) (3 days ago)
+- [Introducing sbommage - A friendly SBOM viewer](https://anchorecommunity.discourse.group/t/introducing-sbommage-a-friendly-sbom-viewer/327) (3 days ago)
+- [Exploring VM Disk Image Scanning: sbom-vm Project](https://anchorecommunity.discourse.group/t/exploring-vm-disk-image-scanning-sbom-vm-project/326) (5 days ago)
