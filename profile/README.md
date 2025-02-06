@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [How Syft Scans Software to Generate SBOMs](https://anchore.com/blog/how-syft-scans-software-to-generate-sboms/) (today)
+- [SBOMs 101: A Free, Open Source eBook for the DevSecOps Community](https://anchore.com/blog/sboms-101-a-free-open-source-ebook-for-the-devsecops-community/) (today)
 - [Increase Supply Chain Transparency &amp; Security with Harbor and Anchore](https://anchore.com/webinars/increase-supply-chain-transparency-security-with-harbor-and-anchore/) (2 days ago)
 - [SBOM Management: How to Tackle Sprawl and Secure Your Supply Chain](https://anchore.com/blog/sbom-management-how-to-tackle-sprawl-and-secure-your-supply-chain/) (2 days ago)
 - [2025 Cybersecurity Executive Order Requires Up Leveled Software Supply Chain Security](https://anchore.com/blog/2025-cybersecurity-executive-order/) (1 week ago)
-- [A Complete Guide to Container Security](https://anchore.com/blog/container-security/) (2 weeks ago)
-- [Rocky Mountain Cyber Symposium 2025](https://anchore.com/events/rocky-mountain-cyber-symposium-2025/) (3 weeks ago)
 
 ### Community
 
