@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [How Syft Scans Software to Generate SBOMs](https://anchore.com/blog/how-syft-scans-software-to-generate-sboms/) (2 days ago)
-- [SBOMs 101: A Free, Open Source eBook for the DevSecOps Community](https://anchore.com/blog/sboms-101-a-free-open-source-ebook-for-the-devsecops-community/) (2 days ago)
-- [Increase Supply Chain Transparency &amp; Security with Harbor and Anchore](https://anchore.com/webinars/increase-supply-chain-transparency-security-with-harbor-and-anchore/) (4 days ago)
-- [SBOM Management: How to Tackle Sprawl and Secure Your Supply Chain](https://anchore.com/blog/sbom-management-how-to-tackle-sprawl-and-secure-your-supply-chain/) (4 days ago)
+- [How Syft Scans Software to Generate SBOMs](https://anchore.com/blog/how-syft-scans-software-to-generate-sboms/) (3 days ago)
+- [SBOMs 101: A Free, Open Source eBook for the DevSecOps Community](https://anchore.com/blog/sboms-101-a-free-open-source-ebook-for-the-devsecops-community/) (3 days ago)
+- [Increase Supply Chain Transparency &amp; Security with Harbor and Anchore](https://anchore.com/webinars/increase-supply-chain-transparency-security-with-harbor-and-anchore/) (5 days ago)
+- [SBOM Management: How to Tackle Sprawl and Secure Your Supply Chain](https://anchore.com/blog/sbom-management-how-to-tackle-sprawl-and-secure-your-supply-chain/) (5 days ago)
 - [2025 Cybersecurity Executive Order Requires Up Leveled Software Supply Chain Security](https://anchore.com/blog/2025-cybersecurity-executive-order/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Per commit performance tests](https://anchorecommunity.discourse.group/t/per-commit-performance-tests/332) (1 day ago)
-- [Reducing number of duplications from VM \ kernel scan](https://anchorecommunity.discourse.group/t/reducing-number-of-duplications-from-vm-kernel-scan/331) (3 days ago)
-- [Do we have plan to introduce CVSS 4.0 score in Grype?](https://anchorecommunity.discourse.group/t/do-we-have-plan-to-introduce-cvss-4-0-score-in-grype/330) (3 days ago)
-- [February 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-6th-open-source-gardening-live-stream/328) (5 days ago)
-- [Introducing sbommage - A friendly SBOM viewer](https://anchorecommunity.discourse.group/t/introducing-sbommage-a-friendly-sbom-viewer/327) (5 days ago)
+- [Per commit performance tests](https://anchorecommunity.discourse.group/t/per-commit-performance-tests/332) (2 days ago)
+- [Reducing number of duplications from VM \ kernel scan](https://anchorecommunity.discourse.group/t/reducing-number-of-duplications-from-vm-kernel-scan/331) (4 days ago)
+- [Do we have plan to introduce CVSS 4.0 score in Grype?](https://anchorecommunity.discourse.group/t/do-we-have-plan-to-introduce-cvss-4-0-score-in-grype/330) (4 days ago)
+- [February 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-6th-open-source-gardening-live-stream/328) (6 days ago)
+- [Introducing sbommage - A friendly SBOM viewer](https://anchorecommunity.discourse.group/t/introducing-sbommage-a-friendly-sbom-viewer/327) (6 days ago)
