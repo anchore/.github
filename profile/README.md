@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Community Spotlight: MegaLinter](https://anchore.com/events/community-spotlight-megalinter/) (today)
 - [DORA &#43; SBOM Primer: Achieving Software Supply Chain Security in Regulated Industries](https://anchore.com/blog/dora-overview/) (today)
 - [How Syft Scans Software to Generate SBOMs](https://anchore.com/blog/how-syft-scans-software-to-generate-sboms/) (5 days ago)
 - [SBOMs 101: A Free, Open Source eBook for the DevSecOps Community](https://anchore.com/blog/sboms-101-a-free-open-source-ebook-for-the-devsecops-community/) (5 days ago)
 - [Increase Supply Chain Transparency &amp; Security with Harbor and Anchore](https://anchore.com/webinars/increase-supply-chain-transparency-security-with-harbor-and-anchore/) (1 week ago)
-- [SBOM Management: How to Tackle Sprawl and Secure Your Supply Chain](https://anchore.com/blog/sbom-management-how-to-tackle-sprawl-and-secure-your-supply-chain/) (1 week ago)
 
 ### Community
 
