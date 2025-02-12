@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Community Spotlight: MegaLinter](https://anchore.com/events/community-spotlight-megalinter/) (today)
-- [DORA &#43; SBOM Primer: Achieving Software Supply Chain Security in Regulated Industries](https://anchore.com/blog/dora-overview/) (today)
-- [How Syft Scans Software to Generate SBOMs](https://anchore.com/blog/how-syft-scans-software-to-generate-sboms/) (5 days ago)
-- [SBOMs 101: A Free, Open Source eBook for the DevSecOps Community](https://anchore.com/blog/sboms-101-a-free-open-source-ebook-for-the-devsecops-community/) (5 days ago)
+- [Community Spotlight: MegaLinter](https://anchore.com/events/community-spotlight-megalinter/) (1 day ago)
+- [DORA &#43; SBOM Primer: Achieving Software Supply Chain Security in Regulated Industries](https://anchore.com/blog/dora-overview/) (1 day ago)
+- [How Syft Scans Software to Generate SBOMs](https://anchore.com/blog/how-syft-scans-software-to-generate-sboms/) (6 days ago)
+- [SBOMs 101: A Free, Open Source eBook for the DevSecOps Community](https://anchore.com/blog/sboms-101-a-free-open-source-ebook-for-the-devsecops-community/) (6 days ago)
 - [Increase Supply Chain Transparency &amp; Security with Harbor and Anchore](https://anchore.com/webinars/increase-supply-chain-transparency-security-with-harbor-and-anchore/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [February 13th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-13th-open-source-gardening-live-stream/333) (2 days ago)
-- [Per commit performance tests](https://anchorecommunity.discourse.group/t/per-commit-performance-tests/332) (4 days ago)
-- [Reducing number of duplications from VM \ kernel scan](https://anchorecommunity.discourse.group/t/reducing-number-of-duplications-from-vm-kernel-scan/331) (6 days ago)
-- [Do we have plan to introduce CVSS 4.0 score in Grype?](https://anchorecommunity.discourse.group/t/do-we-have-plan-to-introduce-cvss-4-0-score-in-grype/330) (6 days ago)
+- [February 13th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-13th-open-source-gardening-live-stream/333) (3 days ago)
+- [Per commit performance tests](https://anchorecommunity.discourse.group/t/per-commit-performance-tests/332) (5 days ago)
+- [Reducing number of duplications from VM \ kernel scan](https://anchorecommunity.discourse.group/t/reducing-number-of-duplications-from-vm-kernel-scan/331) (1 week ago)
+- [Do we have plan to introduce CVSS 4.0 score in Grype?](https://anchorecommunity.discourse.group/t/do-we-have-plan-to-introduce-cvss-4-0-score-in-grype/330) (1 week ago)
 - [February 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-6th-open-source-gardening-live-stream/328) (1 week ago)
