@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [SBOM 101: A Guide for Developers, Security Engineers &amp; the DevSecOps Community](https://anchore.com/white-papers/sbom-101-a-guide-for-developers-security-engineers-the-devsecops-community/) (today)
 - [Trust in the Supply Chain: CycloneDX Attestations &amp; SBOMs](https://anchore.com/events/trust-in-the-supply-chain-cyclonedx-attestations-sboms/) (today)
 - [STIG in Action: Continuous Compliance with MITRE &amp; Anchore](https://anchore.com/events/stig-in-action-continuous-compliance-with-mitre-anchore/) (2 days ago)
 - [Community Spotlight: MegaLinter](https://anchore.com/events/community-spotlight-megalinter/) (3 days ago)
 - [DORA &#43; SBOM Primer: Achieving Software Supply Chain Security in Regulated Industries](https://anchore.com/blog/dora-overview/) (3 days ago)
-- [How Syft Scans Software to Generate SBOMs](https://anchore.com/blog/how-syft-scans-software-to-generate-sboms/) (1 week ago)
 
 ### Community
 
