@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [SBOM 101: A Guide for Developers, Security Engineers &amp; the DevSecOps Community](https://anchore.com/ebook/sbom-101-a-guide-for-developers-security-engineers-the-devsecops-community/) (3 days ago)
-- [Trust in the Supply Chain: CycloneDX Attestations &amp; SBOMs](https://anchore.com/events/trust-in-the-supply-chain-cyclonedx-attestations-sboms/) (3 days ago)
-- [How Syft Scans Software to Generate SBOMs](https://anchore.com/blog/how-syft-scans-software-to-generate-sboms/) (4 days ago)
-- [STIG in Action: Continuous Compliance with MITRE &amp; Anchore](https://anchore.com/events/stig-in-action-continuous-compliance-with-mitre-anchore/) (5 days ago)
-- [Community Spotlight: MegaLinter](https://anchore.com/events/community-spotlight-megalinter/) (6 days ago)
+- [SBOM 101: A Guide for Developers, Security Engineers &amp; the DevSecOps Community](https://anchore.com/ebook/sbom-101-a-guide-for-developers-security-engineers-the-devsecops-community/) (4 days ago)
+- [Trust in the Supply Chain: CycloneDX Attestations &amp; SBOMs](https://anchore.com/events/trust-in-the-supply-chain-cyclonedx-attestations-sboms/) (4 days ago)
+- [How Syft Scans Software to Generate SBOMs](https://anchore.com/blog/how-syft-scans-software-to-generate-sboms/) (5 days ago)
+- [STIG in Action: Continuous Compliance with MITRE &amp; Anchore](https://anchore.com/events/stig-in-action-continuous-compliance-with-mitre-anchore/) (6 days ago)
+- [Community Spotlight: MegaLinter](https://anchore.com/events/community-spotlight-megalinter/) (1 week ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Online documentation for anchorectl](https://anchorecommunity.discourse.group/t/online-documentation-for-anchorectl/336) (5 days ago)
-- [How to help development teams to fix vulnerable packages identified by Syft?](https://anchorecommunity.discourse.group/t/how-to-help-development-teams-to-fix-vulnerable-packages-identified-by-syft/334) (5 days ago)
+- [Online documentation for anchorectl](https://anchorecommunity.discourse.group/t/online-documentation-for-anchorectl/336) (6 days ago)
+- [How to help development teams to fix vulnerable packages identified by Syft?](https://anchorecommunity.discourse.group/t/how-to-help-development-teams-to-fix-vulnerable-packages-identified-by-syft/334) (6 days ago)
 - [February 13th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-13th-open-source-gardening-live-stream/333) (1 week ago)
 - [Per commit performance tests](https://anchorecommunity.discourse.group/t/per-commit-performance-tests/332) (1 week ago)
 - [Reducing number of duplications from VM \ kernel scan](https://anchorecommunity.discourse.group/t/reducing-number-of-duplications-from-vm-kernel-scan/331) (1 week ago)
