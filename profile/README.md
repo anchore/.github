@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [FedRAMP Continuous Monitoring: Overview &amp; Checklist](https://anchore.com/blog/continuous-monitoring/) (today)
 - [SBOM 101: A Guide for Developers, Security Engineers &amp; the DevSecOps Community](https://anchore.com/ebook/sbom-101-a-guide-for-developers-security-engineers-the-devsecops-community/) (4 days ago)
 - [Trust in the Supply Chain: CycloneDX Attestations &amp; SBOMs](https://anchore.com/events/trust-in-the-supply-chain-cyclonedx-attestations-sboms/) (4 days ago)
 - [How Syft Scans Software to Generate SBOMs](https://anchore.com/blog/how-syft-scans-software-to-generate-sboms/) (5 days ago)
 - [STIG in Action: Continuous Compliance with MITRE &amp; Anchore](https://anchore.com/events/stig-in-action-continuous-compliance-with-mitre-anchore/) (6 days ago)
-- [Community Spotlight: MegaLinter](https://anchore.com/events/community-spotlight-megalinter/) (1 week ago)
 
 ### Community
 
