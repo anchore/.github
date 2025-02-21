@@ -19,10 +19,10 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 
 - [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (1 day ago)
+- [Anchore Community Spotlight: Nicolas Vuilamy from MegaLinter](https://anchore.com/blog/anchore-community-spotlight-nicolas-vuilamy-from-megalinter/) (1 day ago)
 - [FedRAMP Continuous Monitoring: Overview &amp; Checklist](https://anchore.com/blog/continuous-monitoring/) (3 days ago)
 - [SBOM 101: A Guide for Developers, Security Engineers &amp; the DevSecOps Community](https://anchore.com/ebook/sbom-101-a-guide-for-developers-security-engineers-the-devsecops-community/) (1 week ago)
 - [Trust in the Supply Chain: CycloneDX Attestations &amp; SBOMs](https://anchore.com/events/trust-in-the-supply-chain-cyclonedx-attestations-sboms/) (1 week ago)
-- [How Syft Scans Software to Generate SBOMs](https://anchore.com/blog/how-syft-scans-software-to-generate-sboms/) (1 week ago)
 
 ### Community
 
