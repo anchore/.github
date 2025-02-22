@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Syft - v1.20.0 released](https://anchorecommunity.discourse.group/t/syft-v1-20-0-released/340) (today)
 - [February 20th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-20th-open-source-gardening-live-stream/337) (3 days ago)
 - [Online documentation for anchorectl](https://anchorecommunity.discourse.group/t/online-documentation-for-anchorectl/336) (1 week ago)
 - [How to help development teams to fix vulnerable packages identified by Syft?](https://anchorecommunity.discourse.group/t/how-to-help-development-teams-to-fix-vulnerable-packages-identified-by-syft/334) (1 week ago)
 - [February 13th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-13th-open-source-gardening-live-stream/333) (1 week ago)
-- [Per commit performance tests](https://anchorecommunity.discourse.group/t/per-commit-performance-tests/332) (2 weeks ago)
