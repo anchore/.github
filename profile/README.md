@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (4 days ago)
-- [Anchore Community Spotlight: Nicolas Vuilamy from MegaLinter](https://anchore.com/blog/anchore-community-spotlight-nicolas-vuilamy-from-megalinter/) (4 days ago)
-- [FedRAMP Continuous Monitoring: Overview &amp; Checklist](https://anchore.com/blog/continuous-monitoring/) (6 days ago)
+- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (5 days ago)
+- [Anchore Community Spotlight: Nicolas Vuilamy from MegaLinter](https://anchore.com/blog/anchore-community-spotlight-nicolas-vuilamy-from-megalinter/) (5 days ago)
+- [FedRAMP Continuous Monitoring: Overview &amp; Checklist](https://anchore.com/blog/continuous-monitoring/) (1 week ago)
 - [SBOM 101: A Guide for Developers, Security Engineers &amp; the DevSecOps Community](https://anchore.com/ebook/sbom-101-a-guide-for-developers-security-engineers-the-devsecops-community/) (1 week ago)
 - [Trust in the Supply Chain: CycloneDX Attestations &amp; SBOMs](https://anchore.com/events/trust-in-the-supply-chain-cyclonedx-attestations-sboms/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [February 27th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-27th-open-source-gardening-live-stream/341) (today)
-- [Syft - v1.20.0 released](https://anchorecommunity.discourse.group/t/syft-v1-20-0-released/340) (2 days ago)
-- [February 20th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-20th-open-source-gardening-live-stream/337) (5 days ago)
+- [February 27th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-27th-open-source-gardening-live-stream/341) (1 day ago)
+- [Syft - v1.20.0 released](https://anchorecommunity.discourse.group/t/syft-v1-20-0-released/340) (3 days ago)
+- [February 20th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-20th-open-source-gardening-live-stream/337) (6 days ago)
 - [Online documentation for anchorectl](https://anchorecommunity.discourse.group/t/online-documentation-for-anchorectl/336) (1 week ago)
 - [How to help development teams to fix vulnerable packages identified by Syft?](https://anchorecommunity.discourse.group/t/how-to-help-development-teams-to-fix-vulnerable-packages-identified-by-syft/334) (1 week ago)
