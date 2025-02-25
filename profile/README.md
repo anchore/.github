@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Why syft version 1.20 is now listing files in the SBOM as default?](https://anchorecommunity.discourse.group/t/why-syft-version-1-20-is-now-listing-files-in-the-sbom-as-default/342) (today)
 - [February 27th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-27th-open-source-gardening-live-stream/341) (1 day ago)
 - [Syft - v1.20.0 released](https://anchorecommunity.discourse.group/t/syft-v1-20-0-released/340) (3 days ago)
 - [February 20th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-20th-open-source-gardening-live-stream/337) (6 days ago)
 - [Online documentation for anchorectl](https://anchorecommunity.discourse.group/t/online-documentation-for-anchorectl/336) (1 week ago)
-- [How to help development teams to fix vulnerable packages identified by Syft?](https://anchorecommunity.discourse.group/t/how-to-help-development-teams-to-fix-vulnerable-packages-identified-by-syft/334) (1 week ago)
