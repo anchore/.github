@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [How to Unlock Enterprise Value with SBOMs](https://anchore.com/white-papers/how-to-unlock-enterprise-value-with-sboms/) (today)
 - [Effortless SBOM Analysis: How Anchore Enterprise Simplifies Integration](https://anchore.com/blog/effortless-sbom-analysis-how-anchore-enterprise-simplifies-integration/) (1 day ago)
 - [Syft 1.20: Faster Scans, Smarter License Detection, and Enhanced Bitnami Support](https://anchore.com/blog/syft-1-20-faster-scans-smarter-license-detection-and-enhanced-bitnami-support/) (2 days ago)
 - [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (1 week ago)
 - [Anchore Community Spotlight: Nicolas Vuillamy from MegaLinter](https://anchore.com/blog/anchore-community-spotlight-nicolas-vuilamy-from-megalinter/) (1 week ago)
-- [FedRAMP Continuous Monitoring: Overview &amp; Checklist](https://anchore.com/blog/continuous-monitoring/) (1 week ago)
 
 ### Community
 
