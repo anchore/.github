@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Effortless SBOM Analysis: How Anchore Enterprise Simplifies Integration](https://anchore.com/blog/effortless-sbom-analysis-how-anchore-enterprise-simplifies-integration/) (today)
-- [Syft 1.20: Faster Scans, Smarter License Detection, and Enhanced Bitnami Support](https://anchore.com/blog/syft-1-20-faster-scans-smarter-license-detection-and-enhanced-bitnami-support/) (1 day ago)
-- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (6 days ago)
-- [Anchore Community Spotlight: Nicolas Vuilamy from MegaLinter](https://anchore.com/blog/anchore-community-spotlight-nicolas-vuilamy-from-megalinter/) (6 days ago)
+- [Effortless SBOM Analysis: How Anchore Enterprise Simplifies Integration](https://anchore.com/blog/effortless-sbom-analysis-how-anchore-enterprise-simplifies-integration/) (1 day ago)
+- [Syft 1.20: Faster Scans, Smarter License Detection, and Enhanced Bitnami Support](https://anchore.com/blog/syft-1-20-faster-scans-smarter-license-detection-and-enhanced-bitnami-support/) (2 days ago)
+- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (1 week ago)
+- [Anchore Community Spotlight: Nicolas Vuilamy from MegaLinter](https://anchore.com/blog/anchore-community-spotlight-nicolas-vuilamy-from-megalinter/) (1 week ago)
 - [FedRAMP Continuous Monitoring: Overview &amp; Checklist](https://anchore.com/blog/continuous-monitoring/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Why syft version 1.20 is now listing files in the SBOM as default?](https://anchorecommunity.discourse.group/t/why-syft-version-1-20-is-now-listing-files-in-the-sbom-as-default/342) (1 day ago)
-- [February 27th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-27th-open-source-gardening-live-stream/341) (2 days ago)
-- [Syft - v1.20.0 released](https://anchorecommunity.discourse.group/t/syft-v1-20-0-released/340) (4 days ago)
+- [Why syft version 1.20 is now listing files in the SBOM as default?](https://anchorecommunity.discourse.group/t/why-syft-version-1-20-is-now-listing-files-in-the-sbom-as-default/342) (2 days ago)
+- [February 27th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-27th-open-source-gardening-live-stream/341) (3 days ago)
+- [Syft - v1.20.0 released](https://anchorecommunity.discourse.group/t/syft-v1-20-0-released/340) (5 days ago)
 - [February 20th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-20th-open-source-gardening-live-stream/337) (1 week ago)
 - [Online documentation for anchorectl](https://anchorecommunity.discourse.group/t/online-documentation-for-anchorectl/336) (2 weeks ago)
