@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Community Spotlight: Laurent Goderre (Docker)](https://anchore.com/videos/community-spotlight-laurent-goderre-docker/) (2 days ago)
-- [How to Unlock Enterprise Value with SBOMs](https://anchore.com/white-papers/how-to-unlock-enterprise-value-with-sboms/) (3 days ago)
-- [Effortless SBOM Analysis: How Anchore Enterprise Simplifies Integration](https://anchore.com/blog/effortless-sbom-analysis-how-anchore-enterprise-simplifies-integration/) (4 days ago)
-- [Syft 1.20: Faster Scans, Smarter License Detection, and Enhanced Bitnami Support](https://anchore.com/blog/syft-1-20-faster-scans-smarter-license-detection-and-enhanced-bitnami-support/) (5 days ago)
+- [Community Spotlight: Laurent Goderre (Docker)](https://anchore.com/videos/community-spotlight-laurent-goderre-docker/) (3 days ago)
+- [How to Unlock Enterprise Value with SBOMs](https://anchore.com/white-papers/how-to-unlock-enterprise-value-with-sboms/) (4 days ago)
+- [Effortless SBOM Analysis: How Anchore Enterprise Simplifies Integration](https://anchore.com/blog/effortless-sbom-analysis-how-anchore-enterprise-simplifies-integration/) (5 days ago)
+- [Syft 1.20: Faster Scans, Smarter License Detection, and Enhanced Bitnami Support](https://anchore.com/blog/syft-1-20-faster-scans-smarter-license-detection-and-enhanced-bitnami-support/) (6 days ago)
 - [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [How long should syft really take?](https://anchorecommunity.discourse.group/t/how-long-should-syft-really-take/345) (2 days ago)
-- [Why syft version 1.20 is now listing files in the SBOM as default?](https://anchorecommunity.discourse.group/t/why-syft-version-1-20-is-now-listing-files-in-the-sbom-as-default/342) (5 days ago)
-- [February 27th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-27th-open-source-gardening-live-stream/341) (6 days ago)
+- [How long should syft really take?](https://anchorecommunity.discourse.group/t/how-long-should-syft-really-take/345) (3 days ago)
+- [Why syft version 1.20 is now listing files in the SBOM as default?](https://anchorecommunity.discourse.group/t/why-syft-version-1-20-is-now-listing-files-in-the-sbom-as-default/342) (6 days ago)
+- [February 27th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-27th-open-source-gardening-live-stream/341) (1 week ago)
 - [Syft - v1.20.0 released](https://anchorecommunity.discourse.group/t/syft-v1-20-0-released/340) (1 week ago)
 - [February 20th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-20th-open-source-gardening-live-stream/337) (1 week ago)
