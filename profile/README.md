@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [March 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-6th-open-source-gardening-live-stream/347) (today)
 - [V5 schema eol in grype](https://anchorecommunity.discourse.group/t/v5-schema-eol-in-grype/346) (1 day ago)
 - [How long should syft really take?](https://anchorecommunity.discourse.group/t/how-long-should-syft-really-take/345) (4 days ago)
 - [Why syft version 1.20 is now listing files in the SBOM as default?](https://anchorecommunity.discourse.group/t/why-syft-version-1-20-is-now-listing-files-in-the-sbom-as-default/342) (1 week ago)
 - [February 27th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-27th-open-source-gardening-live-stream/341) (1 week ago)
-- [Syft - v1.20.0 released](https://anchorecommunity.discourse.group/t/syft-v1-20-0-released/340) (1 week ago)
