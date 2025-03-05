@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Unlocking the Power of SBOMs: A Complete Guide](https://anchore.com/blog/unlocking-the-power-of-sboms-a-complete-guide/) (today)
-- [Generating Python SBOMs: Using pipdeptree and Syft](https://anchore.com/blog/python-sbom-generation/) (1 day ago)
-- [Community Spotlight: Laurent Goderre (Docker)](https://anchore.com/videos/community-spotlight-laurent-goderre-docker/) (4 days ago)
-- [How to Unlock Enterprise Value with SBOMs](https://anchore.com/white-papers/how-to-unlock-enterprise-value-with-sboms/) (5 days ago)
-- [Effortless SBOM Analysis: How Anchore Enterprise Simplifies Integration](https://anchore.com/blog/effortless-sbom-analysis-how-anchore-enterprise-simplifies-integration/) (6 days ago)
+- [Unlocking the Power of SBOMs: A Complete Guide](https://anchore.com/blog/unlocking-the-power-of-sboms-a-complete-guide/) (1 day ago)
+- [Generating Python SBOMs: Using pipdeptree and Syft](https://anchore.com/blog/python-sbom-generation/) (2 days ago)
+- [Community Spotlight: Laurent Goderre (Docker)](https://anchore.com/videos/community-spotlight-laurent-goderre-docker/) (5 days ago)
+- [How to Unlock Enterprise Value with SBOMs](https://anchore.com/white-papers/how-to-unlock-enterprise-value-with-sboms/) (6 days ago)
+- [Effortless SBOM Analysis: How Anchore Enterprise Simplifies Integration](https://anchore.com/blog/effortless-sbom-analysis-how-anchore-enterprise-simplifies-integration/) (1 week ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [March 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-6th-open-source-gardening-live-stream/347) (today)
-- [V5 schema eol in grype](https://anchorecommunity.discourse.group/t/v5-schema-eol-in-grype/346) (1 day ago)
-- [How long should syft really take?](https://anchorecommunity.discourse.group/t/how-long-should-syft-really-take/345) (4 days ago)
+- [March 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-6th-open-source-gardening-live-stream/347) (1 day ago)
+- [V5 schema eol in grype](https://anchorecommunity.discourse.group/t/v5-schema-eol-in-grype/346) (2 days ago)
+- [How long should syft really take?](https://anchorecommunity.discourse.group/t/how-long-should-syft-really-take/345) (5 days ago)
 - [Why syft version 1.20 is now listing files in the SBOM as default?](https://anchorecommunity.discourse.group/t/why-syft-version-1-20-is-now-listing-files-in-the-sbom-as-default/342) (1 week ago)
 - [February 27th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/february-27th-open-source-gardening-live-stream/341) (1 week ago)
