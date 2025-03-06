@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [NIST SP 800-190: Overview &amp; Compliance Checklist](https://anchore.com/blog/nist-sp-800-190-overview-compliance-checklist/) (today)
-- [Unlocking the Power of SBOMs: A Complete Guide](https://anchore.com/blog/unlocking-the-power-of-sboms-a-complete-guide/) (1 day ago)
-- [Generating Python SBOMs: Using pipdeptree and Syft](https://anchore.com/blog/python-sbom-generation/) (2 days ago)
-- [Community Spotlight: Laurent Goderre (Docker)](https://anchore.com/videos/community-spotlight-laurent-goderre-docker/) (5 days ago)
-- [How to Unlock Enterprise Value with SBOMs](https://anchore.com/white-papers/how-to-unlock-enterprise-value-with-sboms/) (6 days ago)
+- [NIST SP 800-190: Overview &amp; Compliance Checklist](https://anchore.com/blog/nist-sp-800-190-overview-compliance-checklist/) (1 day ago)
+- [Unlocking the Power of SBOMs: A Complete Guide](https://anchore.com/blog/unlocking-the-power-of-sboms-a-complete-guide/) (2 days ago)
+- [Generating Python SBOMs: Using pipdeptree and Syft](https://anchore.com/blog/python-sbom-generation/) (3 days ago)
+- [Community Spotlight: Laurent Goderre (Docker)](https://anchore.com/videos/community-spotlight-laurent-goderre-docker/) (6 days ago)
+- [How to Unlock Enterprise Value with SBOMs](https://anchore.com/white-papers/how-to-unlock-enterprise-value-with-sboms/) (1 week ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.88.0 released](https://anchorecommunity.discourse.group/t/grype-v0-88-0-released/348) (today)
-- [March 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-6th-open-source-gardening-live-stream/347) (1 day ago)
-- [V5 schema eol in grype](https://anchorecommunity.discourse.group/t/v5-schema-eol-in-grype/346) (2 days ago)
-- [How long should syft really take?](https://anchorecommunity.discourse.group/t/how-long-should-syft-really-take/345) (5 days ago)
+- [Grype - v0.88.0 released](https://anchorecommunity.discourse.group/t/grype-v0-88-0-released/348) (1 day ago)
+- [March 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-6th-open-source-gardening-live-stream/347) (2 days ago)
+- [V5 schema eol in grype](https://anchorecommunity.discourse.group/t/v5-schema-eol-in-grype/346) (3 days ago)
+- [How long should syft really take?](https://anchorecommunity.discourse.group/t/how-long-should-syft-really-take/345) (6 days ago)
 - [Why syft version 1.20 is now listing files in the SBOM as default?](https://anchorecommunity.discourse.group/t/why-syft-version-1-20-is-now-listing-files-in-the-sbom-as-default/342) (1 week ago)
