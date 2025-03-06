@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [The future of SBOMs with Kate Stewart](https://anchore.com/webinars/the-future-of-sboms-with-kate-stewart/) (today)
 - [Making Virtual Machine Security Analysis Easier with sbom-vm](https://anchore.com/blog/making-virtual-machine-security-analysis-easier-with-sbom-vm/) (today)
 - [NIST SP 800-190: Overview &amp; Compliance Checklist](https://anchore.com/blog/nist-sp-800-190-overview-compliance-checklist/) (1 day ago)
 - [Unlocking the Power of SBOMs: A Complete Guide](https://anchore.com/blog/unlocking-the-power-of-sboms-a-complete-guide/) (2 days ago)
 - [Generating Python SBOMs: Using pipdeptree and Syft](https://anchore.com/blog/python-sbom-generation/) (3 days ago)
-- [Community Spotlight: Laurent Goderre (Docker)](https://anchore.com/videos/community-spotlight-laurent-goderre-docker/) (6 days ago)
 
 ### Community
 
