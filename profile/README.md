@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Limiting memory usage of programs](https://anchorecommunity.discourse.group/t/limiting-memory-usage-of-programs/350) (today)
 - [Grype - v0.89.0 released](https://anchorecommunity.discourse.group/t/grype-v0-89-0-released/349) (1 day ago)
 - [Grype - v0.88.0 released](https://anchorecommunity.discourse.group/t/grype-v0-88-0-released/348) (2 days ago)
 - [March 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-6th-open-source-gardening-live-stream/347) (3 days ago)
 - [V5 schema eol in grype](https://anchorecommunity.discourse.group/t/v5-schema-eol-in-grype/346) (4 days ago)
-- [How long should syft really take?](https://anchorecommunity.discourse.group/t/how-long-should-syft-really-take/345) (1 week ago)
