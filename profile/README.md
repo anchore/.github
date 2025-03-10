@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The future of SBOMs with Kate Stewart](https://anchore.com/webinars/the-future-of-sboms-with-kate-stewart/) (3 days ago)
-- [Making Virtual Machine Security Analysis Easier with sbom-vm](https://anchore.com/blog/making-virtual-machine-security-analysis-easier-with-sbom-vm/) (3 days ago)
-- [NIST SP 800-190: Overview &amp; Compliance Checklist](https://anchore.com/blog/nist-sp-800-190-overview-compliance-checklist/) (4 days ago)
-- [Unlocking the Power of SBOMs: A Complete Guide](https://anchore.com/blog/unlocking-the-power-of-sboms-a-complete-guide/) (5 days ago)
-- [Generating Python SBOMs: Using pipdeptree and Syft](https://anchore.com/blog/python-sbom-generation/) (6 days ago)
+- [The future of SBOMs with Kate Stewart](https://anchore.com/webinars/the-future-of-sboms-with-kate-stewart/) (4 days ago)
+- [Making Virtual Machine Security Analysis Easier with sbom-vm](https://anchore.com/blog/making-virtual-machine-security-analysis-easier-with-sbom-vm/) (4 days ago)
+- [NIST SP 800-190: Overview &amp; Compliance Checklist](https://anchore.com/blog/nist-sp-800-190-overview-compliance-checklist/) (5 days ago)
+- [Unlocking the Power of SBOMs: A Complete Guide](https://anchore.com/blog/unlocking-the-power-of-sboms-a-complete-guide/) (6 days ago)
+- [Generating Python SBOMs: Using pipdeptree and Syft](https://anchore.com/blog/python-sbom-generation/) (1 week ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Limiting memory usage of programs](https://anchorecommunity.discourse.group/t/limiting-memory-usage-of-programs/350) (2 days ago)
-- [Grype - v0.89.0 released](https://anchorecommunity.discourse.group/t/grype-v0-89-0-released/349) (3 days ago)
-- [Grype - v0.88.0 released](https://anchorecommunity.discourse.group/t/grype-v0-88-0-released/348) (4 days ago)
-- [March 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-6th-open-source-gardening-live-stream/347) (5 days ago)
-- [V5 schema eol in grype](https://anchorecommunity.discourse.group/t/v5-schema-eol-in-grype/346) (6 days ago)
+- [Limiting memory usage of programs](https://anchorecommunity.discourse.group/t/limiting-memory-usage-of-programs/350) (3 days ago)
+- [Grype - v0.89.0 released](https://anchorecommunity.discourse.group/t/grype-v0-89-0-released/349) (4 days ago)
+- [Grype - v0.88.0 released](https://anchorecommunity.discourse.group/t/grype-v0-88-0-released/348) (5 days ago)
+- [March 6th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-6th-open-source-gardening-live-stream/347) (6 days ago)
+- [V5 schema eol in grype](https://anchorecommunity.discourse.group/t/v5-schema-eol-in-grype/346) (1 week ago)
