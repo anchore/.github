@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Grype DB Schema Evolution: From v5 to v6 – Smaller, Faster, Better](https://anchore.com/blog/grype-db-schema-evolution-from-v5-to-v6-smaller-faster-better/) (today)
 - [The future of SBOMs with Kate Stewart](https://anchore.com/webinars/the-future-of-sboms-with-kate-stewart/) (5 days ago)
 - [Making Virtual Machine Security Analysis Easier with sbom-vm](https://anchore.com/blog/making-virtual-machine-security-analysis-easier-with-sbom-vm/) (5 days ago)
 - [NIST SP 800-190: Overview &amp; Compliance Checklist](https://anchore.com/blog/nist-sp-800-190-overview-compliance-checklist/) (6 days ago)
 - [Unlocking the Power of SBOMs: A Complete Guide](https://anchore.com/blog/unlocking-the-power-of-sboms-a-complete-guide/) (1 week ago)
-- [Generating Python SBOMs: Using pipdeptree and Syft](https://anchore.com/blog/python-sbom-generation/) (1 week ago)
 
 ### Community
 
