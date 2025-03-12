@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Search-remote-licenses and poetry](https://anchorecommunity.discourse.group/t/search-remote-licenses-and-poetry/354) (today)
 - [Is there a way to see when a Findings has been added to the grype Database?](https://anchorecommunity.discourse.group/t/is-there-a-way-to-see-when-a-findings-has-been-added-to-the-grype-database/352) (1 day ago)
 - [March 13th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-13th-open-source-gardening-live-stream/351) (2 days ago)
 - [Limiting memory usage of programs](https://anchorecommunity.discourse.group/t/limiting-memory-usage-of-programs/350) (5 days ago)
 - [Grype - v0.89.0 released](https://anchorecommunity.discourse.group/t/grype-v0-89-0-released/349) (6 days ago)
-- [Grype - v0.88.0 released](https://anchorecommunity.discourse.group/t/grype-v0-88-0-released/348) (1 week ago)
