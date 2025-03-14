@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Securing Open Source Software Supply Chains – The Next Frontier of Innovation](https://anchore.com/videos/securing-open-source-software-supply-chains-the-next-frontier-of-innovation/) (today)
+- [Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchore.com/videos/rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/) (today)
 - [How to Automate Container Vulnerability Scanning for Harbor Registry with Anchore Enterprise](https://anchore.com/blog/how-to-automate-container-vulnerability-scanning-for-harbor-registry-with-anchore-enterprise/) (1 day ago)
 - [Grype DB Schema Evolution: From v5 to v6 – Smaller, Faster, Better](https://anchore.com/blog/grype-db-schema-evolution-from-v5-to-v6-smaller-faster-better/) (3 days ago)
 - [The future of SBOMs with Kate Stewart](https://anchore.com/webinars/the-future-of-sboms-with-kate-stewart/) (1 week ago)
-- [Making Virtual Machine Security Analysis Easier with sbom-vm](https://anchore.com/blog/making-virtual-machine-security-analysis-easier-with-sbom-vm/) (1 week ago)
-- [NIST SP 800-190: Overview &amp; Compliance Checklist](https://anchore.com/blog/nist-sp-800-190-overview-compliance-checklist/) (1 week ago)
 
 ### Community
 
