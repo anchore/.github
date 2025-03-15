@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Securing Open Source Software Supply Chains – The Next Frontier of Innovation](https://anchore.com/videos/securing-open-source-software-supply-chains-the-next-frontier-of-innovation/) (today)
-- [Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchore.com/videos/rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/) (today)
-- [How to Automate Container Vulnerability Scanning for Harbor Registry with Anchore Enterprise](https://anchore.com/blog/how-to-automate-container-vulnerability-scanning-for-harbor-registry-with-anchore-enterprise/) (1 day ago)
-- [Grype DB Schema Evolution: From v5 to v6 – Smaller, Faster, Better](https://anchore.com/blog/grype-db-schema-evolution-from-v5-to-v6-smaller-faster-better/) (3 days ago)
+- [Securing Open Source Software Supply Chains – The Next Frontier of Innovation](https://anchore.com/videos/securing-open-source-software-supply-chains-the-next-frontier-of-innovation/) (1 day ago)
+- [Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchore.com/videos/rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/) (1 day ago)
+- [How to Automate Container Vulnerability Scanning for Harbor Registry with Anchore Enterprise](https://anchore.com/blog/how-to-automate-container-vulnerability-scanning-for-harbor-registry-with-anchore-enterprise/) (2 days ago)
+- [Grype DB Schema Evolution: From v5 to v6 – Smaller, Faster, Better](https://anchore.com/blog/grype-db-schema-evolution-from-v5-to-v6-smaller-faster-better/) (4 days ago)
 - [The future of SBOMs with Kate Stewart](https://anchore.com/webinars/the-future-of-sboms-with-kate-stewart/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.89.1 released](https://anchorecommunity.discourse.group/t/grype-v0-89-1-released/356) (1 day ago)
-- [Search-remote-licenses and poetry](https://anchorecommunity.discourse.group/t/search-remote-licenses-and-poetry/354) (2 days ago)
-- [Is there a way to see when a Findings has been added to the grype Database?](https://anchorecommunity.discourse.group/t/is-there-a-way-to-see-when-a-findings-has-been-added-to-the-grype-database/352) (3 days ago)
-- [March 13th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-13th-open-source-gardening-live-stream/351) (4 days ago)
+- [Grype - v0.89.1 released](https://anchorecommunity.discourse.group/t/grype-v0-89-1-released/356) (2 days ago)
+- [Search-remote-licenses and poetry](https://anchorecommunity.discourse.group/t/search-remote-licenses-and-poetry/354) (3 days ago)
+- [Is there a way to see when a Findings has been added to the grype Database?](https://anchorecommunity.discourse.group/t/is-there-a-way-to-see-when-a-findings-has-been-added-to-the-grype-database/352) (4 days ago)
+- [March 13th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-13th-open-source-gardening-live-stream/351) (5 days ago)
 - [Limiting memory usage of programs](https://anchorecommunity.discourse.group/t/limiting-memory-usage-of-programs/350) (1 week ago)
