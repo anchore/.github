@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Syft - v1.21.0 released](https://anchorecommunity.discourse.group/t/syft-v1-21-0-released/367) (today)
 - [Stereoscope - v0.1.0 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-0-released/366) (today)
 - [Grype doesnt match CVE-2025-24813](https://anchorecommunity.discourse.group/t/grype-doesnt-match-cve-2025-24813/363) (today)
 - [Grype - v0.89.1 released](https://anchorecommunity.discourse.group/t/grype-v0-89-1-released/356) (4 days ago)
 - [Search-remote-licenses and poetry](https://anchorecommunity.discourse.group/t/search-remote-licenses-and-poetry/354) (5 days ago)
-- [Is there a way to see when a Findings has been added to the grype Database?](https://anchorecommunity.discourse.group/t/is-there-a-way-to-see-when-a-findings-has-been-added-to-the-grype-database/352) (6 days ago)
