@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Contributing to Vulnerability Data: Making Security Better for Everyone](https://anchore.com/blog/contributing-to-vulnerability-data-making-security-better-for-everyone/) (today)
 - [Software Supply Chain Transparency: Why SBOMs Are the Missing Piece in Your ConMon Strategy](https://anchore.com/blog/sboms-and-conmon-strengthen-software-supply-chain-security/) (2 days ago)
 - [Securing Open Source Software Supply Chains – The Next Frontier of Innovation](https://anchore.com/videos/securing-open-source-software-supply-chains-the-next-frontier-of-innovation/) (6 days ago)
 - [Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchore.com/videos/rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/) (6 days ago)
 - [How to Automate Container Vulnerability Scanning for Harbor Registry with Anchore Enterprise](https://anchore.com/blog/how-to-automate-container-vulnerability-scanning-for-harbor-registry-with-anchore-enterprise/) (1 week ago)
-- [Grype DB Schema Evolution: From v5 to v6 – Smaller, Faster, Better](https://anchore.com/blog/grype-db-schema-evolution-from-v5-to-v6-smaller-faster-better/) (1 week ago)
 
 ### Community
 
