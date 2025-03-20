@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Software Supply Chain Transparency: Why SBOMs Are the Missing Piece in Your ConMon Strategy](https://anchore.com/blog/sboms-and-conmon-strengthen-software-supply-chain-security/) (1 day ago)
-- [Securing Open Source Software Supply Chains – The Next Frontier of Innovation](https://anchore.com/videos/securing-open-source-software-supply-chains-the-next-frontier-of-innovation/) (5 days ago)
-- [Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchore.com/videos/rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/) (5 days ago)
-- [How to Automate Container Vulnerability Scanning for Harbor Registry with Anchore Enterprise](https://anchore.com/blog/how-to-automate-container-vulnerability-scanning-for-harbor-registry-with-anchore-enterprise/) (6 days ago)
+- [Software Supply Chain Transparency: Why SBOMs Are the Missing Piece in Your ConMon Strategy](https://anchore.com/blog/sboms-and-conmon-strengthen-software-supply-chain-security/) (2 days ago)
+- [Securing Open Source Software Supply Chains – The Next Frontier of Innovation](https://anchore.com/videos/securing-open-source-software-supply-chains-the-next-frontier-of-innovation/) (6 days ago)
+- [Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchore.com/videos/rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/) (6 days ago)
+- [How to Automate Container Vulnerability Scanning for Harbor Registry with Anchore Enterprise](https://anchore.com/blog/how-to-automate-container-vulnerability-scanning-for-harbor-registry-with-anchore-enterprise/) (1 week ago)
 - [Grype DB Schema Evolution: From v5 to v6 – Smaller, Faster, Better](https://anchore.com/blog/grype-db-schema-evolution-from-v5-to-v6-smaller-faster-better/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [March 20th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-20th-open-source-gardening-live-stream/369) (1 day ago)
-- [Grype - v0.90.0 released](https://anchorecommunity.discourse.group/t/grype-v0-90-0-released/368) (2 days ago)
-- [Syft - v1.21.0 released](https://anchorecommunity.discourse.group/t/syft-v1-21-0-released/367) (2 days ago)
-- [Stereoscope - v0.1.0 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-0-released/366) (2 days ago)
-- [Grype doesnt match CVE-2025-24813](https://anchorecommunity.discourse.group/t/grype-doesnt-match-cve-2025-24813/363) (2 days ago)
+- [March 20th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-20th-open-source-gardening-live-stream/369) (2 days ago)
+- [Grype - v0.90.0 released](https://anchorecommunity.discourse.group/t/grype-v0-90-0-released/368) (3 days ago)
+- [Syft - v1.21.0 released](https://anchorecommunity.discourse.group/t/syft-v1-21-0-released/367) (3 days ago)
+- [Stereoscope - v0.1.0 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-0-released/366) (3 days ago)
+- [Grype doesnt match CVE-2025-24813](https://anchorecommunity.discourse.group/t/grype-doesnt-match-cve-2025-24813/363) (3 days ago)
