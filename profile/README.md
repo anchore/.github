@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Contributing to Vulnerability Data: Making Security Better for Everyone](https://anchore.com/blog/contributing-to-vulnerability-data-making-security-better-for-everyone/) (3 days ago)
-- [Software Supply Chain Transparency: Why SBOMs Are the Missing Piece in Your ConMon Strategy](https://anchore.com/blog/sboms-and-conmon-strengthen-software-supply-chain-security/) (5 days ago)
+- [Contributing to Vulnerability Data: Making Security Better for Everyone](https://anchore.com/blog/contributing-to-vulnerability-data-making-security-better-for-everyone/) (4 days ago)
+- [Software Supply Chain Transparency: Why SBOMs Are the Missing Piece in Your ConMon Strategy](https://anchore.com/blog/sboms-and-conmon-strengthen-software-supply-chain-security/) (6 days ago)
 - [Securing Open Source Software Supply Chains – The Next Frontier of Innovation](https://anchore.com/videos/securing-open-source-software-supply-chains-the-next-frontier-of-innovation/) (1 week ago)
 - [Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchore.com/videos/rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/) (1 week ago)
 - [How to Automate Container Vulnerability Scanning for Harbor Registry with Anchore Enterprise](https://anchore.com/blog/how-to-automate-container-vulnerability-scanning-for-harbor-registry-with-anchore-enterprise/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Does Syft automaticaly detects existing SBOM files?](https://anchorecommunity.discourse.group/t/does-syft-automaticaly-detects-existing-sbom-files/372) (3 days ago)
-- [March 20th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-20th-open-source-gardening-live-stream/369) (5 days ago)
-- [Grype - v0.90.0 released](https://anchorecommunity.discourse.group/t/grype-v0-90-0-released/368) (6 days ago)
-- [Syft - v1.21.0 released](https://anchorecommunity.discourse.group/t/syft-v1-21-0-released/367) (6 days ago)
-- [Stereoscope - v0.1.0 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-0-released/366) (6 days ago)
+- [Does Syft automaticaly detects existing SBOM files?](https://anchorecommunity.discourse.group/t/does-syft-automaticaly-detects-existing-sbom-files/372) (4 days ago)
+- [March 20th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-20th-open-source-gardening-live-stream/369) (6 days ago)
+- [Grype - v0.90.0 released](https://anchorecommunity.discourse.group/t/grype-v0-90-0-released/368) (1 week ago)
+- [Syft - v1.21.0 released](https://anchorecommunity.discourse.group/t/syft-v1-21-0-released/367) (1 week ago)
+- [Stereoscope - v0.1.0 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-0-released/366) (1 week ago)
