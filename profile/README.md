@@ -31,6 +31,6 @@ We discuss our open source tools on <a href="https://anchore.com/discourse">Disc
 
 - [Add OS related information on language based packages](https://anchorecommunity.discourse.group/t/add-os-related-information-on-language-based-packages/379) (today)
 - [Understanding Syft&#39;s Software Detection Mechanism and Architecture](https://anchorecommunity.discourse.group/t/understanding-syfts-software-detection-mechanism-and-architecture/378) (today)
+- [Anchore Open Source Weekly Report - Week 12, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-12-2025/374) (1 day ago)
 - [Does Syft automaticaly detects existing SBOM files?](https://anchorecommunity.discourse.group/t/does-syft-automaticaly-detects-existing-sbom-files/372) (5 days ago)
 - [March 20th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-20th-open-source-gardening-live-stream/369) (1 week ago)
-- [Grype - v0.90.0 released](https://anchorecommunity.discourse.group/t/grype-v0-90-0-released/368) (1 week ago)
