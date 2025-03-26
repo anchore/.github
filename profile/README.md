@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The Developer’s Guide to SBOMs &amp; Policy-as-Code](https://anchore.com/blog/sbom-and-policy-as-code-a-developers-guide/) (today)
-- [Contributing to Vulnerability Data: Making Security Better for Everyone](https://anchore.com/blog/contributing-to-vulnerability-data-making-security-better-for-everyone/) (5 days ago)
+- [The Developer’s Guide to SBOMs &amp; Policy-as-Code](https://anchore.com/blog/sbom-and-policy-as-code-a-developers-guide/) (1 day ago)
+- [Contributing to Vulnerability Data: Making Security Better for Everyone](https://anchore.com/blog/contributing-to-vulnerability-data-making-security-better-for-everyone/) (6 days ago)
 - [Software Supply Chain Transparency: Why SBOMs Are the Missing Piece in Your ConMon Strategy](https://anchore.com/blog/sboms-and-conmon-strengthen-software-supply-chain-security/) (1 week ago)
 - [Securing Open Source Software Supply Chains – The Next Frontier of Innovation](https://anchore.com/videos/securing-open-source-software-supply-chains-the-next-frontier-of-innovation/) (1 week ago)
 - [Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchore.com/videos/rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Add OS related information on language based packages](https://anchorecommunity.discourse.group/t/add-os-related-information-on-language-based-packages/379) (today)
-- [Understanding Syft&#39;s Software Detection Mechanism and Architecture](https://anchorecommunity.discourse.group/t/understanding-syfts-software-detection-mechanism-and-architecture/378) (today)
-- [Anchore Open Source Weekly Report - Week 12, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-12-2025/374) (1 day ago)
-- [Does Syft automaticaly detects existing SBOM files?](https://anchorecommunity.discourse.group/t/does-syft-automaticaly-detects-existing-sbom-files/372) (5 days ago)
+- [Add OS related information on language based packages](https://anchorecommunity.discourse.group/t/add-os-related-information-on-language-based-packages/379) (1 day ago)
+- [Understanding Syft&#39;s Software Detection Mechanism and Architecture](https://anchorecommunity.discourse.group/t/understanding-syfts-software-detection-mechanism-and-architecture/378) (1 day ago)
+- [Anchore Open Source Weekly Report - Week 12, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-12-2025/374) (2 days ago)
+- [Does Syft automaticaly detects existing SBOM files?](https://anchorecommunity.discourse.group/t/does-syft-automaticaly-detects-existing-sbom-files/372) (6 days ago)
 - [March 20th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/march-20th-open-source-gardening-live-stream/369) (1 week ago)
