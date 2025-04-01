@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Stereoscope - v0.1.2 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-2-released/389) (today)
 - [Anchore Open Source Weekly Report - Week 13, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-13-2025/388) (1 day ago)
 - [Grype is wrong about CVE-2024-37371 in libkrb5-3@1.20.1-2&#43;deb12u2](https://anchorecommunity.discourse.group/t/grype-is-wrong-about-cve-2024-37371-in-libkrb5-3-1-20-1-2-deb12u2/387) (2 days ago)
 - [Add OS related information on language based packages](https://anchorecommunity.discourse.group/t/add-os-related-information-on-language-based-packages/379) (1 week ago)
 - [Understanding Syft&#39;s Software Detection Mechanism and Architecture](https://anchorecommunity.discourse.group/t/understanding-syfts-software-detection-mechanism-and-architecture/378) (1 week ago)
-- [Anchore Open Source Weekly Report - Week 12, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-12-2025/374) (1 week ago)
