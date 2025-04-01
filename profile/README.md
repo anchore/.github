@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [The Critical Role of SBOMs in PCI DSS 4.0 Compliance](https://anchore.com/blog/pci-dss-4-compliance-with-sboms-and-software-supply-chain-security/) (today)
 - [Generating SBOMs for JavaScript Projects: A Developer’s Guide](https://anchore.com/blog/javascript-sbom-generation/) (4 days ago)
 - [Truth in IT: Keeping Your Code Shipshape with SBOMs!](https://anchore.com/videos/truth-in-it-keeping-your-code-shipshape-with-sboms/) (6 days ago)
 - [The Developer’s Guide to SBOMs &amp; Policy-as-Code](https://anchore.com/blog/sbom-and-policy-as-code-a-developers-guide/) (1 week ago)
 - [Contributing to Vulnerability Data: Making Security Better for Everyone](https://anchore.com/blog/contributing-to-vulnerability-data-making-security-better-for-everyone/) (1 week ago)
-- [Software Supply Chain Transparency: Why SBOMs Are the Missing Piece in Your ConMon Strategy](https://anchore.com/blog/sboms-and-conmon-strengthen-software-supply-chain-security/) (2 weeks ago)
 
 ### Community
 
