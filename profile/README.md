@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Generating SBOMs for JavaScript Projects: A Developer’s Guide](https://anchore.com/blog/javascript-sbom-generation/) (3 days ago)
-- [Truth in IT: Keeping Your Code Shipshape with SBOMs!](https://anchore.com/videos/truth-in-it-keeping-your-code-shipshape-with-sboms/) (5 days ago)
-- [The Developer’s Guide to SBOMs &amp; Policy-as-Code](https://anchore.com/blog/sbom-and-policy-as-code-a-developers-guide/) (6 days ago)
+- [Generating SBOMs for JavaScript Projects: A Developer’s Guide](https://anchore.com/blog/javascript-sbom-generation/) (4 days ago)
+- [Truth in IT: Keeping Your Code Shipshape with SBOMs!](https://anchore.com/videos/truth-in-it-keeping-your-code-shipshape-with-sboms/) (6 days ago)
+- [The Developer’s Guide to SBOMs &amp; Policy-as-Code](https://anchore.com/blog/sbom-and-policy-as-code-a-developers-guide/) (1 week ago)
 - [Contributing to Vulnerability Data: Making Security Better for Everyone](https://anchore.com/blog/contributing-to-vulnerability-data-making-security-better-for-everyone/) (1 week ago)
-- [Software Supply Chain Transparency: Why SBOMs Are the Missing Piece in Your ConMon Strategy](https://anchore.com/blog/sboms-and-conmon-strengthen-software-supply-chain-security/) (1 week ago)
+- [Software Supply Chain Transparency: Why SBOMs Are the Missing Piece in Your ConMon Strategy](https://anchore.com/blog/sboms-and-conmon-strengthen-software-supply-chain-security/) (2 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Anchore Open Source Weekly Report - Week 13, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-13-2025/388) (today)
-- [Grype is wrong about CVE-2024-37371 in libkrb5-3@1.20.1-2&#43;deb12u2](https://anchorecommunity.discourse.group/t/grype-is-wrong-about-cve-2024-37371-in-libkrb5-3-1-20-1-2-deb12u2/387) (1 day ago)
-- [Add OS related information on language based packages](https://anchorecommunity.discourse.group/t/add-os-related-information-on-language-based-packages/379) (6 days ago)
-- [Understanding Syft&#39;s Software Detection Mechanism and Architecture](https://anchorecommunity.discourse.group/t/understanding-syfts-software-detection-mechanism-and-architecture/378) (6 days ago)
+- [Anchore Open Source Weekly Report - Week 13, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-13-2025/388) (1 day ago)
+- [Grype is wrong about CVE-2024-37371 in libkrb5-3@1.20.1-2&#43;deb12u2](https://anchorecommunity.discourse.group/t/grype-is-wrong-about-cve-2024-37371-in-libkrb5-3-1-20-1-2-deb12u2/387) (2 days ago)
+- [Add OS related information on language based packages](https://anchorecommunity.discourse.group/t/add-os-related-information-on-language-based-packages/379) (1 week ago)
+- [Understanding Syft&#39;s Software Detection Mechanism and Architecture](https://anchorecommunity.discourse.group/t/understanding-syfts-software-detection-mechanism-and-architecture/378) (1 week ago)
 - [Anchore Open Source Weekly Report - Week 12, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-12-2025/374) (1 week ago)
