@@ -21,8 +21,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 - [The Critical Role of SBOMs in PCI DSS 4.0 Compliance](https://anchore.com/blog/pci-dss-4-compliance-with-sboms-and-software-supply-chain-security/) (1 day ago)
 - [Generating SBOMs for JavaScript Projects: A Developer’s Guide](https://anchore.com/blog/javascript-sbom-generation/) (5 days ago)
 - [Truth in IT: Keeping Your Code Shipshape with SBOMs!](https://anchore.com/videos/truth-in-it-keeping-your-code-shipshape-with-sboms/) (1 week ago)
-- [The Developer’s Guide to SBOMs &amp; Policy-as-Code](https://anchore.com/blog/sbom-and-policy-as-code-a-developers-guide/) (1 week ago)
-- [Contributing to Vulnerability Data: Making Security Better for Everyone](https://anchore.com/blog/contributing-to-vulnerability-data-making-security-better-for-everyone/) (1 week ago)
+- [What is DevSecOps?](https://anchore.com/blog/what-is-devsecops/) (1 week ago)
 
 ### Community
 
