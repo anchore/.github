@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The Critical Role of SBOMs in PCI DSS 4.0 Compliance](https://anchore.com/blog/pci-dss-4-compliance-with-sboms-and-software-supply-chain-security/) (today)
-- [Generating SBOMs for JavaScript Projects: A Developer’s Guide](https://anchore.com/blog/javascript-sbom-generation/) (4 days ago)
-- [Truth in IT: Keeping Your Code Shipshape with SBOMs!](https://anchore.com/videos/truth-in-it-keeping-your-code-shipshape-with-sboms/) (6 days ago)
+- [The Critical Role of SBOMs in PCI DSS 4.0 Compliance](https://anchore.com/blog/pci-dss-4-compliance-with-sboms-and-software-supply-chain-security/) (1 day ago)
+- [Generating SBOMs for JavaScript Projects: A Developer’s Guide](https://anchore.com/blog/javascript-sbom-generation/) (5 days ago)
+- [Truth in IT: Keeping Your Code Shipshape with SBOMs!](https://anchore.com/videos/truth-in-it-keeping-your-code-shipshape-with-sboms/) (1 week ago)
 - [The Developer’s Guide to SBOMs &amp; Policy-as-Code](https://anchore.com/blog/sbom-and-policy-as-code-a-developers-guide/) (1 week ago)
 - [Contributing to Vulnerability Data: Making Security Better for Everyone](https://anchore.com/blog/contributing-to-vulnerability-data-making-security-better-for-everyone/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.91.0 released](https://anchorecommunity.discourse.group/t/grype-v0-91-0-released/391) (today)
-- [Syft - v1.22.0 released](https://anchorecommunity.discourse.group/t/syft-v1-22-0-released/390) (today)
-- [Stereoscope - v0.1.2 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-2-released/389) (today)
-- [Anchore Open Source Weekly Report - Week 13, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-13-2025/388) (1 day ago)
-- [Grype is wrong about CVE-2024-37371 in libkrb5-3@1.20.1-2&#43;deb12u2](https://anchorecommunity.discourse.group/t/grype-is-wrong-about-cve-2024-37371-in-libkrb5-3-1-20-1-2-deb12u2/387) (2 days ago)
+- [Grype - v0.91.0 released](https://anchorecommunity.discourse.group/t/grype-v0-91-0-released/391) (1 day ago)
+- [Syft - v1.22.0 released](https://anchorecommunity.discourse.group/t/syft-v1-22-0-released/390) (1 day ago)
+- [Stereoscope - v0.1.2 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-2-released/389) (1 day ago)
+- [Anchore Open Source Weekly Report - Week 13, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-13-2025/388) (2 days ago)
+- [Grype is wrong about CVE-2024-37371 in libkrb5-3@1.20.1-2&#43;deb12u2](https://anchorecommunity.discourse.group/t/grype-is-wrong-about-cve-2024-37371-in-libkrb5-3-1-20-1-2-deb12u2/387) (3 days ago)
