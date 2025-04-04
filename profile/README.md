@@ -28,8 +28,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Is this feature flag supported?](https://anchorecommunity.discourse.group/t/is-this-feature-flag-supported/393) (today)
 - [Grype - v0.91.0 released](https://anchorecommunity.discourse.group/t/grype-v0-91-0-released/391) (3 days ago)
 - [Syft - v1.22.0 released](https://anchorecommunity.discourse.group/t/syft-v1-22-0-released/390) (3 days ago)
 - [Stereoscope - v0.1.2 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-2-released/389) (3 days ago)
 - [Anchore Open Source Weekly Report - Week 13, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-13-2025/388) (4 days ago)
-- [Grype is wrong about CVE-2024-37371 in libkrb5-3@1.20.1-2&#43;deb12u2](https://anchorecommunity.discourse.group/t/grype-is-wrong-about-cve-2024-37371-in-libkrb5-3-1-20-1-2-deb12u2/387) (5 days ago)
