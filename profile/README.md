@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The Critical Role of SBOMs in PCI DSS 4.0 Compliance](https://anchore.com/blog/pci-dss-4-compliance-with-sboms-and-software-supply-chain-security/) (4 days ago)
+- [The Critical Role of SBOMs in PCI DSS 4.0 Compliance](https://anchore.com/blog/pci-dss-4-compliance-with-sboms-and-software-supply-chain-security/) (5 days ago)
 - [Generating SBOMs for JavaScript Projects: A Developer’s Guide](https://anchore.com/blog/javascript-sbom-generation/) (1 week ago)
 - [Truth in IT: Keeping Your Code Shipshape with SBOMs!](https://anchore.com/videos/truth-in-it-keeping-your-code-shipshape-with-sboms/) (1 week ago)
 - [What is DevSecOps?](https://anchore.com/blog/what-is-devsecops/) (1 week ago)
@@ -28,8 +28,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Is this feature flag supported?](https://anchorecommunity.discourse.group/t/is-this-feature-flag-supported/393) (1 day ago)
-- [Grype - v0.91.0 released](https://anchorecommunity.discourse.group/t/grype-v0-91-0-released/391) (4 days ago)
-- [Syft - v1.22.0 released](https://anchorecommunity.discourse.group/t/syft-v1-22-0-released/390) (4 days ago)
-- [Stereoscope - v0.1.2 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-2-released/389) (4 days ago)
-- [Anchore Open Source Weekly Report - Week 13, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-13-2025/388) (5 days ago)
+- [Is this feature flag supported?](https://anchorecommunity.discourse.group/t/is-this-feature-flag-supported/393) (2 days ago)
+- [Grype - v0.91.0 released](https://anchorecommunity.discourse.group/t/grype-v0-91-0-released/391) (5 days ago)
+- [Syft - v1.22.0 released](https://anchorecommunity.discourse.group/t/syft-v1-22-0-released/390) (5 days ago)
+- [Stereoscope - v0.1.2 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-2-released/389) (5 days ago)
+- [Anchore Open Source Weekly Report - Week 13, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-13-2025/388) (6 days ago)
