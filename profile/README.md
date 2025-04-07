@@ -28,8 +28,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Squash with all layers pr](https://anchorecommunity.discourse.group/t/squash-with-all-layers-pr/399) (today)
+- [Cvss4 vs cvss3 and issues downloading grype db](https://anchorecommunity.discourse.group/t/cvss4-vs-cvss3-and-issues-downloading-grype-db/398) (today)
 - [Anchore Open Source Weekly Report - Week 14, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-14-2025/397) (today)
 - [.NET NuGet ecosystem support](https://anchorecommunity.discourse.group/t/net-nuget-ecosystem-support/396) (today)
 - [Is this feature flag supported?](https://anchorecommunity.discourse.group/t/is-this-feature-flag-supported/393) (3 days ago)
-- [Grype - v0.91.0 released](https://anchorecommunity.discourse.group/t/grype-v0-91-0-released/391) (6 days ago)
-- [Syft - v1.22.0 released](https://anchorecommunity.discourse.group/t/syft-v1-22-0-released/390) (6 days ago)
