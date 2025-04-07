@@ -18,6 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [How to Identify and Tackle SBOM Sprawl](https://anchore.com/webinars/how-to-identify-and-tackle-sbom-sprawl/) (today)
 - [The Critical Role of SBOMs in PCI DSS 4.0 Compliance](https://anchore.com/blog/pci-dss-4-compliance-with-sboms-and-software-supply-chain-security/) (6 days ago)
 - [Generating SBOMs for JavaScript Projects: A Developer’s Guide](https://anchore.com/blog/javascript-sbom-generation/) (1 week ago)
 - [Truth in IT: Keeping Your Code Shipshape with SBOMs!](https://anchore.com/videos/truth-in-it-keeping-your-code-shipshape-with-sboms/) (1 week ago)
