@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Automate Your Compliance: How Anchore Enforce Secures the Software Supply Chain](https://anchore.com/blog/automate-your-compliance-how-anchore-enforce-secures-the-software-supply-chain/) (today)
-- [How to Identify and Tackle SBOM Sprawl](https://anchore.com/webinars/how-to-identify-and-tackle-sbom-sprawl/) (1 day ago)
+- [Automate Your Compliance: How Anchore Enforce Secures the Software Supply Chain](https://anchore.com/blog/automate-your-compliance-how-anchore-enforce-secures-the-software-supply-chain/) (1 day ago)
+- [How to Identify and Tackle SBOM Sprawl](https://anchore.com/webinars/how-to-identify-and-tackle-sbom-sprawl/) (2 days ago)
 - [The Critical Role of SBOMs in PCI DSS 4.0 Compliance](https://anchore.com/blog/pci-dss-4-compliance-with-sboms-and-software-supply-chain-security/) (1 week ago)
 - [Generating SBOMs for JavaScript Projects: A Developer’s Guide](https://anchore.com/blog/javascript-sbom-generation/) (1 week ago)
-- [Truth in IT: Keeping Your Code Shipshape with SBOMs!](https://anchore.com/videos/truth-in-it-keeping-your-code-shipshape-with-sboms/) (1 week ago)
+- [Truth in IT: Keeping Your Code Shipshape with SBOMs!](https://anchore.com/videos/truth-in-it-keeping-your-code-shipshape-with-sboms/) (2 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [April 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/april-10th-open-source-gardening-live-stream/400) (1 day ago)
-- [Squash with all layers pr](https://anchorecommunity.discourse.group/t/squash-with-all-layers-pr/399) (1 day ago)
-- [Cvss4 vs cvss3 and issues downloading grype db](https://anchorecommunity.discourse.group/t/cvss4-vs-cvss3-and-issues-downloading-grype-db/398) (1 day ago)
-- [Anchore Open Source Weekly Report - Week 14, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-14-2025/397) (1 day ago)
-- [.NET NuGet ecosystem support](https://anchorecommunity.discourse.group/t/net-nuget-ecosystem-support/396) (1 day ago)
+- [April 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/april-10th-open-source-gardening-live-stream/400) (2 days ago)
+- [Squash with all layers pr](https://anchorecommunity.discourse.group/t/squash-with-all-layers-pr/399) (2 days ago)
+- [Cvss4 vs cvss3 and issues downloading grype db](https://anchorecommunity.discourse.group/t/cvss4-vs-cvss3-and-issues-downloading-grype-db/398) (2 days ago)
+- [Anchore Open Source Weekly Report - Week 14, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-14-2025/397) (2 days ago)
+- [.NET NuGet ecosystem support](https://anchorecommunity.discourse.group/t/net-nuget-ecosystem-support/396) (2 days ago)
