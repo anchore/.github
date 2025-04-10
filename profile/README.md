@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [April 10th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/april-10th-community-meeting-zoom-call/404) (today)
 - [Webinar: Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchorecommunity.discourse.group/t/webinar-rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/402) (1 day ago)
 - [April 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/april-10th-open-source-gardening-live-stream/400) (3 days ago)
 - [Squash with all layers pr](https://anchorecommunity.discourse.group/t/squash-with-all-layers-pr/399) (3 days ago)
 - [Cvss4 vs cvss3 and issues downloading grype db](https://anchorecommunity.discourse.group/t/cvss4-vs-cvss3-and-issues-downloading-grype-db/398) (3 days ago)
-- [Anchore Open Source Weekly Report - Week 14, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-14-2025/397) (3 days ago)
