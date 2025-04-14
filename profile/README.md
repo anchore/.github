@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Shift Right Security for EKS](https://anchore.com/videos/shift-right-security-for-eks/) (today)
 - [Automate Your Compliance: How Anchore Enforce Secures the Software Supply Chain](https://anchore.com/blog/automate-your-compliance-how-anchore-enforce-secures-the-software-supply-chain/) (6 days ago)
 - [How to Identify and Tackle SBOM Sprawl](https://anchore.com/webinars/how-to-identify-and-tackle-sbom-sprawl/) (1 week ago)
 - [The Critical Role of SBOMs in PCI DSS 4.0 Compliance](https://anchore.com/blog/pci-dss-4-compliance-with-sboms-and-software-supply-chain-security/) (1 week ago)
 - [Generating SBOMs for JavaScript Projects: A Developer’s Guide](https://anchore.com/blog/javascript-sbom-generation/) (2 weeks ago)
-- [Truth in IT: Keeping Your Code Shipshape with SBOMs!](https://anchore.com/videos/truth-in-it-keeping-your-code-shipshape-with-sboms/) (2 weeks ago)
 
 ### Community
 
