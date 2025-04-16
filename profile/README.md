@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (today)
-- [The NVD Enrichment Crisis: One Year Later—How Anchore is Filling the Vulnerability Data Gap](https://anchore.com/blog/nvd-crisis-one-year-later/) (today)
-- [Shift Right Security for EKS](https://anchore.com/videos/shift-right-security-for-eks/) (1 day ago)
+- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (1 day ago)
+- [The NVD Enrichment Crisis: One Year Later—How Anchore is Filling the Vulnerability Data Gap](https://anchore.com/blog/nvd-crisis-one-year-later/) (1 day ago)
+- [Shift Right Security for EKS](https://anchore.com/videos/shift-right-security-for-eks/) (2 days ago)
 - [Automate Your Compliance: How Anchore Enforce Secures the Software Supply Chain](https://anchore.com/blog/automate-your-compliance-how-anchore-enforce-secures-the-software-supply-chain/) (1 week ago)
 - [How to Identify and Tackle SBOM Sprawl](https://anchore.com/webinars/how-to-identify-and-tackle-sbom-sprawl/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [April 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/april-17th-open-source-gardening-live-stream/406) (1 day ago)
-- [Anchore Open Source Weekly Report - Week 15, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-15-2025/405) (1 day ago)
-- [April 10th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/april-10th-community-meeting-zoom-call/404) (5 days ago)
-- [Webinar: Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchorecommunity.discourse.group/t/webinar-rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/402) (6 days ago)
+- [April 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/april-17th-open-source-gardening-live-stream/406) (2 days ago)
+- [Anchore Open Source Weekly Report - Week 15, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-15-2025/405) (2 days ago)
+- [April 10th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/april-10th-community-meeting-zoom-call/404) (6 days ago)
+- [Webinar: Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchorecommunity.discourse.group/t/webinar-rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/402) (1 week ago)
 - [April 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/april-10th-open-source-gardening-live-stream/400) (1 week ago)
