@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Accelerating Container Security on AWS: Introducing the Anchore Enterprise Cloud Image](https://anchore.com/blog/introducing-the-anchore-enterprise-cloud-image/) (today)
 - [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (1 day ago)
 - [The NVD Enrichment Crisis: One Year Later—How Anchore is Filling the Vulnerability Data Gap](https://anchore.com/blog/nvd-crisis-one-year-later/) (1 day ago)
 - [Shift Right Security for EKS](https://anchore.com/videos/shift-right-security-for-eks/) (2 days ago)
 - [Automate Your Compliance: How Anchore Enforce Secures the Software Supply Chain](https://anchore.com/blog/automate-your-compliance-how-anchore-enforce-secures-the-software-supply-chain/) (1 week ago)
-- [How to Identify and Tackle SBOM Sprawl](https://anchore.com/webinars/how-to-identify-and-tackle-sbom-sprawl/) (1 week ago)
 
 ### Community
 
