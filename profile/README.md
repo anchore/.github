@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Cloud Native Principles on the Linux Desktop with Jorge Castro](https://anchorecommunity.discourse.group/t/cloud-native-principles-on-the-linux-desktop-with-jorge-castro/408) (today)
 - [April 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/april-17th-open-source-gardening-live-stream/406) (3 days ago)
 - [Anchore Open Source Weekly Report - Week 15, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-15-2025/405) (3 days ago)
 - [April 10th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/april-10th-community-meeting-zoom-call/404) (1 week ago)
 - [Webinar: Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchorecommunity.discourse.group/t/webinar-rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/402) (1 week ago)
-- [April 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/april-10th-open-source-gardening-live-stream/400) (1 week ago)
