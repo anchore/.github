@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Accelerating Container Security on AWS: Introducing the Anchore Enterprise Cloud Image](https://anchore.com/blog/introducing-the-anchore-enterprise-cloud-image/) (4 days ago)
-- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (5 days ago)
-- [The NVD Enrichment Crisis: One Year Later—How Anchore is Filling the Vulnerability Data Gap](https://anchore.com/blog/nvd-crisis-one-year-later/) (5 days ago)
-- [Shift Right Security for EKS](https://anchore.com/videos/shift-right-security-for-eks/) (6 days ago)
+- [Accelerating Container Security on AWS: Introducing the Anchore Enterprise Cloud Image](https://anchore.com/blog/introducing-the-anchore-enterprise-cloud-image/) (5 days ago)
+- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (6 days ago)
+- [The NVD Enrichment Crisis: One Year Later—How Anchore is Filling the Vulnerability Data Gap](https://anchore.com/blog/nvd-crisis-one-year-later/) (6 days ago)
+- [Shift Right Security for EKS](https://anchore.com/videos/shift-right-security-for-eks/) (1 week ago)
 - [Automate Your Compliance: How Anchore Enforce Secures the Software Supply Chain](https://anchore.com/blog/automate-your-compliance-how-anchore-enforce-secures-the-software-supply-chain/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Cloud Native Principles on the Linux Desktop with Jorge Castro](https://anchorecommunity.discourse.group/t/cloud-native-principles-on-the-linux-desktop-with-jorge-castro/408) (3 days ago)
-- [April 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/april-17th-open-source-gardening-live-stream/406) (6 days ago)
-- [Anchore Open Source Weekly Report - Week 15, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-15-2025/405) (6 days ago)
+- [Cloud Native Principles on the Linux Desktop with Jorge Castro](https://anchorecommunity.discourse.group/t/cloud-native-principles-on-the-linux-desktop-with-jorge-castro/408) (4 days ago)
+- [April 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/april-17th-open-source-gardening-live-stream/406) (1 week ago)
+- [Anchore Open Source Weekly Report - Week 15, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-15-2025/405) (1 week ago)
 - [April 10th | Community Meeting | Zoom call](https://anchorecommunity.discourse.group/t/april-10th-community-meeting-zoom-call/404) (1 week ago)
 - [Webinar: Rapid Incident Response to Zero-Day Vulnerabilities with SBOMs](https://anchorecommunity.discourse.group/t/webinar-rapid-incident-response-to-zero-day-vulnerabilities-with-sboms/402) (1 week ago)
