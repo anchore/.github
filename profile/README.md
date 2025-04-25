@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Anchore Community Spotlight – Bringing Cloud Native Principles to the Developer Desktop](https://anchore.com/videos/shift-right-security-for-eks-2/) (today)
-- [From War Room to Workflow: How Anchore Transforms CVE Incident Response](https://anchore.com/blog/from-war-room-to-workflow-how-anchore-transforms-cve-incident-response/) (2 days ago)
+- [Anchore Community Spotlight – Bringing Cloud Native Principles to the Developer Desktop](https://anchore.com/videos/shift-right-security-for-eks-2/) (1 day ago)
+- [From War Room to Workflow: How Anchore Transforms CVE Incident Response](https://anchore.com/blog/from-war-room-to-workflow-how-anchore-transforms-cve-incident-response/) (3 days ago)
 - [Accelerating Container Security on AWS: Introducing the Anchore Enterprise Cloud Image](https://anchore.com/blog/introducing-the-anchore-enterprise-cloud-image/) (1 week ago)
 - [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (1 week ago)
 - [The NVD Enrichment Crisis: One Year Later—How Anchore is Filling the Vulnerability Data Gap](https://anchore.com/blog/nvd-crisis-one-year-later/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.91.1 released](https://anchorecommunity.discourse.group/t/grype-v0-91-1-released/413) (today)
-- [Syft - v1.23.0 released](https://anchorecommunity.discourse.group/t/syft-v1-23-0-released/412) (today)
-- [Stereoscope - v0.1.4 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-4-released/411) (today)
-- [April 24th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/april-24th-open-source-gardening-live-stream/410) (2 days ago)
-- [Anchore Open Source Weekly Report - Week 16, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-16-2025/409) (3 days ago)
+- [Grype - v0.91.1 released](https://anchorecommunity.discourse.group/t/grype-v0-91-1-released/413) (1 day ago)
+- [Syft - v1.23.0 released](https://anchorecommunity.discourse.group/t/syft-v1-23-0-released/412) (1 day ago)
+- [Stereoscope - v0.1.4 released](https://anchorecommunity.discourse.group/t/stereoscope-v0-1-4-released/411) (1 day ago)
+- [April 24th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/april-24th-open-source-gardening-live-stream/410) (3 days ago)
+- [Anchore Open Source Weekly Report - Week 16, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-16-2025/409) (4 days ago)
