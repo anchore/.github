@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Navigating the Path to Federal Markets: Your Complete FedRAMP Guide](https://anchore.com/blog/navigating-the-path-to-federal-markets-your-complete-fedramp-guide/) (today)
 - [Unlocking Federal Markets: The Enterprise Guide to FedRAMP](https://anchore.com/white-papers/unlocking-federal-markets-the-enterprise-guide-to-fedramp/) (today)
 - [Anchore Community Spotlight – Bringing Cloud Native Principles to the Developer Desktop](https://anchore.com/videos/shift-right-security-for-eks-2/) (5 days ago)
 - [From War Room to Workflow: How Anchore Transforms CVE Incident Response](https://anchore.com/blog/from-war-room-to-workflow-how-anchore-transforms-cve-incident-response/) (1 week ago)
 - [Accelerating Container Security on AWS: Introducing the Anchore Enterprise Cloud Image](https://anchore.com/blog/introducing-the-anchore-enterprise-cloud-image/) (1 week ago)
-- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (2 weeks ago)
 
 ### Community
 
