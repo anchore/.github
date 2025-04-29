@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Anchore Community Spotlight – Bringing Cloud Native Principles to the Developer Desktop](https://anchore.com/videos/shift-right-security-for-eks-2/) (4 days ago)
-- [From War Room to Workflow: How Anchore Transforms CVE Incident Response](https://anchore.com/blog/from-war-room-to-workflow-how-anchore-transforms-cve-incident-response/) (6 days ago)
+- [Anchore Community Spotlight – Bringing Cloud Native Principles to the Developer Desktop](https://anchore.com/videos/shift-right-security-for-eks-2/) (5 days ago)
+- [From War Room to Workflow: How Anchore Transforms CVE Incident Response](https://anchore.com/blog/from-war-room-to-workflow-how-anchore-transforms-cve-incident-response/) (1 week ago)
 - [Accelerating Container Security on AWS: Introducing the Anchore Enterprise Cloud Image](https://anchore.com/blog/introducing-the-anchore-enterprise-cloud-image/) (1 week ago)
-- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (1 week ago)
-- [The NVD Enrichment Crisis: One Year Later—How Anchore is Filling the Vulnerability Data Gap](https://anchore.com/blog/nvd-crisis-one-year-later/) (1 week ago)
+- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (2 weeks ago)
+- [The NVD Enrichment Crisis: One Year Later—How Anchore is Filling the Vulnerability Data Gap](https://anchore.com/blog/nvd-crisis-one-year-later/) (2 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Anchore Open Source Weekly Report - Week 17, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-17-2025/416) (today)
-- [Grype - v0.91.2 released](https://anchorecommunity.discourse.group/t/grype-v0-91-2-released/415) (3 days ago)
-- [Syft - v1.23.1 released](https://anchorecommunity.discourse.group/t/syft-v1-23-1-released/414) (3 days ago)
-- [Grype - v0.91.1 released](https://anchorecommunity.discourse.group/t/grype-v0-91-1-released/413) (4 days ago)
-- [Syft - v1.23.0 released](https://anchorecommunity.discourse.group/t/syft-v1-23-0-released/412) (4 days ago)
+- [Anchore Open Source Weekly Report - Week 17, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-17-2025/416) (1 day ago)
+- [Grype - v0.91.2 released](https://anchorecommunity.discourse.group/t/grype-v0-91-2-released/415) (4 days ago)
+- [Syft - v1.23.1 released](https://anchorecommunity.discourse.group/t/syft-v1-23-1-released/414) (4 days ago)
+- [Grype - v0.91.1 released](https://anchorecommunity.discourse.group/t/grype-v0-91-1-released/413) (5 days ago)
+- [Syft - v1.23.0 released](https://anchorecommunity.discourse.group/t/syft-v1-23-0-released/412) (5 days ago)
