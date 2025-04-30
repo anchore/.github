@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Navigating the Path to Federal Markets: Your Complete FedRAMP Guide](https://anchore.com/blog/navigating-the-path-to-federal-markets-your-complete-fedramp-guide/) (today)
-- [Unlocking Federal Markets: The Enterprise Guide to FedRAMP](https://anchore.com/white-papers/unlocking-federal-markets-the-enterprise-guide-to-fedramp/) (today)
-- [Anchore Community Spotlight – Bringing Cloud Native Principles to the Developer Desktop](https://anchore.com/videos/shift-right-security-for-eks-2/) (5 days ago)
+- [Navigating the Path to Federal Markets: Your Complete FedRAMP Guide](https://anchore.com/blog/navigating-the-path-to-federal-markets-your-complete-fedramp-guide/) (1 day ago)
+- [Unlocking Federal Markets: The Enterprise Guide to FedRAMP](https://anchore.com/white-papers/unlocking-federal-markets-the-enterprise-guide-to-fedramp/) (1 day ago)
+- [Anchore Community Spotlight – Bringing Cloud Native Principles to the Developer Desktop](https://anchore.com/videos/shift-right-security-for-eks-2/) (6 days ago)
 - [From War Room to Workflow: How Anchore Transforms CVE Incident Response](https://anchore.com/blog/from-war-room-to-workflow-how-anchore-transforms-cve-incident-response/) (1 week ago)
-- [Accelerating Container Security on AWS: Introducing the Anchore Enterprise Cloud Image](https://anchore.com/blog/introducing-the-anchore-enterprise-cloud-image/) (1 week ago)
+- [Accelerating Container Security on AWS: Introducing the Anchore Enterprise Cloud Image](https://anchore.com/blog/introducing-the-anchore-enterprise-cloud-image/) (2 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Anchore Open Source Weekly Report - Week 17, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-17-2025/416) (1 day ago)
-- [Grype - v0.91.2 released](https://anchorecommunity.discourse.group/t/grype-v0-91-2-released/415) (4 days ago)
-- [Syft - v1.23.1 released](https://anchorecommunity.discourse.group/t/syft-v1-23-1-released/414) (4 days ago)
-- [Grype - v0.91.1 released](https://anchorecommunity.discourse.group/t/grype-v0-91-1-released/413) (5 days ago)
-- [Syft - v1.23.0 released](https://anchorecommunity.discourse.group/t/syft-v1-23-0-released/412) (5 days ago)
+- [Anchore Open Source Weekly Report - Week 17, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-17-2025/416) (2 days ago)
+- [Grype - v0.91.2 released](https://anchorecommunity.discourse.group/t/grype-v0-91-2-released/415) (5 days ago)
+- [Syft - v1.23.1 released](https://anchorecommunity.discourse.group/t/syft-v1-23-1-released/414) (5 days ago)
+- [Grype - v0.91.1 released](https://anchorecommunity.discourse.group/t/grype-v0-91-1-released/413) (6 days ago)
+- [Syft - v1.23.0 released](https://anchorecommunity.discourse.group/t/syft-v1-23-0-released/412) (6 days ago)
