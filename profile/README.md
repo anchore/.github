@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (3 days ago)
-- [Anchore’s SBOM Learning Week: From Reactive to Resilient in 5 Days](https://anchore.com/blog/anchores-sbom-learning-week-from-reactive-to-resilient-in-5-days/) (3 days ago)
-- [Navigating the Path to Federal Markets: Your Complete FedRAMP Guide](https://anchore.com/blog/navigating-the-path-to-federal-markets-your-complete-fedramp-guide/) (5 days ago)
-- [Unlocking Federal Markets: The Enterprise Guide to FedRAMP](https://anchore.com/white-papers/unlocking-federal-markets-the-enterprise-guide-to-fedramp/) (5 days ago)
+- [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (4 days ago)
+- [Anchore’s SBOM Learning Week: From Reactive to Resilient in 5 Days](https://anchore.com/blog/anchores-sbom-learning-week-from-reactive-to-resilient-in-5-days/) (4 days ago)
+- [Navigating the Path to Federal Markets: Your Complete FedRAMP Guide](https://anchore.com/blog/navigating-the-path-to-federal-markets-your-complete-fedramp-guide/) (6 days ago)
+- [Unlocking Federal Markets: The Enterprise Guide to FedRAMP](https://anchore.com/white-papers/unlocking-federal-markets-the-enterprise-guide-to-fedramp/) (6 days ago)
 - [Anchore Community Spotlight – Bringing Cloud Native Principles to the Developer Desktop](https://anchore.com/videos/shift-right-security-for-eks-2/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [EOL can be developed in grype](https://anchorecommunity.discourse.group/t/eol-can-be-developed-in-grype/420) (1 day ago)
-- [May 1st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-1st-open-source-gardening-live-stream/419) (3 days ago)
-- [List of affected ranges vs list of fixes?](https://anchorecommunity.discourse.group/t/list-of-affected-ranges-vs-list-of-fixes/418) (4 days ago)
-- [Anchore Open Source Weekly Report - Week 17, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-17-2025/416) (6 days ago)
+- [EOL can be developed in grype](https://anchorecommunity.discourse.group/t/eol-can-be-developed-in-grype/420) (2 days ago)
+- [May 1st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-1st-open-source-gardening-live-stream/419) (4 days ago)
+- [List of affected ranges vs list of fixes?](https://anchorecommunity.discourse.group/t/list-of-affected-ranges-vs-list-of-fixes/418) (5 days ago)
+- [Anchore Open Source Weekly Report - Week 17, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-17-2025/416) (1 week ago)
 - [Grype - v0.91.2 released](https://anchorecommunity.discourse.group/t/grype-v0-91-2-released/415) (1 week ago)
