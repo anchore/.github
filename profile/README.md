@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [May 8th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-8th-open-source-gardening-live-stream/422) (today)
 - [Anchore Open Source Weekly Report - Week 18, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-18-2025/421) (today)
 - [EOL can be developed in grype](https://anchorecommunity.discourse.group/t/eol-can-be-developed-in-grype/420) (3 days ago)
 - [May 1st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-1st-open-source-gardening-live-stream/419) (5 days ago)
 - [List of affected ranges vs list of fixes?](https://anchorecommunity.discourse.group/t/list-of-affected-ranges-vs-list-of-fixes/418) (6 days ago)
-- [Anchore Open Source Weekly Report - Week 17, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-17-2025/416) (1 week ago)
