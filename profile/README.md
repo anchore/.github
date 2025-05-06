@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [SBOM Generation Step-by-Step: Anchore Learning Week (Day 2)](https://anchore.com/blog/sbom-generation-step-by-step-anchore-learning-week-day-2/) (today)
 - [SBOM Fundamentals: Anchore Learning Week (Day 1)](https://anchore.com/blog/sbom-fundamentals-anchore-learning-week-day-1/) (1 day ago)
 - [Join Anchore Open Source Team: Live Stream](https://anchore.com/events/join-anchore-open-source-team-live-stream/) (5 days ago)
 - [Anchore’s SBOM Learning Week: From Reactive to Resilient in 5 Days](https://anchore.com/blog/anchores-sbom-learning-week-from-reactive-to-resilient-in-5-days/) (5 days ago)
 - [Navigating the Path to Federal Markets: Your Complete FedRAMP Guide](https://anchore.com/blog/navigating-the-path-to-federal-markets-your-complete-fedramp-guide/) (1 week ago)
-- [Unlocking Federal Markets: The Enterprise Guide to FedRAMP](https://anchore.com/white-papers/unlocking-federal-markets-the-enterprise-guide-to-fedramp/) (1 week ago)
 
 ### Community
 
