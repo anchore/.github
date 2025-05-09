@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Establish Visibility and Manage Risk in the Supply Chain with Anchore SBOM](https://anchore.com/videos/establish-visibility-and-manage-risk-in-the-supply-chain-with-anchore-sbom/) (today)
-- [How the US Navy Approaches DevSecOps with Raise 2.0](https://anchore.com/videos/how-the-us-navy-approaches-devsecops-with-raise-2-0/) (today)
-- [SBOM Insights on LLMs, Compliance Attestations and Security Mental Models: Anchore Learning Week (Day 4)](https://anchore.com/blog/sbom-insights-on-llms-compliance-attestations-and-security-mental-models-anchore-learning-week-day-4/) (today)
-- [DevOps-Scale SBOM Management: Anchore Learning Week (Day 3)](https://anchore.com/blog/devops-scale-sbom-management-anchore-learning-week-day-3/) (1 day ago)
-- [SBOM Generation Step-by-Step: Anchore Learning Week (Day 2)](https://anchore.com/blog/sbom-generation-step-by-step-anchore-learning-week-day-2/) (2 days ago)
+- [Establish Visibility and Manage Risk in the Supply Chain with Anchore SBOM](https://anchore.com/videos/establish-visibility-and-manage-risk-in-the-supply-chain-with-anchore-sbom/) (1 day ago)
+- [How the US Navy Approaches DevSecOps with Raise 2.0](https://anchore.com/videos/how-the-us-navy-approaches-devsecops-with-raise-2-0/) (1 day ago)
+- [SBOM Insights on LLMs, Compliance Attestations and Security Mental Models: Anchore Learning Week (Day 4)](https://anchore.com/blog/sbom-insights-on-llms-compliance-attestations-and-security-mental-models-anchore-learning-week-day-4/) (1 day ago)
+- [DevOps-Scale SBOM Management: Anchore Learning Week (Day 3)](https://anchore.com/blog/devops-scale-sbom-management-anchore-learning-week-day-3/) (2 days ago)
+- [SBOM Generation Step-by-Step: Anchore Learning Week (Day 2)](https://anchore.com/blog/sbom-generation-step-by-step-anchore-learning-week-day-2/) (3 days ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [May 8th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-8th-open-source-gardening-live-stream/422) (2 days ago)
-- [Anchore Open Source Weekly Report - Week 18, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-18-2025/421) (2 days ago)
-- [EOL can be developed in grype](https://anchorecommunity.discourse.group/t/eol-can-be-developed-in-grype/420) (5 days ago)
+- [May 8th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-8th-open-source-gardening-live-stream/422) (3 days ago)
+- [Anchore Open Source Weekly Report - Week 18, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-18-2025/421) (3 days ago)
+- [EOL can be developed in grype](https://anchorecommunity.discourse.group/t/eol-can-be-developed-in-grype/420) (6 days ago)
 - [May 1st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-1st-open-source-gardening-live-stream/419) (1 week ago)
 - [List of affected ranges vs list of fixes?](https://anchorecommunity.discourse.group/t/list-of-affected-ranges-vs-list-of-fixes/418) (1 week ago)
