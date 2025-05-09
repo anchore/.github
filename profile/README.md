@@ -19,10 +19,10 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 
 - [SBOMs as the Crossroad of the Software Supply Chain: Anchore Learning Week  (Day 5)](https://anchore.com/blog/sboms-as-the-crossroad-of-the-software-supply-chain-anchore-learning-week-day-5/) (today)
-- [Establish Visibility and Manage Risk in the Supply Chain with Anchore SBOM](https://anchore.com/videos/establish-visibility-and-manage-risk-in-the-supply-chain-with-anchore-sbom/) (1 day ago)
 - [How the US Navy Approaches DevSecOps with Raise 2.0](https://anchore.com/videos/how-the-us-navy-approaches-devsecops-with-raise-2-0/) (1 day ago)
 - [SBOM Insights on LLMs, Compliance Attestations and Security Mental Models: Anchore Learning Week (Day 4)](https://anchore.com/blog/sbom-insights-on-llms-compliance-attestations-and-security-mental-models-anchore-learning-week-day-4/) (1 day ago)
 - [DevOps-Scale SBOM Management: Anchore Learning Week (Day 3)](https://anchore.com/blog/devops-scale-sbom-management-anchore-learning-week-day-3/) (2 days ago)
+- [SBOM Generation Step-by-Step: Anchore Learning Week (Day 2)](https://anchore.com/blog/sbom-generation-step-by-step-anchore-learning-week-day-2/) (3 days ago)
 
 ### Community
 
