@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Unable to use html template when using grype in a container in a jenkins job to scan docker images](https://anchorecommunity.discourse.group/t/unable-to-use-html-template-when-using-grype-in-a-container-in-a-jenkins-job-to-scan-docker-images/429) (today)
 - [May 15th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-15th-open-source-gardening-live-stream/427) (1 day ago)
 - [Anchore Open Source Weekly Report - Week 19, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-19-2025/426) (1 day ago)
 - [May 8th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-8th-open-source-gardening-live-stream/422) (1 week ago)
 - [Anchore Open Source Weekly Report - Week 18, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-18-2025/421) (1 week ago)
-- [EOL can be developed in grype](https://anchorecommunity.discourse.group/t/eol-can-be-developed-in-grype/420) (1 week ago)
