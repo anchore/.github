@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [EU CRA SBOM Requirements: Overview &amp; Compliance Tips](https://anchore.com/blog/eu-cra-sbom-requirements-overview-compliance-tips/) (today)
-- [SBOMs as the Crossroad of the Software Supply Chain: Anchore Learning Week  (Day 5)](https://anchore.com/blog/sboms-as-the-crossroad-of-the-software-supply-chain-anchore-learning-week-day-5/) (4 days ago)
-- [How the US Navy Approaches DevSecOps with Raise 2.0](https://anchore.com/videos/how-the-us-navy-approaches-devsecops-with-raise-2-0/) (5 days ago)
-- [SBOM Insights on LLMs, Compliance Attestations and Security Mental Models: Anchore Learning Week (Day 4)](https://anchore.com/blog/sbom-insights-on-llms-compliance-attestations-and-security-mental-models-anchore-learning-week-day-4/) (5 days ago)
-- [DevOps-Scale SBOM Management: Anchore Learning Week (Day 3)](https://anchore.com/blog/devops-scale-sbom-management-anchore-learning-week-day-3/) (6 days ago)
+- [EU CRA SBOM Requirements: Overview &amp; Compliance Tips](https://anchore.com/blog/eu-cra-sbom-requirements-overview-compliance-tips/) (1 day ago)
+- [SBOMs as the Crossroad of the Software Supply Chain: Anchore Learning Week  (Day 5)](https://anchore.com/blog/sboms-as-the-crossroad-of-the-software-supply-chain-anchore-learning-week-day-5/) (5 days ago)
+- [How the US Navy Approaches DevSecOps with Raise 2.0](https://anchore.com/videos/how-the-us-navy-approaches-devsecops-with-raise-2-0/) (6 days ago)
+- [SBOM Insights on LLMs, Compliance Attestations and Security Mental Models: Anchore Learning Week (Day 4)](https://anchore.com/blog/sbom-insights-on-llms-compliance-attestations-and-security-mental-models-anchore-learning-week-day-4/) (6 days ago)
+- [DevOps-Scale SBOM Management: Anchore Learning Week (Day 3)](https://anchore.com/blog/devops-scale-sbom-management-anchore-learning-week-day-3/) (1 week ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Unable to use html template when using grype in a container in a jenkins job to scan docker images](https://anchorecommunity.discourse.group/t/unable-to-use-html-template-when-using-grype-in-a-container-in-a-jenkins-job-to-scan-docker-images/429) (today)
-- [May 15th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-15th-open-source-gardening-live-stream/427) (1 day ago)
-- [Anchore Open Source Weekly Report - Week 19, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-19-2025/426) (1 day ago)
+- [Unable to use html template when using grype in a container in a jenkins job to scan docker images](https://anchorecommunity.discourse.group/t/unable-to-use-html-template-when-using-grype-in-a-container-in-a-jenkins-job-to-scan-docker-images/429) (1 day ago)
+- [May 15th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-15th-open-source-gardening-live-stream/427) (2 days ago)
+- [Anchore Open Source Weekly Report - Week 19, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-19-2025/426) (2 days ago)
 - [May 8th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-8th-open-source-gardening-live-stream/422) (1 week ago)
 - [Anchore Open Source Weekly Report - Week 18, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-18-2025/421) (1 week ago)
