@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Grype - v0.92.1 released](https://anchorecommunity.discourse.group/t/grype-v0-92-1-released/435) (today)
+- [Syft - v1.25.0 &amp; v1.25.1 released](https://anchorecommunity.discourse.group/t/syft-v1-25-0-v1-25-1-released/434) (today)
 - [For scan C&#43;&#43; binary, how to recognize the package which the binary come from](https://anchorecommunity.discourse.group/t/for-scan-c-binary-how-to-recognize-the-package-which-the-binary-come-from/433) (today)
 - [Grype - v0.92.0 released](https://anchorecommunity.discourse.group/t/grype-v0-92-0-released/431) (2 days ago)
 - [Syft - v1.24.0 released](https://anchorecommunity.discourse.group/t/syft-v1-24-0-released/430) (2 days ago)
-- [Unable to use html template when using grype in a container in a jenkins job to scan docker images](https://anchorecommunity.discourse.group/t/unable-to-use-html-template-when-using-grype-in-a-container-in-a-jenkins-job-to-scan-docker-images/429) (3 days ago)
-- [May 15th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-15th-open-source-gardening-live-stream/427) (4 days ago)
