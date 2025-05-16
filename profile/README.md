@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Easyjson and foreign influence, should we panic?](https://anchore.com/blog/easyjson-and-foreign-influence-should-we-panic/) (today)
-- [EU CRA SBOM Requirements: Overview &amp; Compliance Tips](https://anchore.com/blog/eu-cra-sbom-requirements-overview-compliance-tips/) (2 days ago)
-- [SBOMs as the Crossroad of the Software Supply Chain: Anchore Learning Week  (Day 5)](https://anchore.com/blog/sboms-as-the-crossroad-of-the-software-supply-chain-anchore-learning-week-day-5/) (6 days ago)
+- [Easyjson and foreign influence, should we panic?](https://anchore.com/blog/easyjson-and-foreign-influence-should-we-panic/) (1 day ago)
+- [EU CRA SBOM Requirements: Overview &amp; Compliance Tips](https://anchore.com/blog/eu-cra-sbom-requirements-overview-compliance-tips/) (3 days ago)
+- [SBOMs as the Crossroad of the Software Supply Chain: Anchore Learning Week  (Day 5)](https://anchore.com/blog/sboms-as-the-crossroad-of-the-software-supply-chain-anchore-learning-week-day-5/) (1 week ago)
 - [How the US Navy Approaches DevSecOps with Raise 2.0](https://anchore.com/videos/how-the-us-navy-approaches-devsecops-with-raise-2-0/) (1 week ago)
 - [SBOM Insights on LLMs, Compliance Attestations and Security Mental Models: Anchore Learning Week (Day 4)](https://anchore.com/blog/sbom-insights-on-llms-compliance-attestations-and-security-mental-models-anchore-learning-week-day-4/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.92.0 released](https://anchorecommunity.discourse.group/t/grype-v0-92-0-released/431) (1 day ago)
-- [Syft - v1.24.0 released](https://anchorecommunity.discourse.group/t/syft-v1-24-0-released/430) (1 day ago)
-- [Unable to use html template when using grype in a container in a jenkins job to scan docker images](https://anchorecommunity.discourse.group/t/unable-to-use-html-template-when-using-grype-in-a-container-in-a-jenkins-job-to-scan-docker-images/429) (2 days ago)
-- [May 15th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-15th-open-source-gardening-live-stream/427) (3 days ago)
-- [Anchore Open Source Weekly Report - Week 19, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-19-2025/426) (3 days ago)
+- [Grype - v0.92.0 released](https://anchorecommunity.discourse.group/t/grype-v0-92-0-released/431) (2 days ago)
+- [Syft - v1.24.0 released](https://anchorecommunity.discourse.group/t/syft-v1-24-0-released/430) (2 days ago)
+- [Unable to use html template when using grype in a container in a jenkins job to scan docker images](https://anchorecommunity.discourse.group/t/unable-to-use-html-template-when-using-grype-in-a-container-in-a-jenkins-job-to-scan-docker-images/429) (3 days ago)
+- [May 15th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-15th-open-source-gardening-live-stream/427) (4 days ago)
+- [Anchore Open Source Weekly Report - Week 19, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-19-2025/426) (4 days ago)
