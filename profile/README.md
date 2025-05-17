@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Easyjson and foreign influence, should we panic?](https://anchore.com/blog/easyjson-and-foreign-influence-should-we-panic/) (1 day ago)
-- [EU CRA SBOM Requirements: Overview &amp; Compliance Tips](https://anchore.com/blog/eu-cra-sbom-requirements-overview-compliance-tips/) (3 days ago)
+- [Easyjson and foreign influence, should we panic?](https://anchore.com/blog/easyjson-and-foreign-influence-should-we-panic/) (2 days ago)
+- [EU CRA SBOM Requirements: Overview &amp; Compliance Tips](https://anchore.com/blog/eu-cra-sbom-requirements-overview-compliance-tips/) (4 days ago)
 - [SBOMs as the Crossroad of the Software Supply Chain: Anchore Learning Week  (Day 5)](https://anchore.com/blog/sboms-as-the-crossroad-of-the-software-supply-chain-anchore-learning-week-day-5/) (1 week ago)
 - [How the US Navy Approaches DevSecOps with Raise 2.0](https://anchore.com/videos/how-the-us-navy-approaches-devsecops-with-raise-2-0/) (1 week ago)
 - [SBOM Insights on LLMs, Compliance Attestations and Security Mental Models: Anchore Learning Week (Day 4)](https://anchore.com/blog/sbom-insights-on-llms-compliance-attestations-and-security-mental-models-anchore-learning-week-day-4/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.92.1 released](https://anchorecommunity.discourse.group/t/grype-v0-92-1-released/435) (today)
-- [Syft - v1.25.0 &amp; v1.25.1 released](https://anchorecommunity.discourse.group/t/syft-v1-25-0-v1-25-1-released/434) (today)
-- [For scan C&#43;&#43; binary, how to recognize the package which the binary come from](https://anchorecommunity.discourse.group/t/for-scan-c-binary-how-to-recognize-the-package-which-the-binary-come-from/433) (today)
-- [Grype - v0.92.0 released](https://anchorecommunity.discourse.group/t/grype-v0-92-0-released/431) (2 days ago)
-- [Syft - v1.24.0 released](https://anchorecommunity.discourse.group/t/syft-v1-24-0-released/430) (2 days ago)
+- [Grype - v0.92.1 released](https://anchorecommunity.discourse.group/t/grype-v0-92-1-released/435) (1 day ago)
+- [Syft - v1.25.0 &amp; v1.25.1 released](https://anchorecommunity.discourse.group/t/syft-v1-25-0-v1-25-1-released/434) (1 day ago)
+- [For scan C&#43;&#43; binary, how to recognize the package which the binary come from](https://anchorecommunity.discourse.group/t/for-scan-c-binary-how-to-recognize-the-package-which-the-binary-come-from/433) (1 day ago)
+- [Grype - v0.92.0 released](https://anchorecommunity.discourse.group/t/grype-v0-92-0-released/431) (3 days ago)
+- [Syft - v1.24.0 released](https://anchorecommunity.discourse.group/t/syft-v1-24-0-released/430) (3 days ago)
