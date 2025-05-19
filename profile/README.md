@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [May 22nd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-22nd-open-source-gardening-live-stream/436) (today)
 - [Grype - v0.92.1 released](https://anchorecommunity.discourse.group/t/grype-v0-92-1-released/435) (3 days ago)
 - [Syft - v1.25.0 &amp; v1.25.1 released](https://anchorecommunity.discourse.group/t/syft-v1-25-0-v1-25-1-released/434) (3 days ago)
 - [For scan C&#43;&#43; binary, how to recognize the package which the binary come from](https://anchorecommunity.discourse.group/t/for-scan-c-binary-how-to-recognize-the-package-which-the-binary-come-from/433) (3 days ago)
 - [Grype - v0.92.0 released](https://anchorecommunity.discourse.group/t/grype-v0-92-0-released/431) (5 days ago)
-- [Syft - v1.24.0 released](https://anchorecommunity.discourse.group/t/syft-v1-24-0-released/430) (5 days ago)
