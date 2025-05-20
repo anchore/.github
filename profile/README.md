@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Easyjson and foreign influence, should we panic?](https://anchore.com/blog/easyjson-and-foreign-influence-should-we-panic/) (4 days ago)
-- [EU CRA SBOM Requirements: Overview &amp; Compliance Tips](https://anchore.com/blog/eu-cra-sbom-requirements-overview-compliance-tips/) (6 days ago)
+- [Easyjson and foreign influence, should we panic?](https://anchore.com/blog/easyjson-and-foreign-influence-should-we-panic/) (5 days ago)
+- [EU CRA SBOM Requirements: Overview &amp; Compliance Tips](https://anchore.com/blog/eu-cra-sbom-requirements-overview-compliance-tips/) (1 week ago)
 - [SBOMs as the Crossroad of the Software Supply Chain: Anchore Learning Week  (Day 5)](https://anchore.com/blog/sboms-as-the-crossroad-of-the-software-supply-chain-anchore-learning-week-day-5/) (1 week ago)
 - [How the US Navy Approaches DevSecOps with Raise 2.0](https://anchore.com/videos/how-the-us-navy-approaches-devsecops-with-raise-2-0/) (1 week ago)
 - [SBOM Insights on LLMs, Compliance Attestations and Security Mental Models: Anchore Learning Week (Day 4)](https://anchore.com/blog/sbom-insights-on-llms-compliance-attestations-and-security-mental-models-anchore-learning-week-day-4/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Clarification about ELSA reports returned by Grype](https://anchorecommunity.discourse.group/t/clarification-about-elsa-reports-returned-by-grype/439) (today)
-- [Anchore Open Source Weekly Report - Week 20, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-20-2025/437) (today)
-- [May 22nd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-22nd-open-source-gardening-live-stream/436) (today)
-- [Grype - v0.92.1 released](https://anchorecommunity.discourse.group/t/grype-v0-92-1-released/435) (3 days ago)
-- [Syft - v1.25.0 &amp; v1.25.1 released](https://anchorecommunity.discourse.group/t/syft-v1-25-0-v1-25-1-released/434) (3 days ago)
+- [Clarification about ELSA reports returned by Grype](https://anchorecommunity.discourse.group/t/clarification-about-elsa-reports-returned-by-grype/439) (1 day ago)
+- [Anchore Open Source Weekly Report - Week 20, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-20-2025/437) (1 day ago)
+- [May 22nd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-22nd-open-source-gardening-live-stream/436) (1 day ago)
+- [Grype - v0.92.1 released](https://anchorecommunity.discourse.group/t/grype-v0-92-1-released/435) (4 days ago)
+- [Syft - v1.25.0 &amp; v1.25.1 released](https://anchorecommunity.discourse.group/t/syft-v1-25-0-v1-25-1-released/434) (4 days ago)
