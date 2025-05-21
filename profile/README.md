@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [What is Software Composition Analysis (SCA)?](https://anchore.com/blog/software-composition-analysis/) (today)
-- [Easyjson and foreign influence, should we panic?](https://anchore.com/blog/easyjson-and-foreign-influence-should-we-panic/) (5 days ago)
+- [What is Software Composition Analysis (SCA)?](https://anchore.com/blog/software-composition-analysis/) (1 day ago)
+- [Easyjson and foreign influence, should we panic?](https://anchore.com/blog/easyjson-and-foreign-influence-should-we-panic/) (6 days ago)
 - [EU CRA SBOM Requirements: Overview &amp; Compliance Tips](https://anchore.com/blog/eu-cra-sbom-requirements-overview-compliance-tips/) (1 week ago)
 - [SBOMs as the Crossroad of the Software Supply Chain: Anchore Learning Week  (Day 5)](https://anchore.com/blog/sboms-as-the-crossroad-of-the-software-supply-chain-anchore-learning-week-day-5/) (1 week ago)
 - [How the US Navy Approaches DevSecOps with Raise 2.0](https://anchore.com/videos/how-the-us-navy-approaches-devsecops-with-raise-2-0/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Limiting the number of threads used](https://anchorecommunity.discourse.group/t/limiting-the-number-of-threads-used/442) (today)
-- [SUSE Linux matching impacted by SUSE outage](https://anchorecommunity.discourse.group/t/suse-linux-matching-impacted-by-suse-outage/440) (today)
-- [Clarification about ELSA reports returned by Grype](https://anchorecommunity.discourse.group/t/clarification-about-elsa-reports-returned-by-grype/439) (1 day ago)
-- [Anchore Open Source Weekly Report - Week 20, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-20-2025/437) (1 day ago)
-- [May 22nd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-22nd-open-source-gardening-live-stream/436) (1 day ago)
+- [Limiting the number of threads used](https://anchorecommunity.discourse.group/t/limiting-the-number-of-threads-used/442) (1 day ago)
+- [SUSE Linux matching impacted by SUSE outage](https://anchorecommunity.discourse.group/t/suse-linux-matching-impacted-by-suse-outage/440) (1 day ago)
+- [Clarification about ELSA reports returned by Grype](https://anchorecommunity.discourse.group/t/clarification-about-elsa-reports-returned-by-grype/439) (2 days ago)
+- [Anchore Open Source Weekly Report - Week 20, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-20-2025/437) (2 days ago)
+- [May 22nd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/may-22nd-open-source-gardening-live-stream/436) (2 days ago)
