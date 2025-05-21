@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Take Control of Your Software Supply Chain: Introducing Anchore SBOM](https://anchore.com/blog/announcing-anchore-sbom/) (today)
 - [What is Software Composition Analysis (SCA)?](https://anchore.com/blog/software-composition-analysis/) (1 day ago)
 - [Easyjson and foreign influence, should we panic?](https://anchore.com/blog/easyjson-and-foreign-influence-should-we-panic/) (6 days ago)
 - [EU CRA SBOM Requirements: Overview &amp; Compliance Tips](https://anchore.com/blog/eu-cra-sbom-requirements-overview-compliance-tips/) (1 week ago)
 - [SBOMs as the Crossroad of the Software Supply Chain: Anchore Learning Week  (Day 5)](https://anchore.com/blog/sboms-as-the-crossroad-of-the-software-supply-chain-anchore-learning-week-day-5/) (1 week ago)
-- [How the US Navy Approaches DevSecOps with Raise 2.0](https://anchore.com/videos/how-the-us-navy-approaches-devsecops-with-raise-2-0/) (1 week ago)
 
 ### Community
 
