@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [The True Cost of Compliance: Demonstrating the Value of Cybersecurity](https://anchore.com/videos/the-true-cost-of-compliance-demonstrating-the-value-of-cybersecurity/) (today)
 - [AWS Summit Washington, DC](https://anchore.com/videos/aws-summit-washington-dc/) (1 day ago)
 - [Take Control of Your Software Supply Chain: Introducing Anchore SBOM](https://anchore.com/blog/announcing-anchore-sbom/) (1 day ago)
 - [What is Software Composition Analysis (SCA)?](https://anchore.com/blog/software-composition-analysis/) (2 days ago)
 - [Easyjson and foreign influence, should we panic?](https://anchore.com/blog/easyjson-and-foreign-influence-should-we-panic/) (1 week ago)
-- [EU CRA SBOM Requirements: Overview &amp; Compliance Tips](https://anchore.com/blog/eu-cra-sbom-requirements-overview-compliance-tips/) (1 week ago)
 
 ### Community
 
