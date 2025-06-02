@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Anchore Open Source Weekly Report - Week 22, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-22-2025/448) (today)
 - [Syft - v1.26.1 released](https://anchorecommunity.discourse.group/t/syft-v1-26-1-released/445) (1 week ago)
 - [Grype - v0.92.2 released](https://anchorecommunity.discourse.group/t/grype-v0-92-2-released/444) (1 week ago)
 - [Syft - v1.26.0 released](https://anchorecommunity.discourse.group/t/syft-v1-26-0-released/443) (1 week ago)
 - [Limiting the number of threads used](https://anchorecommunity.discourse.group/t/limiting-the-number-of-threads-used/442) (1 week ago)
-- [SUSE Linux matching impacted by SUSE outage](https://anchorecommunity.discourse.group/t/suse-linux-matching-impacted-by-suse-outage/440) (1 week ago)
