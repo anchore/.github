@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [SCA vs. SBOM: How They Differ &amp; Why They Work Best as a Team](https://anchore.com/blog/sca-vs-sbom-how-they-differ-why-they-work-best-as-a-team/) (today)
 - [False Positives and False Negatives in Vulnerability Scanning: Lessons from the Trenches](https://anchore.com/blog/false-positives-and-false-negatives-in-vulnerability-scanning/) (5 days ago)
 - [NIS2 Compliance with SBOMs: a Scalable, Secure Supply Chain Solution](https://anchore.com/blog/nis2-compliance-with-sboms-a-scalable-secure-supply-chain-solution/) (1 week ago)
 - [The True Cost of Compliance: Demonstrating the Value of Cybersecurity](https://anchore.com/videos/the-true-cost-of-compliance-demonstrating-the-value-of-cybersecurity/) (1 week ago)
 - [AWS Summit Washington, DC](https://anchore.com/videos/aws-summit-washington-dc/) (1 week ago)
-- [Take Control of Your Software Supply Chain: Introducing Anchore SBOM](https://anchore.com/blog/announcing-anchore-sbom/) (1 week ago)
 
 ### Community
 
