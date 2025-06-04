@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [SCA vs. SBOM: How They Differ &amp; Why They Work Best as a Team](https://anchore.com/blog/sca-vs-sbom-how-they-differ-why-they-work-best-as-a-team/) (today)
-- [False Positives and False Negatives in Vulnerability Scanning: Lessons from the Trenches](https://anchore.com/blog/false-positives-and-false-negatives-in-vulnerability-scanning/) (5 days ago)
+- [SCA vs. SBOM: How They Differ &amp; Why They Work Best as a Team](https://anchore.com/blog/sca-vs-sbom-how-they-differ-why-they-work-best-as-a-team/) (1 day ago)
+- [False Positives and False Negatives in Vulnerability Scanning: Lessons from the Trenches](https://anchore.com/blog/false-positives-and-false-negatives-in-vulnerability-scanning/) (6 days ago)
 - [NIS2 Compliance with SBOMs: a Scalable, Secure Supply Chain Solution](https://anchore.com/blog/nis2-compliance-with-sboms-a-scalable-secure-supply-chain-solution/) (1 week ago)
 - [The True Cost of Compliance: Demonstrating the Value of Cybersecurity](https://anchore.com/videos/the-true-cost-of-compliance-demonstrating-the-value-of-cybersecurity/) (1 week ago)
-- [AWS Summit Washington, DC](https://anchore.com/videos/aws-summit-washington-dc/) (1 week ago)
+- [AWS Summit Washington, DC](https://anchore.com/videos/aws-summit-washington-dc/) (2 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Anchore Open Source Weekly Report - Week 22, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-22-2025/448) (1 day ago)
+- [Anchore Open Source Weekly Report - Week 22, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-22-2025/448) (2 days ago)
 - [Syft - v1.26.1 released](https://anchorecommunity.discourse.group/t/syft-v1-26-1-released/445) (1 week ago)
-- [Grype - v0.92.2 released](https://anchorecommunity.discourse.group/t/grype-v0-92-2-released/444) (1 week ago)
-- [Syft - v1.26.0 released](https://anchorecommunity.discourse.group/t/syft-v1-26-0-released/443) (1 week ago)
+- [Grype - v0.92.2 released](https://anchorecommunity.discourse.group/t/grype-v0-92-2-released/444) (2 weeks ago)
+- [Syft - v1.26.0 released](https://anchorecommunity.discourse.group/t/syft-v1-26-0-released/443) (2 weeks ago)
 - [Limiting the number of threads used](https://anchorecommunity.discourse.group/t/limiting-the-number-of-threads-used/442) (2 weeks ago)
