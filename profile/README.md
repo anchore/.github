@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The SBOM Paradox: Why ‘Useless’ Today Means Essential Tomorrow](https://anchore.com/blog/the-sbom-paradox-why-useless-today-means-essential-tomorrow/) (today)
+- [The SBOM Paradox: Why ‘Useless’ Today Means Essential Tomorrow](https://anchore.com/blog/the-sbom-paradox-why-useless-today-means-essential-tomorrow/) (1 day ago)
 - [SCA vs. SBOM: How They Differ &amp; Why They Work Best as a Team](https://anchore.com/blog/sca-vs-sbom-how-they-differ-why-they-work-best-as-a-team/) (1 week ago)
 - [False Positives and False Negatives in Vulnerability Scanning: Lessons from the Trenches](https://anchore.com/blog/false-positives-and-false-negatives-in-vulnerability-scanning/) (1 week ago)
 - [NIS2 Compliance with SBOMs: a Scalable, Secure Supply Chain Solution](https://anchore.com/blog/nis2-compliance-with-sboms-a-scalable-secure-supply-chain-solution/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.93.0 released](https://anchorecommunity.discourse.group/t/grype-v0-93-0-released/454) (today)
-- [Syft - v1.27.0 released](https://anchorecommunity.discourse.group/t/syft-v1-27-0-released/453) (1 day ago)
-- [June 12th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-12th-open-source-gardening-live-stream/452) (1 day ago)
-- [Anchore Open Source Weekly Report - Week 24, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-24-2025/451) (1 day ago)
-- [PSA: No gardening live stream this week](https://anchorecommunity.discourse.group/t/psa-no-gardening-live-stream-this-week/449) (5 days ago)
+- [Grype - v0.93.0 released](https://anchorecommunity.discourse.group/t/grype-v0-93-0-released/454) (1 day ago)
+- [Syft - v1.27.0 released](https://anchorecommunity.discourse.group/t/syft-v1-27-0-released/453) (2 days ago)
+- [June 12th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-12th-open-source-gardening-live-stream/452) (2 days ago)
+- [Anchore Open Source Weekly Report - Week 24, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-24-2025/451) (2 days ago)
+- [PSA: No gardening live stream this week](https://anchorecommunity.discourse.group/t/psa-no-gardening-live-stream-this-week/449) (6 days ago)
