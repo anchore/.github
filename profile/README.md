@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The SBOM Paradox: Why ‘Useless’ Today Means Essential Tomorrow](https://anchore.com/blog/the-sbom-paradox-why-useless-today-means-essential-tomorrow/) (6 days ago)
-- [SCA vs. SBOM: How They Differ &amp; Why They Work Best as a Team](https://anchore.com/blog/sca-vs-sbom-how-they-differ-why-they-work-best-as-a-team/) (1 week ago)
+- [The SBOM Paradox: Why ‘Useless’ Today Means Essential Tomorrow](https://anchore.com/blog/the-sbom-paradox-why-useless-today-means-essential-tomorrow/) (1 week ago)
+- [SCA vs. SBOM: How They Differ &amp; Why They Work Best as a Team](https://anchore.com/blog/sca-vs-sbom-how-they-differ-why-they-work-best-as-a-team/) (2 weeks ago)
 - [False Positives and False Negatives in Vulnerability Scanning: Lessons from the Trenches](https://anchore.com/blog/false-positives-and-false-negatives-in-vulnerability-scanning/) (2 weeks ago)
-- [NIS2 Compliance with SBOMs: a Scalable, Secure Supply Chain Solution](https://anchore.com/blog/nis2-compliance-with-sboms-a-scalable-secure-supply-chain-solution/) (2 weeks ago)
+- [NIS2 Compliance with SBOMs: a Scalable, Secure Supply Chain Solution](https://anchore.com/blog/nis2-compliance-with-sboms-a-scalable-secure-supply-chain-solution/) (3 weeks ago)
 - [The True Cost of Compliance: Demonstrating the Value of Cybersecurity](https://anchore.com/videos/the-true-cost-of-compliance-demonstrating-the-value-of-cybersecurity/) (3 weeks ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [June 19th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-19th-open-source-gardening-live-stream/458) (today)
-- [Anchore Open Source Weekly Report - Week 24, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-24-2025/457) (today)
-- [Grype - v0.94.0 released](https://anchorecommunity.discourse.group/t/grype-v0-94-0-released/456) (4 days ago)
-- [Syft - v1.27.1 released](https://anchorecommunity.discourse.group/t/syft-v1-27-1-released/455) (4 days ago)
-- [Grype - v0.93.0 released](https://anchorecommunity.discourse.group/t/grype-v0-93-0-released/454) (6 days ago)
+- [June 19th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-19th-open-source-gardening-live-stream/458) (1 day ago)
+- [Anchore Open Source Weekly Report - Week 24, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-24-2025/457) (1 day ago)
+- [Grype - v0.94.0 released](https://anchorecommunity.discourse.group/t/grype-v0-94-0-released/456) (5 days ago)
+- [Syft - v1.27.1 released](https://anchorecommunity.discourse.group/t/syft-v1-27-1-released/455) (5 days ago)
+- [Grype - v0.93.0 released](https://anchorecommunity.discourse.group/t/grype-v0-93-0-released/454) (1 week ago)
