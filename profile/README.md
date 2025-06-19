@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [How to tell where vulnerability is in large repo?](https://anchorecommunity.discourse.group/t/how-to-tell-where-vulnerability-is-in-large-repo/472) (today)
 - [How to scan 2 directories at one time](https://anchorecommunity.discourse.group/t/how-to-scan-2-directories-at-one-time/461) (2 days ago)
 - [June 19th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-19th-open-source-gardening-live-stream/458) (3 days ago)
 - [Anchore Open Source Weekly Report - Week 24, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-24-2025/457) (3 days ago)
 - [Grype - v0.94.0 released](https://anchorecommunity.discourse.group/t/grype-v0-94-0-released/456) (1 week ago)
-- [Syft - v1.27.1 released](https://anchorecommunity.discourse.group/t/syft-v1-27-1-released/455) (1 week ago)
