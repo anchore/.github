@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [How to Respond When Your Customers Require an SBOM (and Even Write It Into the Contract!)](https://anchore.com/blog/how-to-respond-when-your-customers-require-an-sbom/) (1 day ago)
+- [How to Respond When Your Customers Require an SBOM (and Even Write It Into the Contract!)](https://anchore.com/blog/how-to-respond-when-your-customers-require-an-sbom/) (2 days ago)
 - [The SBOM Paradox: Why ‘Useless’ Today Means Essential Tomorrow](https://anchore.com/blog/the-sbom-paradox-why-useless-today-means-essential-tomorrow/) (1 week ago)
 - [SCA vs. SBOM: How They Differ &amp; Why They Work Best as a Team](https://anchore.com/blog/sca-vs-sbom-how-they-differ-why-they-work-best-as-a-team/) (2 weeks ago)
-- [False Positives and False Negatives in Vulnerability Scanning: Lessons from the Trenches](https://anchore.com/blog/false-positives-and-false-negatives-in-vulnerability-scanning/) (2 weeks ago)
+- [False Positives and False Negatives in Vulnerability Scanning: Lessons from the Trenches](https://anchore.com/blog/false-positives-and-false-negatives-in-vulnerability-scanning/) (3 weeks ago)
 - [NIS2 Compliance with SBOMs: a Scalable, Secure Supply Chain Solution](https://anchore.com/blog/nis2-compliance-with-sboms-a-scalable-secure-supply-chain-solution/) (3 weeks ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [How to scan 2 directories at one time](https://anchorecommunity.discourse.group/t/how-to-scan-2-directories-at-one-time/461) (1 day ago)
-- [June 19th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-19th-open-source-gardening-live-stream/458) (2 days ago)
-- [Anchore Open Source Weekly Report - Week 24, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-24-2025/457) (2 days ago)
-- [Grype - v0.94.0 released](https://anchorecommunity.discourse.group/t/grype-v0-94-0-released/456) (6 days ago)
-- [Syft - v1.27.1 released](https://anchorecommunity.discourse.group/t/syft-v1-27-1-released/455) (6 days ago)
+- [How to scan 2 directories at one time](https://anchorecommunity.discourse.group/t/how-to-scan-2-directories-at-one-time/461) (2 days ago)
+- [June 19th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-19th-open-source-gardening-live-stream/458) (3 days ago)
+- [Anchore Open Source Weekly Report - Week 24, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-24-2025/457) (3 days ago)
+- [Grype - v0.94.0 released](https://anchorecommunity.discourse.group/t/grype-v0-94-0-released/456) (1 week ago)
+- [Syft - v1.27.1 released](https://anchorecommunity.discourse.group/t/syft-v1-27-1-released/455) (1 week ago)
