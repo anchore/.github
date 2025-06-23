@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [June 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-26th-open-source-gardening-live-stream/475) (today)
+- [Anchore Open Source Weekly Report, Week 25, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-25-2025/474) (today)
 - [Support SBOM addition and subtraction](https://anchorecommunity.discourse.group/t/support-sbom-addition-and-subtraction/473) (3 days ago)
 - [How to tell where vulnerability is in large repo?](https://anchorecommunity.discourse.group/t/how-to-tell-where-vulnerability-is-in-large-repo/472) (4 days ago)
 - [How to scan 2 directories at one time](https://anchorecommunity.discourse.group/t/how-to-scan-2-directories-at-one-time/461) (6 days ago)
-- [June 19th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-19th-open-source-gardening-live-stream/458) (1 week ago)
-- [Anchore Open Source Weekly Report - Week 24, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-24-2025/457) (1 week ago)
