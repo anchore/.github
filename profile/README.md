@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [How to Respond When Your Customers Require an SBOM (and Even Write It Into the Contract!)](https://anchore.com/blog/how-to-respond-when-your-customers-require-an-sbom/) (5 days ago)
+- [How to Respond When Your Customers Require an SBOM (and Even Write It Into the Contract!)](https://anchore.com/blog/how-to-respond-when-your-customers-require-an-sbom/) (6 days ago)
 - [The SBOM Paradox: Why ‘Useless’ Today Means Essential Tomorrow](https://anchore.com/blog/the-sbom-paradox-why-useless-today-means-essential-tomorrow/) (1 week ago)
 - [SCA vs. SBOM: How They Differ &amp; Why They Work Best as a Team](https://anchore.com/blog/sca-vs-sbom-how-they-differ-why-they-work-best-as-a-team/) (2 weeks ago)
 - [False Positives and False Negatives in Vulnerability Scanning: Lessons from the Trenches](https://anchore.com/blog/false-positives-and-false-negatives-in-vulnerability-scanning/) (3 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Support SBOM addition and subtraction](https://anchorecommunity.discourse.group/t/support-sbom-addition-and-subtraction/473) (2 days ago)
-- [How to tell where vulnerability is in large repo?](https://anchorecommunity.discourse.group/t/how-to-tell-where-vulnerability-is-in-large-repo/472) (3 days ago)
-- [How to scan 2 directories at one time](https://anchorecommunity.discourse.group/t/how-to-scan-2-directories-at-one-time/461) (5 days ago)
-- [June 19th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-19th-open-source-gardening-live-stream/458) (6 days ago)
-- [Anchore Open Source Weekly Report - Week 24, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-24-2025/457) (6 days ago)
+- [Support SBOM addition and subtraction](https://anchorecommunity.discourse.group/t/support-sbom-addition-and-subtraction/473) (3 days ago)
+- [How to tell where vulnerability is in large repo?](https://anchorecommunity.discourse.group/t/how-to-tell-where-vulnerability-is-in-large-repo/472) (4 days ago)
+- [How to scan 2 directories at one time](https://anchorecommunity.discourse.group/t/how-to-scan-2-directories-at-one-time/461) (6 days ago)
+- [June 19th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-19th-open-source-gardening-live-stream/458) (1 week ago)
+- [Anchore Open Source Weekly Report - Week 24, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-24-2025/457) (1 week ago)
