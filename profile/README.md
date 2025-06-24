@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [How to Respond When Your Customers Require an SBOM (and Even Write It Into the Contract!)](https://anchore.com/blog/how-to-respond-when-your-customers-require-an-sbom/) (6 days ago)
-- [The SBOM Paradox: Why ‘Useless’ Today Means Essential Tomorrow](https://anchore.com/blog/the-sbom-paradox-why-useless-today-means-essential-tomorrow/) (1 week ago)
-- [SCA vs. SBOM: How They Differ &amp; Why They Work Best as a Team](https://anchore.com/blog/sca-vs-sbom-how-they-differ-why-they-work-best-as-a-team/) (2 weeks ago)
+- [How to Respond When Your Customers Require an SBOM (and Even Write It Into the Contract!)](https://anchore.com/blog/how-to-respond-when-your-customers-require-an-sbom/) (1 week ago)
+- [The SBOM Paradox: Why ‘Useless’ Today Means Essential Tomorrow](https://anchore.com/blog/the-sbom-paradox-why-useless-today-means-essential-tomorrow/) (2 weeks ago)
+- [SCA vs. SBOM: How They Differ &amp; Why They Work Best as a Team](https://anchore.com/blog/sca-vs-sbom-how-they-differ-why-they-work-best-as-a-team/) (3 weeks ago)
 - [False Positives and False Negatives in Vulnerability Scanning: Lessons from the Trenches](https://anchore.com/blog/false-positives-and-false-negatives-in-vulnerability-scanning/) (3 weeks ago)
-- [NIS2 Compliance with SBOMs: a Scalable, Secure Supply Chain Solution](https://anchore.com/blog/nis2-compliance-with-sboms-a-scalable-secure-supply-chain-solution/) (3 weeks ago)
+- [NIS2 Compliance with SBOMs: a Scalable, Secure Supply Chain Solution](https://anchore.com/blog/nis2-compliance-with-sboms-a-scalable-secure-supply-chain-solution/) (4 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [June 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-26th-open-source-gardening-live-stream/475) (today)
-- [Anchore Open Source Weekly Report, Week 25, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-25-2025/474) (today)
-- [Support SBOM addition and subtraction](https://anchorecommunity.discourse.group/t/support-sbom-addition-and-subtraction/473) (3 days ago)
-- [How to tell where vulnerability is in large repo?](https://anchorecommunity.discourse.group/t/how-to-tell-where-vulnerability-is-in-large-repo/472) (4 days ago)
-- [How to scan 2 directories at one time](https://anchorecommunity.discourse.group/t/how-to-scan-2-directories-at-one-time/461) (6 days ago)
+- [June 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-26th-open-source-gardening-live-stream/475) (1 day ago)
+- [Anchore Open Source Weekly Report, Week 25, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-25-2025/474) (1 day ago)
+- [Support SBOM addition and subtraction](https://anchorecommunity.discourse.group/t/support-sbom-addition-and-subtraction/473) (4 days ago)
+- [How to tell where vulnerability is in large repo?](https://anchorecommunity.discourse.group/t/how-to-tell-where-vulnerability-is-in-large-repo/472) (5 days ago)
+- [How to scan 2 directories at one time](https://anchorecommunity.discourse.group/t/how-to-scan-2-directories-at-one-time/461) (1 week ago)
