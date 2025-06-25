@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [SPDX 3.0: From Software Inventory to System Risk Orchestration](https://anchore.com/blog/spdx-3-0-from-software-inventory-to-system-risk-orchestration/) (today)
+- [SPDX 3.0: From Software Inventory to System Risk Orchestration](https://anchore.com/blog/spdx-3-0-from-software-inventory-to-system-risk-orchestration/) (1 day ago)
 - [How to Respond When Your Customers Require an SBOM (and Even Write It Into the Contract!)](https://anchore.com/blog/how-to-respond-when-your-customers-require-an-sbom/) (1 week ago)
 - [The SBOM Paradox: Why ‘Useless’ Today Means Essential Tomorrow](https://anchore.com/blog/the-sbom-paradox-why-useless-today-means-essential-tomorrow/) (2 weeks ago)
 - [SCA vs. SBOM: How They Differ &amp; Why They Work Best as a Team](https://anchore.com/blog/sca-vs-sbom-how-they-differ-why-they-work-best-as-a-team/) (3 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Database cleanup](https://anchorecommunity.discourse.group/t/database-cleanup/477) (today)
-- [June 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-26th-open-source-gardening-live-stream/475) (1 day ago)
-- [Anchore Open Source Weekly Report, Week 25, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-25-2025/474) (1 day ago)
-- [Support SBOM addition and subtraction](https://anchorecommunity.discourse.group/t/support-sbom-addition-and-subtraction/473) (4 days ago)
-- [How to tell where vulnerability is in large repo?](https://anchorecommunity.discourse.group/t/how-to-tell-where-vulnerability-is-in-large-repo/472) (5 days ago)
+- [Database cleanup](https://anchorecommunity.discourse.group/t/database-cleanup/477) (1 day ago)
+- [June 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-26th-open-source-gardening-live-stream/475) (2 days ago)
+- [Anchore Open Source Weekly Report, Week 25, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-25-2025/474) (2 days ago)
+- [Support SBOM addition and subtraction](https://anchorecommunity.discourse.group/t/support-sbom-addition-and-subtraction/473) (5 days ago)
+- [How to tell where vulnerability is in large repo?](https://anchorecommunity.discourse.group/t/how-to-tell-where-vulnerability-is-in-large-repo/472) (6 days ago)
