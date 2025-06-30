@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Anchore Open Source Weekly Roundup, Week 26, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-roundup-week-26-2025/485) (today)
 - [Errors when using the syft image in a Cloud pipeline](https://anchorecommunity.discourse.group/t/errors-when-using-the-syft-image-in-a-cloud-pipeline/483) (3 days ago)
 - [Another look at Grype - New Features](https://anchorecommunity.discourse.group/t/another-look-at-grype-new-features/481) (4 days ago)
 - [Database cleanup](https://anchorecommunity.discourse.group/t/database-cleanup/477) (6 days ago)
 - [June 26th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/june-26th-open-source-gardening-live-stream/475) (1 week ago)
-- [Anchore Open Source Weekly Report, Week 25, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-25-2025/474) (1 week ago)
