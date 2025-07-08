@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Anchore Achieves AWS Security Competency &amp; Launches Anchore Enterprise AMI](https://anchore.com/blog/anchore-achieves-aws-security-competency-launches-anchore-enterprise-ami/) (6 days ago)
+- [Anchore Achieves AWS Security Competency &amp; Launches Anchore Enterprise AMI](https://anchore.com/blog/anchore-achieves-aws-security-competency-launches-anchore-enterprise-ami/) (1 week ago)
 - [Time to Take Another Look at Grype: A Year of Major Improvements](https://anchore.com/blog/time-to-take-another-look-at-grype-a-year-of-major-improvements/) (1 week ago)
 - [How to Use Anchore &amp; DefectDojo to Stand Up Your DevSecOps Function](https://anchore.com/webinars/how-to-use-anchore-defectdojo-to-stand-up-your-devsecops-function/) (1 week ago)
-- [SPDX 3.0: From Software Inventory to System Risk Orchestration](https://anchore.com/blog/spdx-3-0-from-software-inventory-to-system-risk-orchestration/) (1 week ago)
-- [How to Respond When Your Customers Require an SBOM (and Even Write It Into the Contract!)](https://anchore.com/blog/how-to-respond-when-your-customers-require-an-sbom/) (2 weeks ago)
+- [SPDX 3.0: From Software Inventory to System Risk Orchestration](https://anchore.com/blog/spdx-3-0-from-software-inventory-to-system-risk-orchestration/) (2 weeks ago)
+- [How to Respond When Your Customers Require an SBOM (and Even Write It Into the Contract!)](https://anchore.com/blog/how-to-respond-when-your-customers-require-an-sbom/) (3 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [July 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-10th-open-source-gardening-live-stream/491) (today)
-- [Anchore Open Source Weekly Report - Week 26, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-26-2025/490) (today)
-- [The Shifting Landscape of Software Delivery and Vulnerability Tracking](https://anchorecommunity.discourse.group/t/the-shifting-landscape-of-software-delivery-and-vulnerability-tracking/489) (2 days ago)
-- [Grype - v0.95.0 released](https://anchorecommunity.discourse.group/t/grype-v0-95-0-released/488) (5 days ago)
-- [Syft - v1.28.0 released](https://anchorecommunity.discourse.group/t/syft-v1-28-0-released/487) (5 days ago)
+- [July 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-10th-open-source-gardening-live-stream/491) (1 day ago)
+- [Anchore Open Source Weekly Report - Week 26, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-26-2025/490) (1 day ago)
+- [The Shifting Landscape of Software Delivery and Vulnerability Tracking](https://anchorecommunity.discourse.group/t/the-shifting-landscape-of-software-delivery-and-vulnerability-tracking/489) (3 days ago)
+- [Grype - v0.95.0 released](https://anchorecommunity.discourse.group/t/grype-v0-95-0-released/488) (6 days ago)
+- [Syft - v1.28.0 released](https://anchorecommunity.discourse.group/t/syft-v1-28-0-released/487) (6 days ago)
