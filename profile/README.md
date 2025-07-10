@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Anchore Enterprise 5.19: Automated STIG Compliance and Flexible Scanning for Modern DevSecOps](https://anchore.com/blog/anchore-enterprise-5-19-launch/) (today)
+- [Anchore Enterprise 5.19: Automated STIG Compliance and Flexible Scanning for Modern DevSecOps](https://anchore.com/blog/anchore-enterprise-5-19-launch/) (1 day ago)
 - [Anchore Achieves AWS Security Competency &amp; Launches Anchore Enterprise AMI](https://anchore.com/blog/anchore-achieves-aws-security-competency-launches-anchore-enterprise-ami/) (1 week ago)
-- [Time to Take Another Look at Grype: A Year of Major Improvements](https://anchore.com/blog/time-to-take-another-look-at-grype-a-year-of-major-improvements/) (1 week ago)
+- [Time to Take Another Look at Grype: A Year of Major Improvements](https://anchore.com/blog/time-to-take-another-look-at-grype-a-year-of-major-improvements/) (2 weeks ago)
 - [How to Use Anchore &amp; DefectDojo to Stand Up Your DevSecOps Function](https://anchore.com/webinars/how-to-use-anchore-defectdojo-to-stand-up-your-devsecops-function/) (2 weeks ago)
 - [SPDX 3.0: From Software Inventory to System Risk Orchestration](https://anchore.com/blog/spdx-3-0-from-software-inventory-to-system-risk-orchestration/) (2 weeks ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [July 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-10th-open-source-gardening-live-stream/491) (2 days ago)
-- [Anchore Open Source Weekly Report - Week 26, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-26-2025/490) (2 days ago)
-- [The Shifting Landscape of Software Delivery and Vulnerability Tracking](https://anchorecommunity.discourse.group/t/the-shifting-landscape-of-software-delivery-and-vulnerability-tracking/489) (4 days ago)
+- [July 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-10th-open-source-gardening-live-stream/491) (3 days ago)
+- [Anchore Open Source Weekly Report - Week 26, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-26-2025/490) (3 days ago)
+- [The Shifting Landscape of Software Delivery and Vulnerability Tracking](https://anchorecommunity.discourse.group/t/the-shifting-landscape-of-software-delivery-and-vulnerability-tracking/489) (5 days ago)
 - [Grype - v0.95.0 released](https://anchorecommunity.discourse.group/t/grype-v0-95-0-released/488) (1 week ago)
 - [Syft - v1.28.0 released](https://anchorecommunity.discourse.group/t/syft-v1-28-0-released/487) (1 week ago)
