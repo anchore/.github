@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Enhancing Security in Cloud-Native Environments with Anchore’s Alex Rybak and Neil Levine](https://anchore.com/videos/enhancing-security-in-cloud-native-environments-with-anchores-alex-rybak-and-neil-levine/) (today)
 - [Anchore Enterprise 5.19: Automated STIG Compliance and Flexible Scanning for Modern DevSecOps](https://anchore.com/blog/anchore-enterprise-5-19-launch/) (2 days ago)
 - [Anchore Achieves AWS Security Competency &amp; Launches Anchore Enterprise AMI](https://anchore.com/blog/anchore-achieves-aws-security-competency-launches-anchore-enterprise-ami/) (1 week ago)
 - [Time to Take Another Look at Grype: A Year of Major Improvements](https://anchore.com/blog/time-to-take-another-look-at-grype-a-year-of-major-improvements/) (2 weeks ago)
 - [How to Use Anchore &amp; DefectDojo to Stand Up Your DevSecOps Function](https://anchore.com/webinars/how-to-use-anchore-defectdojo-to-stand-up-your-devsecops-function/) (2 weeks ago)
-- [SPDX 3.0: From Software Inventory to System Risk Orchestration](https://anchore.com/blog/spdx-3-0-from-software-inventory-to-system-risk-orchestration/) (2 weeks ago)
 
 ### Community
 
