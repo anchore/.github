@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Beyond Software Dependencies: The Data Supply Chain Security Challenge of AI-Native Applications](https://anchore.com/blog/beyond-software-dependencies-the-data-supply-chain-security-challenge-of-ai-native-applications/) (today)
 - [Enhancing Security in Cloud-Native Environments with Anchore’s Alex Rybak and Neil Levine](https://anchore.com/videos/enhancing-security-in-cloud-native-environments-with-anchores-alex-rybak-and-neil-levine/) (4 days ago)
 - [Anchore Enterprise 5.19: Automated STIG Compliance and Flexible Scanning for Modern DevSecOps](https://anchore.com/blog/anchore-enterprise-5-19-launch/) (6 days ago)
 - [Anchore Achieves AWS Security Competency &amp; Launches Anchore Enterprise AMI](https://anchore.com/blog/anchore-achieves-aws-security-competency-launches-anchore-enterprise-ami/) (2 weeks ago)
 - [Time to Take Another Look at Grype: A Year of Major Improvements](https://anchore.com/blog/time-to-take-another-look-at-grype-a-year-of-major-improvements/) (2 weeks ago)
-- [How to Use Anchore &amp; DefectDojo to Stand Up Your DevSecOps Function](https://anchore.com/webinars/how-to-use-anchore-defectdojo-to-stand-up-your-devsecops-function/) (2 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [No Vulnerability DB Updates](https://anchorecommunity.discourse.group/t/no-vulnerability-db-updates/497) (today)
 - [July 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-17th-open-source-gardening-live-stream/495) (1 day ago)
 - [Anchore Open Source Weekly Report - Week 28, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-28-2025/494) (1 day ago)
 - [July 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-10th-open-source-gardening-live-stream/491) (1 week ago)
 - [Anchore Open Source Weekly Report - Week 27, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-27-2025/490) (1 week ago)
-- [The Shifting Landscape of Software Delivery and Vulnerability Tracking](https://anchorecommunity.discourse.group/t/the-shifting-landscape-of-software-delivery-and-vulnerability-tracking/489) (1 week ago)
