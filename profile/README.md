@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Beyond Compliance: Neil Levine Reveals How Anchore is Revolutionizing SBOM Management](https://anchore.com/videos/beyond-compliance-neil-levine-reveals-how-anchore-is-revolutionizing-sbom-management/) (today)
+- [Carahsoft DevSecOps Conference](https://anchore.com/events/carahsoft-devsecops-conference/) (today)
 - [Beyond Software Dependencies: The Data Supply Chain Security Challenge of AI-Native Applications](https://anchore.com/blog/beyond-software-dependencies-the-data-supply-chain-security-challenge-of-ai-native-applications/) (2 days ago)
 - [Enhancing Security in Cloud-Native Environments with Anchore’s Alex Rybak and Neil Levine](https://anchore.com/videos/enhancing-security-in-cloud-native-environments-with-anchores-alex-rybak-and-neil-levine/) (6 days ago)
 - [Anchore Enterprise 5.19: Automated STIG Compliance and Flexible Scanning for Modern DevSecOps](https://anchore.com/blog/anchore-enterprise-5-19-launch/) (1 week ago)
-- [Anchore Achieves AWS Security Competency &amp; Launches Anchore Enterprise AMI](https://anchore.com/blog/anchore-achieves-aws-security-competency-launches-anchore-enterprise-ami/) (2 weeks ago)
-- [Time to Take Another Look at Grype: A Year of Major Improvements](https://anchore.com/blog/time-to-take-another-look-at-grype-a-year-of-major-improvements/) (3 weeks ago)
 
 ### Community
 
