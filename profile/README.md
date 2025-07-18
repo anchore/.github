@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Beyond Compliance: Neil Levine Reveals How Anchore is Revolutionizing SBOM Management](https://anchore.com/videos/beyond-compliance-neil-levine-reveals-how-anchore-is-revolutionizing-sbom-management/) (today)
-- [Carahsoft DevSecOps Conference](https://anchore.com/events/carahsoft-devsecops-conference/) (today)
-- [Beyond Software Dependencies: The Data Supply Chain Security Challenge of AI-Native Applications](https://anchore.com/blog/beyond-software-dependencies-the-data-supply-chain-security-challenge-of-ai-native-applications/) (2 days ago)
-- [Enhancing Security in Cloud-Native Environments with Anchore’s Alex Rybak and Neil Levine](https://anchore.com/videos/enhancing-security-in-cloud-native-environments-with-anchores-alex-rybak-and-neil-levine/) (6 days ago)
+- [Beyond Compliance: Neil Levine Reveals How Anchore is Revolutionizing SBOM Management](https://anchore.com/videos/beyond-compliance-neil-levine-reveals-how-anchore-is-revolutionizing-sbom-management/) (1 day ago)
+- [Carahsoft DevSecOps Conference](https://anchore.com/events/carahsoft-devsecops-conference/) (1 day ago)
+- [Beyond Software Dependencies: The Data Supply Chain Security Challenge of AI-Native Applications](https://anchore.com/blog/beyond-software-dependencies-the-data-supply-chain-security-challenge-of-ai-native-applications/) (3 days ago)
+- [Enhancing Security in Cloud-Native Environments with Anchore’s Alex Rybak and Neil Levine](https://anchore.com/videos/enhancing-security-in-cloud-native-environments-with-anchores-alex-rybak-and-neil-levine/) (1 week ago)
 - [Anchore Enterprise 5.19: Automated STIG Compliance and Flexible Scanning for Modern DevSecOps](https://anchore.com/blog/anchore-enterprise-5-19-launch/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.96.0 released](https://anchorecommunity.discourse.group/t/grype-v0-96-0-released/498) (2 days ago)
-- [No Vulnerability DB Updates](https://anchorecommunity.discourse.group/t/no-vulnerability-db-updates/497) (2 days ago)
-- [July 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-17th-open-source-gardening-live-stream/495) (3 days ago)
-- [Anchore Open Source Weekly Report - Week 28, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-28-2025/494) (3 days ago)
+- [Grype - v0.96.0 released](https://anchorecommunity.discourse.group/t/grype-v0-96-0-released/498) (3 days ago)
+- [No Vulnerability DB Updates](https://anchorecommunity.discourse.group/t/no-vulnerability-db-updates/497) (3 days ago)
+- [July 17th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-17th-open-source-gardening-live-stream/495) (4 days ago)
+- [Anchore Open Source Weekly Report - Week 28, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-28-2025/494) (4 days ago)
 - [July 10th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-10th-open-source-gardening-live-stream/491) (1 week ago)
