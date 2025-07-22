@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [From Cost Center to Revenue Driver: How Compliance Became Security’s Best Friend](https://anchore.com/blog/from-cost-center-to-revenue-driver-how-compliance-became-securitys-best-friend/) (today)
 - [Beyond Compliance: Neil Levine Reveals How Anchore is Revolutionizing SBOM Management](https://anchore.com/videos/beyond-compliance-neil-levine-reveals-how-anchore-is-revolutionizing-sbom-management/) (5 days ago)
 - [Carahsoft DevSecOps Conference](https://anchore.com/events/carahsoft-devsecops-conference/) (5 days ago)
 - [Beyond Software Dependencies: The Data Supply Chain Security Challenge of AI-Native Applications](https://anchore.com/blog/beyond-software-dependencies-the-data-supply-chain-security-challenge-of-ai-native-applications/) (1 week ago)
 - [Enhancing Security in Cloud-Native Environments with Anchore’s Alex Rybak and Neil Levine](https://anchore.com/videos/enhancing-security-in-cloud-native-environments-with-anchores-alex-rybak-and-neil-levine/) (1 week ago)
-- [Anchore Enterprise 5.19: Automated STIG Compliance and Flexible Scanning for Modern DevSecOps](https://anchore.com/blog/anchore-enterprise-5-19-launch/) (1 week ago)
 
 ### Community
 
