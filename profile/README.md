@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Beyond Compliance: Neil Levine Reveals How Anchore is Revolutionizing SBOM Management](https://anchore.com/videos/beyond-compliance-neil-levine-reveals-how-anchore-is-revolutionizing-sbom-management/) (4 days ago)
-- [Carahsoft DevSecOps Conference](https://anchore.com/events/carahsoft-devsecops-conference/) (4 days ago)
-- [Beyond Software Dependencies: The Data Supply Chain Security Challenge of AI-Native Applications](https://anchore.com/blog/beyond-software-dependencies-the-data-supply-chain-security-challenge-of-ai-native-applications/) (6 days ago)
+- [Beyond Compliance: Neil Levine Reveals How Anchore is Revolutionizing SBOM Management](https://anchore.com/videos/beyond-compliance-neil-levine-reveals-how-anchore-is-revolutionizing-sbom-management/) (5 days ago)
+- [Carahsoft DevSecOps Conference](https://anchore.com/events/carahsoft-devsecops-conference/) (5 days ago)
+- [Beyond Software Dependencies: The Data Supply Chain Security Challenge of AI-Native Applications](https://anchore.com/blog/beyond-software-dependencies-the-data-supply-chain-security-challenge-of-ai-native-applications/) (1 week ago)
 - [Enhancing Security in Cloud-Native Environments with Anchore’s Alex Rybak and Neil Levine](https://anchore.com/videos/enhancing-security-in-cloud-native-environments-with-anchores-alex-rybak-and-neil-levine/) (1 week ago)
 - [Anchore Enterprise 5.19: Automated STIG Compliance and Flexible Scanning for Modern DevSecOps](https://anchore.com/blog/anchore-enterprise-5-19-launch/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Syft - v1.29.0 released](https://anchorecommunity.discourse.group/t/syft-v1-29-0-released/506) (today)
-- [July 24th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-24th-open-source-gardening-live-stream/504) (today)
-- [Anchore Open Source Weekly Report - Week 29, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-29-2025/503) (today)
-- [CVE reported until CVSS Score was set](https://anchorecommunity.discourse.group/t/cve-reported-until-cvss-score-was-set/502) (3 days ago)
-- [Grype - v0.96.0 released](https://anchorecommunity.discourse.group/t/grype-v0-96-0-released/498) (6 days ago)
+- [Syft - v1.29.0 released](https://anchorecommunity.discourse.group/t/syft-v1-29-0-released/506) (1 day ago)
+- [July 24th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-24th-open-source-gardening-live-stream/504) (1 day ago)
+- [Anchore Open Source Weekly Report - Week 29, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-29-2025/503) (1 day ago)
+- [CVE reported until CVSS Score was set](https://anchorecommunity.discourse.group/t/cve-reported-until-cvss-score-was-set/502) (4 days ago)
+- [Grype - v0.96.0 released](https://anchorecommunity.discourse.group/t/grype-v0-96-0-released/498) (1 week ago)
