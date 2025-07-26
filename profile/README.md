@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Container Drift, Base Images, &amp; CMMC: Solving Public Sector Security Challenges](https://anchore.com/uncategorized/container-drift-base-images-cmmc-solving-public-sector-security-challenges/) (3 days ago)
-- [From Cost Center to Revenue Driver: How Compliance Became Security’s Best Friend](https://anchore.com/blog/from-cost-center-to-revenue-driver-how-compliance-became-securitys-best-friend/) (3 days ago)
+- [Container Drift, Base Images, &amp; CMMC: Solving Public Sector Security Challenges](https://anchore.com/uncategorized/container-drift-base-images-cmmc-solving-public-sector-security-challenges/) (4 days ago)
+- [From Cost Center to Revenue Driver: How Compliance Became Security’s Best Friend](https://anchore.com/blog/from-cost-center-to-revenue-driver-how-compliance-became-securitys-best-friend/) (4 days ago)
 - [Beyond Compliance: Neil Levine Reveals How Anchore is Revolutionizing SBOM Management](https://anchore.com/videos/beyond-compliance-neil-levine-reveals-how-anchore-is-revolutionizing-sbom-management/) (1 week ago)
 - [Carahsoft DevSecOps Conference](https://anchore.com/events/carahsoft-devsecops-conference/) (1 week ago)
 - [Beyond Software Dependencies: The Data Supply Chain Security Challenge of AI-Native Applications](https://anchore.com/blog/beyond-software-dependencies-the-data-supply-chain-security-challenge-of-ai-native-applications/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Future of mholt/archiver fork?](https://anchorecommunity.discourse.group/t/future-of-mholt-archiver-fork/511) (today)
-- [Grype - v0.96.1 released](https://anchorecommunity.discourse.group/t/grype-v0-96-1-released/509) (1 day ago)
-- [Syft - v1.29.0 released](https://anchorecommunity.discourse.group/t/syft-v1-29-0-released/506) (4 days ago)
-- [July 24th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-24th-open-source-gardening-live-stream/504) (4 days ago)
-- [Anchore Open Source Weekly Report - Week 29, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-29-2025/503) (4 days ago)
+- [Future of mholt/archiver fork?](https://anchorecommunity.discourse.group/t/future-of-mholt-archiver-fork/511) (1 day ago)
+- [Grype - v0.96.1 released](https://anchorecommunity.discourse.group/t/grype-v0-96-1-released/509) (2 days ago)
+- [Syft - v1.29.0 released](https://anchorecommunity.discourse.group/t/syft-v1-29-0-released/506) (5 days ago)
+- [July 24th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-24th-open-source-gardening-live-stream/504) (5 days ago)
+- [Anchore Open Source Weekly Report - Week 29, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-29-2025/503) (5 days ago)
