@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (today)
 - [Anchore is Excited to Announce it’s Inclusion in the IBM PDE Factory: An Open Source-Powered Secure Software Development Platform](https://anchore.com/blog/anchore-is-excited-to-announce-its-inclusion-in-the-ibm-pde-factory-an-open-source-powered-secure-software-development-platform/) (today)
 - [Container Drift, Base Images, &amp; CMMC: Solving Public Sector Security Challenges](https://anchore.com/webinars/container-drift-base-images-cmmc-solving-public-sector-security-challenges/) (1 week ago)
 - [From Cost Center to Revenue Driver: How Compliance Became Security’s Best Friend](https://anchore.com/blog/from-cost-center-to-revenue-driver-how-compliance-became-securitys-best-friend/) (1 week ago)
 - [Beyond Compliance: Neil Levine Reveals How Anchore is Revolutionizing SBOM Management](https://anchore.com/videos/beyond-compliance-neil-levine-reveals-how-anchore-is-revolutionizing-sbom-management/) (1 week ago)
-- [Carahsoft DevSecOps Conference](https://anchore.com/events/carahsoft-devsecops-conference/) (1 week ago)
 
 ### Community
 
