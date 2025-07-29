@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Container Drift, Base Images, &amp; CMMC: Solving Public Sector Security Challenges](https://anchore.com/webinars/container-drift-base-images-cmmc-solving-public-sector-security-challenges/) (6 days ago)
-- [From Cost Center to Revenue Driver: How Compliance Became Security’s Best Friend](https://anchore.com/blog/from-cost-center-to-revenue-driver-how-compliance-became-securitys-best-friend/) (6 days ago)
+- [Container Drift, Base Images, &amp; CMMC: Solving Public Sector Security Challenges](https://anchore.com/webinars/container-drift-base-images-cmmc-solving-public-sector-security-challenges/) (1 week ago)
+- [From Cost Center to Revenue Driver: How Compliance Became Security’s Best Friend](https://anchore.com/blog/from-cost-center-to-revenue-driver-how-compliance-became-securitys-best-friend/) (1 week ago)
 - [Beyond Compliance: Neil Levine Reveals How Anchore is Revolutionizing SBOM Management](https://anchore.com/videos/beyond-compliance-neil-levine-reveals-how-anchore-is-revolutionizing-sbom-management/) (1 week ago)
 - [Carahsoft DevSecOps Conference](https://anchore.com/events/carahsoft-devsecops-conference/) (1 week ago)
-- [Beyond Software Dependencies: The Data Supply Chain Security Challenge of AI-Native Applications](https://anchore.com/blog/beyond-software-dependencies-the-data-supply-chain-security-challenge-of-ai-native-applications/) (1 week ago)
+- [Beyond Software Dependencies: The Data Supply Chain Security Challenge of AI-Native Applications](https://anchore.com/blog/beyond-software-dependencies-the-data-supply-chain-security-challenge-of-ai-native-applications/) (2 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Anchore Open Source Weekly Report, Week 30, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-30-2025/513) (today)
-- [July 31st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-31st-open-source-gardening-live-stream/512) (today)
-- [Future of mholt/archiver fork?](https://anchorecommunity.discourse.group/t/future-of-mholt-archiver-fork/511) (3 days ago)
-- [Grype - v0.96.1 released](https://anchorecommunity.discourse.group/t/grype-v0-96-1-released/509) (4 days ago)
+- [Anchore Open Source Weekly Report, Week 30, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-30-2025/513) (1 day ago)
+- [July 31st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-31st-open-source-gardening-live-stream/512) (1 day ago)
+- [Future of mholt/archiver fork?](https://anchorecommunity.discourse.group/t/future-of-mholt-archiver-fork/511) (4 days ago)
+- [Grype - v0.96.1 released](https://anchorecommunity.discourse.group/t/grype-v0-96-1-released/509) (5 days ago)
 - [Syft - v1.29.0 released](https://anchorecommunity.discourse.group/t/syft-v1-29-0-released/506) (1 week ago)
