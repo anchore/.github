@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (today)
-- [Anchore is Excited to Announce it’s Inclusion in the IBM PDE Factory: An Open Source-Powered Secure Software Development Platform](https://anchore.com/blog/anchore-is-excited-to-announce-its-inclusion-in-the-ibm-pde-factory-an-open-source-powered-secure-software-development-platform/) (today)
+- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (1 day ago)
+- [Anchore is Excited to Announce it’s Inclusion in the IBM PDE Factory: An Open Source-Powered Secure Software Development Platform](https://anchore.com/blog/anchore-is-excited-to-announce-its-inclusion-in-the-ibm-pde-factory-an-open-source-powered-secure-software-development-platform/) (1 day ago)
 - [Container Drift, Base Images, &amp; CMMC: Solving Public Sector Security Challenges](https://anchore.com/webinars/container-drift-base-images-cmmc-solving-public-sector-security-challenges/) (1 week ago)
 - [From Cost Center to Revenue Driver: How Compliance Became Security’s Best Friend](https://anchore.com/blog/from-cost-center-to-revenue-driver-how-compliance-became-securitys-best-friend/) (1 week ago)
 - [Beyond Compliance: Neil Levine Reveals How Anchore is Revolutionizing SBOM Management](https://anchore.com/videos/beyond-compliance-neil-levine-reveals-how-anchore-is-revolutionizing-sbom-management/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Anchore Open Source Weekly Report, Week 30, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-30-2025/513) (1 day ago)
-- [July 31st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-31st-open-source-gardening-live-stream/512) (1 day ago)
-- [Future of mholt/archiver fork?](https://anchorecommunity.discourse.group/t/future-of-mholt-archiver-fork/511) (4 days ago)
-- [Grype - v0.96.1 released](https://anchorecommunity.discourse.group/t/grype-v0-96-1-released/509) (5 days ago)
+- [Anchore Open Source Weekly Report, Week 30, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-30-2025/513) (2 days ago)
+- [July 31st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-31st-open-source-gardening-live-stream/512) (2 days ago)
+- [Future of mholt/archiver fork?](https://anchorecommunity.discourse.group/t/future-of-mholt-archiver-fork/511) (5 days ago)
+- [Grype - v0.96.1 released](https://anchorecommunity.discourse.group/t/grype-v0-96-1-released/509) (6 days ago)
 - [Syft - v1.29.0 released](https://anchorecommunity.discourse.group/t/syft-v1-29-0-released/506) (1 week ago)
