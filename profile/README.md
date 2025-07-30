@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Why is syft reporting hundreds of random files?](https://anchorecommunity.discourse.group/t/why-is-syft-reporting-hundreds-of-random-files/515) (today)
 - [Anchore Open Source Weekly Report, Week 30, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-30-2025/513) (2 days ago)
 - [July 31st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/july-31st-open-source-gardening-live-stream/512) (2 days ago)
 - [Future of mholt/archiver fork?](https://anchorecommunity.discourse.group/t/future-of-mholt-archiver-fork/511) (5 days ago)
 - [Grype - v0.96.1 released](https://anchorecommunity.discourse.group/t/grype-v0-96-1-released/509) (6 days ago)
-- [Syft - v1.29.0 released](https://anchorecommunity.discourse.group/t/syft-v1-29-0-released/506) (1 week ago)
