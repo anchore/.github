@@ -31,6 +31,6 @@ We discuss our open source tools on <a href="https://anchore.com/discourse">Disc
 
 - [Grype - v0.97.0 released](https://anchorecommunity.discourse.group/t/grype-v0-97-0-released/518) (1 day ago)
 - [Syft - v1.29.1 released](https://anchorecommunity.discourse.group/t/syft-v1-29-1-released/517) (1 day ago)
-- [Download URLs have moved to https://get.anchore.io/ for syft, grype, grant, chronicle, and binny](https://anchorecommunity.discourse.group/t/download-urls-have-moved-to-https-get-anchore-io-for-syft-grype-grant-chronicle-and-binny/516) (1 day ago)
+- [Download URLs have moved for syft, grype, grant, chronicle, and binny](https://anchorecommunity.discourse.group/t/download-urls-have-moved-for-syft-grype-grant-chronicle-and-binny/516) (1 day ago)
 - [Why is syft reporting hundreds of random files?](https://anchorecommunity.discourse.group/t/why-is-syft-reporting-hundreds-of-random-files/515) (1 day ago)
 - [Anchore Open Source Weekly Report, Week 30, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-30-2025/513) (3 days ago)
