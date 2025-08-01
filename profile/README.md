@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Red Hat (and Red Hat clone) users should `grype db update`](https://anchorecommunity.discourse.group/t/red-hat-and-red-hat-clone-users-should-grype-db-update/519) (today)
 - [Grype - v0.97.0 released](https://anchorecommunity.discourse.group/t/grype-v0-97-0-released/518) (2 days ago)
 - [Syft - v1.29.1 released](https://anchorecommunity.discourse.group/t/syft-v1-29-1-released/517) (2 days ago)
 - [Download URLs have moved for syft, grype, grant, chronicle, and binny](https://anchorecommunity.discourse.group/t/download-urls-have-moved-for-syft-grype-grant-chronicle-and-binny/516) (2 days ago)
 - [Why is syft reporting hundreds of random files?](https://anchorecommunity.discourse.group/t/why-is-syft-reporting-hundreds-of-random-files/515) (2 days ago)
-- [Anchore Open Source Weekly Report, Week 30, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-30-2025/513) (4 days ago)
