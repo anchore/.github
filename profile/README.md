@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (3 days ago)
-- [Anchore is Excited to Announce it’s Inclusion in the IBM PDE Factory: An Open Source-Powered Secure Software Development Platform](https://anchore.com/blog/anchore-is-excited-to-announce-its-inclusion-in-the-ibm-pde-factory-an-open-source-powered-secure-software-development-platform/) (3 days ago)
+- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (4 days ago)
+- [Anchore is Excited to Announce it’s Inclusion in the IBM PDE Factory: An Open Source-Powered Secure Software Development Platform](https://anchore.com/blog/anchore-is-excited-to-announce-its-inclusion-in-the-ibm-pde-factory-an-open-source-powered-secure-software-development-platform/) (4 days ago)
 - [Container Drift, Base Images, &amp; CMMC: Solving Public Sector Security Challenges](https://anchore.com/webinars/container-drift-base-images-cmmc-solving-public-sector-security-challenges/) (1 week ago)
 - [From Cost Center to Revenue Driver: How Compliance Became Security’s Best Friend](https://anchore.com/blog/from-cost-center-to-revenue-driver-how-compliance-became-securitys-best-friend/) (1 week ago)
 - [Beyond Compliance: Neil Levine Reveals How Anchore is Revolutionizing SBOM Management](https://anchore.com/videos/beyond-compliance-neil-levine-reveals-how-anchore-is-revolutionizing-sbom-management/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.97.1 released](https://anchorecommunity.discourse.group/t/grype-v0-97-1-released/520) (today)
-- [Red Hat (and Red Hat clone) users should `grype db update`](https://anchorecommunity.discourse.group/t/red-hat-and-red-hat-clone-users-should-grype-db-update/519) (today)
-- [Grype - v0.97.0 released](https://anchorecommunity.discourse.group/t/grype-v0-97-0-released/518) (2 days ago)
-- [Syft - v1.29.1 released](https://anchorecommunity.discourse.group/t/syft-v1-29-1-released/517) (2 days ago)
-- [Download URLs have moved for syft, grype, grant, chronicle, and binny](https://anchorecommunity.discourse.group/t/download-urls-have-moved-for-syft-grype-grant-chronicle-and-binny/516) (2 days ago)
+- [Grype - v0.97.1 released](https://anchorecommunity.discourse.group/t/grype-v0-97-1-released/520) (1 day ago)
+- [Red Hat (and Red Hat clone) users should `grype db update`](https://anchorecommunity.discourse.group/t/red-hat-and-red-hat-clone-users-should-grype-db-update/519) (1 day ago)
+- [Grype - v0.97.0 released](https://anchorecommunity.discourse.group/t/grype-v0-97-0-released/518) (3 days ago)
+- [Syft - v1.29.1 released](https://anchorecommunity.discourse.group/t/syft-v1-29-1-released/517) (3 days ago)
+- [Download URLs have moved for syft, grype, grant, chronicle, and binny](https://anchorecommunity.discourse.group/t/download-urls-have-moved-for-syft-grype-grant-chronicle-and-binny/516) (3 days ago)
