@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (6 days ago)
-- [Anchore is Excited to Announce it’s Inclusion in the IBM PDE Factory: An Open Source-Powered Secure Software Development Platform](https://anchore.com/blog/anchore-is-excited-to-announce-its-inclusion-in-the-ibm-pde-factory-an-open-source-powered-secure-software-development-platform/) (6 days ago)
-- [Container Drift, Base Images, &amp; CMMC: Solving Public Sector Security Challenges](https://anchore.com/webinars/container-drift-base-images-cmmc-solving-public-sector-security-challenges/) (1 week ago)
-- [From Cost Center to Revenue Driver: How Compliance Became Security’s Best Friend](https://anchore.com/blog/from-cost-center-to-revenue-driver-how-compliance-became-securitys-best-friend/) (1 week ago)
+- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (1 week ago)
+- [Anchore is Excited to Announce it’s Inclusion in the IBM PDE Factory: An Open Source-Powered Secure Software Development Platform](https://anchore.com/blog/anchore-is-excited-to-announce-its-inclusion-in-the-ibm-pde-factory-an-open-source-powered-secure-software-development-platform/) (1 week ago)
+- [Container Drift, Base Images, &amp; CMMC: Solving Public Sector Security Challenges](https://anchore.com/webinars/container-drift-base-images-cmmc-solving-public-sector-security-challenges/) (2 weeks ago)
+- [From Cost Center to Revenue Driver: How Compliance Became Security’s Best Friend](https://anchore.com/blog/from-cost-center-to-revenue-driver-how-compliance-became-securitys-best-friend/) (2 weeks ago)
 - [Beyond Compliance: Neil Levine Reveals How Anchore is Revolutionizing SBOM Management](https://anchore.com/videos/beyond-compliance-neil-levine-reveals-how-anchore-is-revolutionizing-sbom-management/) (2 weeks ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype on-screen vulnerability count differs from the text file output count](https://anchorecommunity.discourse.group/t/grype-on-screen-vulnerability-count-differs-from-the-text-file-output-count/522) (today)
-- [Anchore Open Source Weekly Report - Week 31, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-31-2025/521) (today)
-- [Grype - v0.97.1 released](https://anchorecommunity.discourse.group/t/grype-v0-97-1-released/520) (3 days ago)
-- [Red Hat (and Red Hat clone) users should `grype db update`](https://anchorecommunity.discourse.group/t/red-hat-and-red-hat-clone-users-should-grype-db-update/519) (3 days ago)
-- [Grype - v0.97.0 released](https://anchorecommunity.discourse.group/t/grype-v0-97-0-released/518) (5 days ago)
+- [Grype on-screen vulnerability count differs from the text file output count](https://anchorecommunity.discourse.group/t/grype-on-screen-vulnerability-count-differs-from-the-text-file-output-count/522) (1 day ago)
+- [Anchore Open Source Weekly Report - Week 31, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-31-2025/521) (1 day ago)
+- [Grype - v0.97.1 released](https://anchorecommunity.discourse.group/t/grype-v0-97-1-released/520) (4 days ago)
+- [Red Hat (and Red Hat clone) users should `grype db update`](https://anchorecommunity.discourse.group/t/red-hat-and-red-hat-clone-users-should-grype-db-update/519) (4 days ago)
+- [Grype - v0.97.0 released](https://anchorecommunity.discourse.group/t/grype-v0-97-0-released/518) (6 days ago)
