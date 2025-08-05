@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Indirect matches (vulnerabilities affecting the upstream packages) are sometimes too broad](https://anchorecommunity.discourse.group/t/indirect-matches-vulnerabilities-affecting-the-upstream-packages-are-sometimes-too-broad/523) (today)
 - [Grype on-screen vulnerability count differs from the text file output count](https://anchorecommunity.discourse.group/t/grype-on-screen-vulnerability-count-differs-from-the-text-file-output-count/522) (1 day ago)
 - [Anchore Open Source Weekly Report - Week 31, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-31-2025/521) (1 day ago)
 - [Grype - v0.97.1 released](https://anchorecommunity.discourse.group/t/grype-v0-97-1-released/520) (4 days ago)
 - [Red Hat (and Red Hat clone) users should `grype db update`](https://anchorecommunity.discourse.group/t/red-hat-and-red-hat-clone-users-should-grype-db-update/519) (4 days ago)
-- [Grype - v0.97.0 released](https://anchorecommunity.discourse.group/t/grype-v0-97-0-released/518) (6 days ago)
