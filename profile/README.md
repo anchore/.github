@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Meeting 2025’s SBOM Compliance Deadlines: A Practical Implementation Guide](https://anchore.com/blog/meeting-2025s-sbom-compliance-deadlines-a-practical-implementation-guide/) (today)
+- [Meeting 2025’s SBOM Compliance Deadlines: A Practical Implementation Guide](https://anchore.com/blog/meeting-2025s-sbom-compliance-deadlines-a-practical-implementation-guide/) (1 day ago)
 - [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (1 week ago)
 - [Anchore is Excited to Announce it’s Inclusion in the IBM PDE Factory: An Open Source-Powered Secure Software Development Platform](https://anchore.com/blog/anchore-is-excited-to-announce-its-inclusion-in-the-ibm-pde-factory-an-open-source-powered-secure-software-development-platform/) (1 week ago)
 - [Container Drift, Base Images, &amp; CMMC: Solving Public Sector Security Challenges](https://anchore.com/webinars/container-drift-base-images-cmmc-solving-public-sector-security-challenges/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Indirect matches (vulnerabilities affecting the upstream packages) are sometimes too broad](https://anchorecommunity.discourse.group/t/indirect-matches-vulnerabilities-affecting-the-upstream-packages-are-sometimes-too-broad/523) (2 days ago)
-- [Grype on-screen vulnerability count differs from the text file output count](https://anchorecommunity.discourse.group/t/grype-on-screen-vulnerability-count-differs-from-the-text-file-output-count/522) (3 days ago)
-- [Anchore Open Source Weekly Report - Week 31, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-31-2025/521) (3 days ago)
-- [Grype - v0.97.1 released](https://anchorecommunity.discourse.group/t/grype-v0-97-1-released/520) (6 days ago)
-- [Red Hat (and Red Hat clone) users should `grype db update`](https://anchorecommunity.discourse.group/t/red-hat-and-red-hat-clone-users-should-grype-db-update/519) (6 days ago)
+- [Indirect matches (vulnerabilities affecting the upstream packages) are sometimes too broad](https://anchorecommunity.discourse.group/t/indirect-matches-vulnerabilities-affecting-the-upstream-packages-are-sometimes-too-broad/523) (3 days ago)
+- [Grype on-screen vulnerability count differs from the text file output count](https://anchorecommunity.discourse.group/t/grype-on-screen-vulnerability-count-differs-from-the-text-file-output-count/522) (4 days ago)
+- [Anchore Open Source Weekly Report - Week 31, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-31-2025/521) (4 days ago)
+- [Grype - v0.97.1 released](https://anchorecommunity.discourse.group/t/grype-v0-97-1-released/520) (1 week ago)
+- [Red Hat (and Red Hat clone) users should `grype db update`](https://anchorecommunity.discourse.group/t/red-hat-and-red-hat-clone-users-should-grype-db-update/519) (1 week ago)
