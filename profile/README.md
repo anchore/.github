@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [August 14th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/august-14th-open-source-gardening-live-stream/529) (today)
+- [Anchore Open Source Weekly Report - Week 32, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-32-2025/528) (today)
 - [Grype - v0.97.2 released](https://anchorecommunity.discourse.group/t/grype-v0-97-2-released/527) (2 days ago)
 - [Syft - v1.30.0 released](https://anchorecommunity.discourse.group/t/syft-v1-30-0-released/526) (2 days ago)
 - [Indirect matches (vulnerabilities affecting the upstream packages) are sometimes too broad](https://anchorecommunity.discourse.group/t/indirect-matches-vulnerabilities-affecting-the-upstream-packages-are-sometimes-too-broad/523) (6 days ago)
-- [Grype on-screen vulnerability count differs from the text file output count](https://anchorecommunity.discourse.group/t/grype-on-screen-vulnerability-count-differs-from-the-text-file-output-count/522) (1 week ago)
-- [Anchore Open Source Weekly Report - Week 31, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-31-2025/521) (1 week ago)
