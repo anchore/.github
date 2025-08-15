@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Unmasking Hidden Risks: A Deep Dive into SBOM &amp; EOL Detection with Syft &amp; XEOL](https://anchore.com/webinars/unmasking-hidden-risks-a-deep-dive-into-sbom-eol-detection-with-syft-xeol/) (today)
-- [OpenSSF SBOM Coffee Club is exactly what you think it is](https://anchore.com/blog/openssf-sbom-coffee-club-is-exactly-what-you-think-it-is/) (1 day ago)
+- [Unmasking Hidden Risks: A Deep Dive into SBOM &amp; EOL Detection with Syft &amp; XEOL](https://anchore.com/webinars/unmasking-hidden-risks-a-deep-dive-into-sbom-eol-detection-with-syft-xeol/) (1 day ago)
+- [OpenSSF SBOM Coffee Club is exactly what you think it is](https://anchore.com/blog/openssf-sbom-coffee-club-is-exactly-what-you-think-it-is/) (2 days ago)
 - [Meeting 2025’s SBOM Compliance Deadlines: A Practical Implementation Guide](https://anchore.com/blog/meeting-2025s-sbom-compliance-deadlines-a-practical-implementation-guide/) (1 week ago)
 - [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (2 weeks ago)
 - [Anchore is Excited to Announce it’s Inclusion in the IBM PDE Factory: An Open Source-Powered Secure Software Development Platform](https://anchore.com/blog/anchore-is-excited-to-announce-its-inclusion-in-the-ibm-pde-factory-an-open-source-powered-secure-software-development-platform/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Syft - v1.31.0 released](https://anchorecommunity.discourse.group/t/syft-v1-31-0-released/530) (1 day ago)
-- [August 14th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/august-14th-open-source-gardening-live-stream/529) (3 days ago)
-- [Anchore Open Source Weekly Report - Week 32, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-32-2025/528) (3 days ago)
-- [Grype - v0.97.2 released](https://anchorecommunity.discourse.group/t/grype-v0-97-2-released/527) (5 days ago)
-- [Syft - v1.30.0 released](https://anchorecommunity.discourse.group/t/syft-v1-30-0-released/526) (5 days ago)
+- [Syft - v1.31.0 released](https://anchorecommunity.discourse.group/t/syft-v1-31-0-released/530) (2 days ago)
+- [August 14th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/august-14th-open-source-gardening-live-stream/529) (4 days ago)
+- [Anchore Open Source Weekly Report - Week 32, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-32-2025/528) (4 days ago)
+- [Grype - v0.97.2 released](https://anchorecommunity.discourse.group/t/grype-v0-97-2-released/527) (6 days ago)
+- [Syft - v1.30.0 released](https://anchorecommunity.discourse.group/t/syft-v1-30-0-released/526) (6 days ago)
