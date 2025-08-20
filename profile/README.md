@@ -20,9 +20,9 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 - [Minutes vs. Months: The SBOM Advantage in Zero-Day Response](https://anchore.com/blog/minutes-vs-months-the-sbom-advantage-in-zero-day-response/) (1 day ago)
 - [Streamline Vulnerability Management: From Minimal Images to Comprehensive SBOM Analysis](https://anchore.com/events/streamline-vulnerability-management-from-minimal-images-to-comprehensive-sbom-analysis/) (5 days ago)
-- [Unmasking Hidden Risks: A Deep Dive into SBOM &amp; EOL Detection with Syft &amp; XEOL](https://anchore.com/webinars/unmasking-hidden-risks-a-deep-dive-into-sbom-eol-detection-with-syft-xeol/) (6 days ago)
 - [OpenSSF SBOM Coffee Club is exactly what you think it is](https://anchore.com/blog/openssf-sbom-coffee-club-is-exactly-what-you-think-it-is/) (1 week ago)
 - [Meeting 2025’s SBOM Compliance Deadlines: A Practical Implementation Guide](https://anchore.com/blog/meeting-2025s-sbom-compliance-deadlines-a-practical-implementation-guide/) (1 week ago)
+- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (3 weeks ago)
 
 ### Community
 
