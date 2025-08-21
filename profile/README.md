@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Minutes vs. Months: The SBOM Advantage in Zero-Day Response](https://anchore.com/blog/minutes-vs-months-the-sbom-advantage-in-zero-day-response/) (1 day ago)
-- [Streamline Vulnerability Management: From Minimal Images to Comprehensive SBOM Analysis](https://anchore.com/events/streamline-vulnerability-management-from-minimal-images-to-comprehensive-sbom-analysis/) (5 days ago)
+- [Minutes vs. Months: The SBOM Advantage in Zero-Day Response](https://anchore.com/blog/minutes-vs-months-the-sbom-advantage-in-zero-day-response/) (2 days ago)
+- [Streamline Vulnerability Management: From Minimal Images to Comprehensive SBOM Analysis](https://anchore.com/events/streamline-vulnerability-management-from-minimal-images-to-comprehensive-sbom-analysis/) (6 days ago)
 - [OpenSSF SBOM Coffee Club is exactly what you think it is](https://anchore.com/blog/openssf-sbom-coffee-club-is-exactly-what-you-think-it-is/) (1 week ago)
-- [Meeting 2025’s SBOM Compliance Deadlines: A Practical Implementation Guide](https://anchore.com/blog/meeting-2025s-sbom-compliance-deadlines-a-practical-implementation-guide/) (1 week ago)
+- [Meeting 2025’s SBOM Compliance Deadlines: A Practical Implementation Guide](https://anchore.com/blog/meeting-2025s-sbom-compliance-deadlines-a-practical-implementation-guide/) (2 weeks ago)
 - [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (3 weeks ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Adding Ignore Filters for Vex Entries](https://anchorecommunity.discourse.group/t/adding-ignore-filters-for-vex-entries/537) (today)
-- [PURL is empty for &#34;graalvm-native-image-cataloger&#34;](https://anchorecommunity.discourse.group/t/purl-is-empty-for-graalvm-native-image-cataloger/535) (2 days ago)
-- [August 21st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/august-21st-open-source-gardening-live-stream/534) (2 days ago)
-- [Anchore Open Source Weekly Report - Week 33, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-33-2025/533) (2 days ago)
-- [Vcpkg custom registry](https://anchorecommunity.discourse.group/t/vcpkg-custom-registry/532) (5 days ago)
+- [Adding Ignore Filters for Vex Entries](https://anchorecommunity.discourse.group/t/adding-ignore-filters-for-vex-entries/537) (1 day ago)
+- [PURL is empty for &#34;graalvm-native-image-cataloger&#34;](https://anchorecommunity.discourse.group/t/purl-is-empty-for-graalvm-native-image-cataloger/535) (3 days ago)
+- [August 21st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/august-21st-open-source-gardening-live-stream/534) (3 days ago)
+- [Anchore Open Source Weekly Report - Week 33, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-33-2025/533) (3 days ago)
+- [Vcpkg custom registry](https://anchorecommunity.discourse.group/t/vcpkg-custom-registry/532) (6 days ago)
