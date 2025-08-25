@@ -31,6 +31,6 @@ We discuss our open source tools on <a href="https://anchore.com/discourse">Disc
 
 - [Grype .98 misidentifies package versions](https://anchorecommunity.discourse.group/t/grype-98-misidentifies-package-versions/541) (today)
 - [Anchore Open Source Weekly Report - Week 34, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-34-2025/540) (today)
-- [Anchore- Genral doubt](https://anchorecommunity.discourse.group/t/anchore-genral-doubt/539) (today)
+- [Why does local anchore/syft image take up more space than reported on DockerHub page?](https://anchorecommunity.discourse.group/t/why-does-local-anchore-syft-image-take-up-more-space-than-reported-on-dockerhub-page/539) (today)
 - [Adding Ignore Filters for Vex Entries](https://anchorecommunity.discourse.group/t/adding-ignore-filters-for-vex-entries/537) (5 days ago)
 - [PURL is empty for &#34;graalvm-native-image-cataloger&#34;](https://anchorecommunity.discourse.group/t/purl-is-empty-for-graalvm-native-image-cataloger/535) (1 week ago)
