@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Anchore- Genral doubt](https://anchorecommunity.discourse.group/t/anchore-genral-doubt/539) (today)
 - [Adding Ignore Filters for Vex Entries](https://anchorecommunity.discourse.group/t/adding-ignore-filters-for-vex-entries/537) (5 days ago)
 - [PURL is empty for &#34;graalvm-native-image-cataloger&#34;](https://anchorecommunity.discourse.group/t/purl-is-empty-for-graalvm-native-image-cataloger/535) (1 week ago)
 - [August 21st | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/august-21st-open-source-gardening-live-stream/534) (1 week ago)
 - [Anchore Open Source Weekly Report - Week 33, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-33-2025/533) (1 week ago)
-- [Vcpkg custom registry](https://anchorecommunity.discourse.group/t/vcpkg-custom-registry/532) (1 week ago)
