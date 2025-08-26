@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Syft - v1.32.0 released](https://anchorecommunity.discourse.group/t/syft-v1-32-0-released/544) (today)
 - [Any plans for AIBOM using Syft or Grype](https://anchorecommunity.discourse.group/t/any-plans-for-aibom-using-syft-or-grype/543) (today)
 - [Reducing &#39;unknowns&#39; via targeted fuzzy binary catalogers](https://anchorecommunity.discourse.group/t/reducing-unknowns-via-targeted-fuzzy-binary-catalogers/542) (1 day ago)
 - [Grype .98 misidentifies package versions](https://anchorecommunity.discourse.group/t/grype-98-misidentifies-package-versions/541) (1 day ago)
 - [Anchore Open Source Weekly Report - Week 34, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-34-2025/540) (1 day ago)
-- [Why does local anchore/syft image take up more space than reported on DockerHub page?](https://anchorecommunity.discourse.group/t/why-does-local-anchore-syft-image-take-up-more-space-than-reported-on-dockerhub-page/539) (1 day ago)
