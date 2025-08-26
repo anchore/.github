@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Minutes vs. Months: The SBOM Advantage in Zero-Day Response](https://anchore.com/blog/minutes-vs-months-the-sbom-advantage-in-zero-day-response/) (6 days ago)
+- [Minutes vs. Months: The SBOM Advantage in Zero-Day Response](https://anchore.com/blog/minutes-vs-months-the-sbom-advantage-in-zero-day-response/) (1 week ago)
 - [Streamline Vulnerability Management: From Minimal Images to Comprehensive SBOM Analysis](https://anchore.com/events/streamline-vulnerability-management-from-minimal-images-to-comprehensive-sbom-analysis/) (1 week ago)
 - [OpenSSF SBOM Coffee Club is exactly what you think it is](https://anchore.com/blog/openssf-sbom-coffee-club-is-exactly-what-you-think-it-is/) (1 week ago)
 - [Meeting 2025’s SBOM Compliance Deadlines: A Practical Implementation Guide](https://anchore.com/blog/meeting-2025s-sbom-compliance-deadlines-a-practical-implementation-guide/) (2 weeks ago)
-- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (3 weeks ago)
+- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/webinars/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops/) (4 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Reducing &#39;unknowns&#39; via targeted fuzzy binary catalogers](https://anchorecommunity.discourse.group/t/reducing-unknowns-via-targeted-fuzzy-binary-catalogers/542) (today)
-- [Grype .98 misidentifies package versions](https://anchorecommunity.discourse.group/t/grype-98-misidentifies-package-versions/541) (today)
-- [Anchore Open Source Weekly Report - Week 34, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-34-2025/540) (today)
-- [Why does local anchore/syft image take up more space than reported on DockerHub page?](https://anchorecommunity.discourse.group/t/why-does-local-anchore-syft-image-take-up-more-space-than-reported-on-dockerhub-page/539) (today)
-- [Adding Ignore Filters for Vex Entries](https://anchorecommunity.discourse.group/t/adding-ignore-filters-for-vex-entries/537) (5 days ago)
+- [Reducing &#39;unknowns&#39; via targeted fuzzy binary catalogers](https://anchorecommunity.discourse.group/t/reducing-unknowns-via-targeted-fuzzy-binary-catalogers/542) (1 day ago)
+- [Grype .98 misidentifies package versions](https://anchorecommunity.discourse.group/t/grype-98-misidentifies-package-versions/541) (1 day ago)
+- [Anchore Open Source Weekly Report - Week 34, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-34-2025/540) (1 day ago)
+- [Why does local anchore/syft image take up more space than reported on DockerHub page?](https://anchorecommunity.discourse.group/t/why-does-local-anchore-syft-image-take-up-more-space-than-reported-on-dockerhub-page/539) (1 day ago)
+- [Adding Ignore Filters for Vex Entries](https://anchorecommunity.discourse.group/t/adding-ignore-filters-for-vex-entries/537) (6 days ago)
