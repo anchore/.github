@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [August 28th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/august-28th-open-source-gardening-live-stream/546) (today)
 - [Grype - v0.99.0 released](https://anchorecommunity.discourse.group/t/grype-v0-99-0-released/545) (1 day ago)
 - [Syft - v1.32.0 released](https://anchorecommunity.discourse.group/t/syft-v1-32-0-released/544) (2 days ago)
 - [Any plans for AIBOM using Syft or Grype](https://anchorecommunity.discourse.group/t/any-plans-for-aibom-using-syft-or-grype/543) (2 days ago)
 - [Reducing &#39;unknowns&#39; via targeted fuzzy binary catalogers](https://anchorecommunity.discourse.group/t/reducing-unknowns-via-targeted-fuzzy-binary-catalogers/542) (3 days ago)
-- [Grype .98 misidentifies package versions](https://anchorecommunity.discourse.group/t/grype-98-misidentifies-package-versions/541) (3 days ago)
