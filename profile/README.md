@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [September 4th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-4th-open-source-gardening-live-stream/550) (today)
 - [Anchore Open Source Weekly Report - Week 35, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-35-2025/549) (today)
 - [Grype - v0.99.1 released](https://anchorecommunity.discourse.group/t/grype-v0-99-1-released/548) (today)
 - [&#34;we track the complete list in our open source SBOM eBook.&#34; - the repo is gone](https://anchorecommunity.discourse.group/t/we-track-the-complete-list-in-our-open-source-sbom-ebook-the-repo-is-gone/547) (3 days ago)
 - [August 28th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/august-28th-open-source-gardening-live-stream/546) (4 days ago)
-- [Grype - v0.99.0 released](https://anchorecommunity.discourse.group/t/grype-v0-99-0-released/545) (5 days ago)
