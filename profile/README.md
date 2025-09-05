@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Generated SBOM files are not valid](https://anchorecommunity.discourse.group/t/generated-sbom-files-are-not-valid/552) (today)
 - [SBOM container tools comparison](https://anchorecommunity.discourse.group/t/sbom-container-tools-comparison/551) (3 days ago)
 - [September 4th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-4th-open-source-gardening-live-stream/550) (4 days ago)
 - [Anchore Open Source Weekly Report - Week 35, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-35-2025/549) (4 days ago)
 - [Grype - v0.99.1 released](https://anchorecommunity.discourse.group/t/grype-v0-99-1-released/548) (4 days ago)
-- [&#34;we track the complete list in our open source SBOM eBook.&#34; - the repo is gone](https://anchorecommunity.discourse.group/t/we-track-the-complete-list-in-our-open-source-sbom-ebook-the-repo-is-gone/547) (1 week ago)
