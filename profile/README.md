@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Sabel Systems Leverages Anchore SBOM and SECURE to Scale Compliance While Reducing Vulnerability Review Time by 75%](https://anchore.com/case-studies/sabel-systems-leverages-anchore-sbom-and-secure-to-scale-compliance-while-reducing-vulnerability-review-time-by-75/) (today)
 - [Establishing Continuous Compliance with Anchore &amp; Chainguard: Automating Container Security](https://anchore.com/webinars/establishing-continuous-compliance-with-anchore-chainguard-automating-container-security/) (1 day ago)
 - [Packages, Policies, and Performance: What’s New in Grant](https://anchore.com/events/packages-policies-and-performance-whats-new-in-grant/) (1 week ago)
 - [Meeting 2025’s SBOM Compliance Deadlines: A Practical Implementation Guide Pt. 2](https://anchore.com/blog/meeting-2025s-sbom-compliance-deadlines-a-practical-implementation-guide-pt-2/) (1 week ago)
 - [Minutes vs. Months: The SBOM Advantage in Zero-Day Response](https://anchore.com/blog/minutes-vs-months-the-sbom-advantage-in-zero-day-response/) (2 weeks ago)
-- [Streamline Vulnerability Management: From Minimal Images to Comprehensive SBOM Analysis](https://anchore.com/webinars/streamline-vulnerability-management-from-minimal-images-to-comprehensive-sbom-analysis/) (3 weeks ago)
 
 ### Community
 
