@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Sabel Systems Leverages Anchore SBOM and SECURE to Scale Compliance While Reducing Vulnerability Review Time by 75%](https://anchore.com/case-studies/sabel-systems-leverages-anchore-sbom-and-secure-to-scale-compliance-while-reducing-vulnerability-review-time-by-75/) (1 day ago)
-- [Establishing Continuous Compliance with Anchore &amp; Chainguard: Automating Container Security](https://anchore.com/webinars/establishing-continuous-compliance-with-anchore-chainguard-automating-container-security/) (2 days ago)
+- [Sabel Systems Leverages Anchore SBOM and SECURE to Scale Compliance While Reducing Vulnerability Review Time by 75%](https://anchore.com/case-studies/sabel-systems-leverages-anchore-sbom-and-secure-to-scale-compliance-while-reducing-vulnerability-review-time-by-75/) (2 days ago)
+- [Establishing Continuous Compliance with Anchore &amp; Chainguard: Automating Container Security](https://anchore.com/webinars/establishing-continuous-compliance-with-anchore-chainguard-automating-container-security/) (3 days ago)
 - [Packages, Policies, and Performance: What’s New in Grant](https://anchore.com/events/packages-policies-and-performance-whats-new-in-grant/) (1 week ago)
 - [Meeting 2025’s SBOM Compliance Deadlines: A Practical Implementation Guide Pt. 2](https://anchore.com/blog/meeting-2025s-sbom-compliance-deadlines-a-practical-implementation-guide-pt-2/) (1 week ago)
 - [Minutes vs. Months: The SBOM Advantage in Zero-Day Response](https://anchore.com/blog/minutes-vs-months-the-sbom-advantage-in-zero-day-response/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Cyclonedx SBOM files do not pass cyclonedx cli validate command when SMAIL-GPL included as licenses](https://anchorecommunity.discourse.group/t/cyclonedx-sbom-files-do-not-pass-cyclonedx-cli-validate-command-when-smail-gpl-included-as-licenses/552) (2 days ago)
-- [SBOM container tools comparison](https://anchorecommunity.discourse.group/t/sbom-container-tools-comparison/551) (5 days ago)
-- [September 4th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-4th-open-source-gardening-live-stream/550) (6 days ago)
-- [Anchore Open Source Weekly Report - Week 35, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-35-2025/549) (6 days ago)
-- [Grype - v0.99.1 released](https://anchorecommunity.discourse.group/t/grype-v0-99-1-released/548) (6 days ago)
+- [Cyclonedx SBOM files do not pass cyclonedx cli validate command when SMAIL-GPL included as licenses](https://anchorecommunity.discourse.group/t/cyclonedx-sbom-files-do-not-pass-cyclonedx-cli-validate-command-when-smail-gpl-included-as-licenses/552) (3 days ago)
+- [SBOM container tools comparison](https://anchorecommunity.discourse.group/t/sbom-container-tools-comparison/551) (6 days ago)
+- [September 4th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-4th-open-source-gardening-live-stream/550) (1 week ago)
+- [Anchore Open Source Weekly Report - Week 35, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-35-2025/549) (1 week ago)
+- [Grype - v0.99.1 released](https://anchorecommunity.discourse.group/t/grype-v0-99-1-released/548) (1 week ago)
