@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Components missing from CycloneDX json format SBOM when generation is part of a test](https://anchorecommunity.discourse.group/t/components-missing-from-cyclonedx-json-format-sbom-when-generation-is-part-of-a-test/553) (today)
 - [Cyclonedx SBOM files do not pass cyclonedx cli validate command when SMAIL-GPL included as licenses](https://anchorecommunity.discourse.group/t/cyclonedx-sbom-files-do-not-pass-cyclonedx-cli-validate-command-when-smail-gpl-included-as-licenses/552) (3 days ago)
 - [SBOM container tools comparison](https://anchorecommunity.discourse.group/t/sbom-container-tools-comparison/551) (6 days ago)
 - [September 4th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-4th-open-source-gardening-live-stream/550) (1 week ago)
 - [Anchore Open Source Weekly Report - Week 35, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-35-2025/549) (1 week ago)
-- [Grype - v0.99.1 released](https://anchorecommunity.discourse.group/t/grype-v0-99-1-released/548) (1 week ago)
