@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Sabel Systems Leverages Anchore SBOM and SECURE to Scale Compliance While Reducing Vulnerability Review Time by 75%](https://anchore.com/case-studies/sabel-systems-leverages-anchore-sbom-and-secure-to-scale-compliance-while-reducing-vulnerability-review-time-by-75/) (2 days ago)
-- [Establishing Continuous Compliance with Anchore &amp; Chainguard: Automating Container Security](https://anchore.com/webinars/establishing-continuous-compliance-with-anchore-chainguard-automating-container-security/) (3 days ago)
+- [Sabel Systems Leverages Anchore SBOM and SECURE to Scale Compliance While Reducing Vulnerability Review Time by 75%](https://anchore.com/case-studies/sabel-systems-leverages-anchore-sbom-and-secure-to-scale-compliance-while-reducing-vulnerability-review-time-by-75/) (3 days ago)
+- [Establishing Continuous Compliance with Anchore &amp; Chainguard: Automating Container Security](https://anchore.com/webinars/establishing-continuous-compliance-with-anchore-chainguard-automating-container-security/) (4 days ago)
 - [Packages, Policies, and Performance: What’s New in Grant](https://anchore.com/events/packages-policies-and-performance-whats-new-in-grant/) (1 week ago)
-- [Meeting 2025’s SBOM Compliance Deadlines: A Practical Implementation Guide Pt. 2](https://anchore.com/blog/meeting-2025s-sbom-compliance-deadlines-a-practical-implementation-guide-pt-2/) (1 week ago)
-- [Minutes vs. Months: The SBOM Advantage in Zero-Day Response](https://anchore.com/blog/minutes-vs-months-the-sbom-advantage-in-zero-day-response/) (2 weeks ago)
+- [Meeting 2025’s SBOM Compliance Deadlines: A Practical Implementation Guide Pt. 2](https://anchore.com/blog/meeting-2025s-sbom-compliance-deadlines-a-practical-implementation-guide-pt-2/) (2 weeks ago)
+- [Minutes vs. Months: The SBOM Advantage in Zero-Day Response](https://anchore.com/blog/minutes-vs-months-the-sbom-advantage-in-zero-day-response/) (3 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Anchore Open Source Weekly Report - Week 36, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-36-2025/554) (today)
-- [Components missing from CycloneDX json format SBOM when generation is part of a test](https://anchorecommunity.discourse.group/t/components-missing-from-cyclonedx-json-format-sbom-when-generation-is-part-of-a-test/553) (today)
-- [Cyclonedx SBOM files do not pass cyclonedx cli validate command when SMAIL-GPL included as licenses](https://anchorecommunity.discourse.group/t/cyclonedx-sbom-files-do-not-pass-cyclonedx-cli-validate-command-when-smail-gpl-included-as-licenses/552) (3 days ago)
-- [SBOM container tools comparison](https://anchorecommunity.discourse.group/t/sbom-container-tools-comparison/551) (6 days ago)
+- [Anchore Open Source Weekly Report - Week 36, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-36-2025/554) (1 day ago)
+- [Components missing from CycloneDX json format SBOM when generation is part of a test](https://anchorecommunity.discourse.group/t/components-missing-from-cyclonedx-json-format-sbom-when-generation-is-part-of-a-test/553) (1 day ago)
+- [Cyclonedx SBOM files do not pass cyclonedx cli validate command when SMAIL-GPL included as licenses](https://anchorecommunity.discourse.group/t/cyclonedx-sbom-files-do-not-pass-cyclonedx-cli-validate-command-when-smail-gpl-included-as-licenses/552) (4 days ago)
+- [SBOM container tools comparison](https://anchorecommunity.discourse.group/t/sbom-container-tools-comparison/551) (1 week ago)
 - [September 4th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-4th-open-source-gardening-live-stream/550) (1 week ago)
