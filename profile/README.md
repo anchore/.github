@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [DevOpsDays Washington, DC](https://anchore.com/events/devopsdays-dc/) (today)
 - [Navigating the New Compliance Frontier](https://anchore.com/blog/navigating-the-new-compliance-frontier/) (1 day ago)
 - [Sabel Systems Leverages Anchore SBOM and SECURE to Scale Compliance While Reducing Vulnerability Review Time by 75%](https://anchore.com/case-studies/sabel-systems-leverages-anchore-sbom-and-secure-to-scale-compliance-while-reducing-vulnerability-review-time-by-75/) (4 days ago)
 - [Establishing Continuous Compliance with Anchore &amp; Chainguard: Automating Container Security](https://anchore.com/webinars/establishing-continuous-compliance-with-anchore-chainguard-automating-container-security/) (5 days ago)
 - [Packages, Policies, and Performance: What’s New in Grant](https://anchore.com/events/packages-policies-and-performance-whats-new-in-grant/) (2 weeks ago)
-- [Meeting 2025’s SBOM Compliance Deadlines: A Practical Implementation Guide Pt. 2](https://anchore.com/blog/meeting-2025s-sbom-compliance-deadlines-a-practical-implementation-guide-pt-2/) (2 weeks ago)
 
 ### Community
 
