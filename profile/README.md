@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [NPM Supply Chain Breach Response for Anchore Enterprise and Grype Users](https://anchore.com/blog/npm-supply-chain-breach-response-for-anchore-enterprise-and-grype-users/) (2 days ago)
-- [DevOpsDays Washington, DC](https://anchore.com/events/devopsdays-dc/) (3 days ago)
-- [Navigating the New Compliance Frontier](https://anchore.com/blog/navigating-the-new-compliance-frontier/) (4 days ago)
+- [NPM Supply Chain Breach Response for Anchore Enterprise and Grype Users](https://anchore.com/blog/npm-supply-chain-breach-response-for-anchore-enterprise-and-grype-users/) (3 days ago)
+- [DevOpsDays Washington, DC](https://anchore.com/events/devopsdays-dc/) (4 days ago)
+- [Navigating the New Compliance Frontier](https://anchore.com/blog/navigating-the-new-compliance-frontier/) (5 days ago)
 - [Sabel Systems Leverages Anchore SBOM and SECURE to Scale Compliance While Reducing Vulnerability Review Time by 75%](https://anchore.com/case-studies/sabel-systems-leverages-anchore-sbom-and-secure-to-scale-compliance-while-reducing-vulnerability-review-time-by-75/) (1 week ago)
 - [Establishing Continuous Compliance with Anchore &amp; Chainguard: Automating Container Security](https://anchore.com/webinars/establishing-continuous-compliance-with-anchore-chainguard-automating-container-security/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Should I create a template, or just post-process to get an SPDX SBOM containing PURLs only?](https://anchorecommunity.discourse.group/t/should-i-create-a-template-or-just-post-process-to-get-an-spdx-sbom-containing-purls-only/558) (2 days ago)
-- [Update: Raise in false positives due to missing NVD overrides](https://anchorecommunity.discourse.group/t/update-raise-in-false-positives-due-to-missing-nvd-overrides/557) (2 days ago)
-- [September 11th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-11th-open-source-gardening-live-stream/556) (3 days ago)
-- [Adding support for container first distro: 0-deb](https://anchorecommunity.discourse.group/t/adding-support-for-container-first-distro-0-deb/555) (4 days ago)
-- [Anchore Open Source Weekly Report - Week 36, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-36-2025/554) (5 days ago)
+- [Should I create a template, or just post-process to get an SPDX SBOM containing PURLs only?](https://anchorecommunity.discourse.group/t/should-i-create-a-template-or-just-post-process-to-get-an-spdx-sbom-containing-purls-only/558) (3 days ago)
+- [Update: Raise in false positives due to missing NVD overrides](https://anchorecommunity.discourse.group/t/update-raise-in-false-positives-due-to-missing-nvd-overrides/557) (3 days ago)
+- [September 11th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-11th-open-source-gardening-live-stream/556) (4 days ago)
+- [Adding support for container first distro: 0-deb](https://anchorecommunity.discourse.group/t/adding-support-for-container-first-distro-0-deb/555) (5 days ago)
+- [Anchore Open Source Weekly Report - Week 36, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-36-2025/554) (6 days ago)
