@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Grype - v0.100.0 released](https://anchorecommunity.discourse.group/t/grype-v0-100-0-released/563) (today)
 - [Syft - v1.33.0 released](https://anchorecommunity.discourse.group/t/syft-v1-33-0-released/562) (today)
 - [September 18th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-18th-open-source-gardening-live-stream/561) (today)
 - [Anchore Open Source Weekly Report, Week 37, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-37-2025/560) (today)
 - [Why SBOM contains configuration files?](https://anchorecommunity.discourse.group/t/why-sbom-contains-configuration-files/559) (today)
-- [Should I create a template, or just post-process to get an SPDX SBOM containing PURLs only?](https://anchorecommunity.discourse.group/t/should-i-create-a-template-or-just-post-process-to-get-an-spdx-sbom-containing-purls-only/558) (4 days ago)
