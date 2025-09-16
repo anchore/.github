@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Anchore Enterprise is now SPDX 3 Ready](https://anchore.com/blog/anchore-enterprise-is-now-spdx-3-ready/) (today)
-- [NPM Supply Chain Breach Response for Anchore Enterprise and Grype Users](https://anchore.com/blog/npm-supply-chain-breach-response-for-anchore-enterprise-and-grype-users/) (4 days ago)
-- [DevOpsDays Washington, DC](https://anchore.com/events/devopsdays-dc/) (5 days ago)
-- [Navigating the New Compliance Frontier](https://anchore.com/blog/navigating-the-new-compliance-frontier/) (6 days ago)
+- [Anchore Enterprise is now SPDX 3 Ready](https://anchore.com/blog/anchore-enterprise-is-now-spdx-3-ready/) (1 day ago)
+- [NPM Supply Chain Breach Response for Anchore Enterprise and Grype Users](https://anchore.com/blog/npm-supply-chain-breach-response-for-anchore-enterprise-and-grype-users/) (5 days ago)
+- [DevOpsDays Washington, DC](https://anchore.com/events/devopsdays-dc/) (6 days ago)
+- [Navigating the New Compliance Frontier](https://anchore.com/blog/navigating-the-new-compliance-frontier/) (1 week ago)
 - [Sabel Systems Leverages Anchore SBOM and SECURE to Scale Compliance While Reducing Vulnerability Review Time by 75%](https://anchore.com/case-studies/sabel-systems-leverages-anchore-sbom-and-secure-to-scale-compliance-while-reducing-vulnerability-review-time-by-75/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype - v0.100.0 released](https://anchorecommunity.discourse.group/t/grype-v0-100-0-released/563) (today)
-- [Syft - v1.33.0 released](https://anchorecommunity.discourse.group/t/syft-v1-33-0-released/562) (today)
-- [September 18th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-18th-open-source-gardening-live-stream/561) (today)
-- [Anchore Open Source Weekly Report, Week 37, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-37-2025/560) (today)
-- [Why SBOM contains configuration files?](https://anchorecommunity.discourse.group/t/why-sbom-contains-configuration-files/559) (today)
+- [Grype - v0.100.0 released](https://anchorecommunity.discourse.group/t/grype-v0-100-0-released/563) (1 day ago)
+- [Syft - v1.33.0 released](https://anchorecommunity.discourse.group/t/syft-v1-33-0-released/562) (1 day ago)
+- [September 18th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-18th-open-source-gardening-live-stream/561) (1 day ago)
+- [Anchore Open Source Weekly Report, Week 37, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-37-2025/560) (1 day ago)
+- [Why SBOM contains configuration files?](https://anchorecommunity.discourse.group/t/why-sbom-contains-configuration-files/559) (1 day ago)
