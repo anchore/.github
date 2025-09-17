@@ -18,10 +18,10 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Grant’s Release 0.3.0: Smarter Policies, Faster Scans, and Simpler Compliance](https://anchore.com/blog/grants-release-0-3-0-smarter-policies-faster-scans-and-simpler-compliance/) (today)
-- [Anchore Enterprise is now SPDX 3 Ready](https://anchore.com/blog/anchore-enterprise-is-now-spdx-3-ready/) (1 day ago)
-- [NPM Supply Chain Breach Response for Anchore Enterprise and Grype Users](https://anchore.com/blog/npm-supply-chain-breach-response-for-anchore-enterprise-and-grype-users/) (5 days ago)
-- [DevOpsDays Washington, DC](https://anchore.com/events/devopsdays-dc/) (6 days ago)
+- [Grant’s Release 0.3.0: Smarter Policies, Faster Scans, and Simpler Compliance](https://anchore.com/blog/grants-release-0-3-0-smarter-policies-faster-scans-and-simpler-compliance/) (1 day ago)
+- [Anchore Enterprise is now SPDX 3 Ready](https://anchore.com/blog/anchore-enterprise-is-now-spdx-3-ready/) (2 days ago)
+- [NPM Supply Chain Breach Response for Anchore Enterprise and Grype Users](https://anchore.com/blog/npm-supply-chain-breach-response-for-anchore-enterprise-and-grype-users/) (6 days ago)
+- [DevOpsDays Washington, DC](https://anchore.com/events/devopsdays-dc/) (1 week ago)
 - [Navigating the New Compliance Frontier](https://anchore.com/blog/navigating-the-new-compliance-frontier/) (1 week ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grant - v0.3.1 released](https://anchorecommunity.discourse.group/t/grant-v0-3-1-released/564) (today)
-- [Grype - v0.100.0 released](https://anchorecommunity.discourse.group/t/grype-v0-100-0-released/563) (1 day ago)
-- [Syft - v1.33.0 released](https://anchorecommunity.discourse.group/t/syft-v1-33-0-released/562) (1 day ago)
-- [September 18th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-18th-open-source-gardening-live-stream/561) (1 day ago)
-- [Anchore Open Source Weekly Report, Week 37, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-37-2025/560) (1 day ago)
+- [Grant - v0.3.1 released](https://anchorecommunity.discourse.group/t/grant-v0-3-1-released/564) (1 day ago)
+- [Grype - v0.100.0 released](https://anchorecommunity.discourse.group/t/grype-v0-100-0-released/563) (2 days ago)
+- [Syft - v1.33.0 released](https://anchorecommunity.discourse.group/t/syft-v1-33-0-released/562) (2 days ago)
+- [September 18th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-18th-open-source-gardening-live-stream/561) (2 days ago)
+- [Anchore Open Source Weekly Report, Week 37, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-37-2025/560) (2 days ago)
