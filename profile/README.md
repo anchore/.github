@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [How to map transitive dependencies to parent package?](https://anchorecommunity.discourse.group/t/how-to-map-transitive-dependencies-to-parent-package/565) (today)
 - [Grant - v0.3.1 released](https://anchorecommunity.discourse.group/t/grant-v0-3-1-released/564) (1 day ago)
 - [Grype - v0.100.0 released](https://anchorecommunity.discourse.group/t/grype-v0-100-0-released/563) (2 days ago)
 - [Syft - v1.33.0 released](https://anchorecommunity.discourse.group/t/syft-v1-33-0-released/562) (2 days ago)
 - [September 18th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-18th-open-source-gardening-live-stream/561) (2 days ago)
-- [Anchore Open Source Weekly Report, Week 37, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-37-2025/560) (2 days ago)
