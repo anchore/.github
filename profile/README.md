@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Grant’s Release 0.3.0: Smarter Policies, Faster Scans, and Simpler Compliance](https://anchore.com/blog/grants-release-0-3-0-smarter-policies-faster-scans-and-simpler-compliance/) (3 days ago)
-- [Anchore Enterprise is now SPDX 3 Ready](https://anchore.com/blog/anchore-enterprise-is-now-spdx-3-ready/) (4 days ago)
+- [Grant’s Release 0.3.0: Smarter Policies, Faster Scans, and Simpler Compliance](https://anchore.com/blog/grants-release-0-3-0-smarter-policies-faster-scans-and-simpler-compliance/) (4 days ago)
+- [Anchore Enterprise is now SPDX 3 Ready](https://anchore.com/blog/anchore-enterprise-is-now-spdx-3-ready/) (5 days ago)
 - [NPM Supply Chain Breach Response for Anchore Enterprise and Grype Users](https://anchore.com/blog/npm-supply-chain-breach-response-for-anchore-enterprise-and-grype-users/) (1 week ago)
 - [DevOpsDays Washington, DC](https://anchore.com/events/devopsdays-dc/) (1 week ago)
 - [Navigating the New Compliance Frontier](https://anchore.com/blog/navigating-the-new-compliance-frontier/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [About the Grant category](https://anchorecommunity.discourse.group/t/about-the-grant-category/567) (1 day ago)
-- [Grant - v0.3.2 released](https://anchorecommunity.discourse.group/t/grant-v0-3-2-released/566) (1 day ago)
-- [How to map transitive dependencies to parent package?](https://anchorecommunity.discourse.group/t/how-to-map-transitive-dependencies-to-parent-package/565) (2 days ago)
-- [Grant - v0.3.1 released](https://anchorecommunity.discourse.group/t/grant-v0-3-1-released/564) (3 days ago)
-- [Grype - v0.100.0 released](https://anchorecommunity.discourse.group/t/grype-v0-100-0-released/563) (4 days ago)
+- [About the Grant category](https://anchorecommunity.discourse.group/t/about-the-grant-category/567) (2 days ago)
+- [Grant - v0.3.2 released](https://anchorecommunity.discourse.group/t/grant-v0-3-2-released/566) (2 days ago)
+- [How to map transitive dependencies to parent package?](https://anchorecommunity.discourse.group/t/how-to-map-transitive-dependencies-to-parent-package/565) (3 days ago)
+- [Grant - v0.3.1 released](https://anchorecommunity.discourse.group/t/grant-v0-3-1-released/564) (4 days ago)
+- [Grype - v0.100.0 released](https://anchorecommunity.discourse.group/t/grype-v0-100-0-released/563) (5 days ago)
