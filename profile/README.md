@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Strengthening Software Security: The Anchore and Chainguard Partnership](https://anchore.com/blog/chainguard-partnership/) (today)
 - [Grant’s Release 0.3.0: Smarter Policies, Faster Scans, and Simpler Compliance](https://anchore.com/blog/grants-release-0-3-0-smarter-policies-faster-scans-and-simpler-compliance/) (1 week ago)
 - [Anchore Enterprise is now SPDX 3 Ready](https://anchore.com/blog/anchore-enterprise-is-now-spdx-3-ready/) (1 week ago)
 - [NPM Supply Chain Breach Response for Anchore Enterprise and Grype Users](https://anchore.com/blog/npm-supply-chain-breach-response-for-anchore-enterprise-and-grype-users/) (1 week ago)
 - [DevOpsDays Washington, DC](https://anchore.com/events/devopsdays-dc/) (1 week ago)
-- [Navigating the New Compliance Frontier](https://anchore.com/blog/navigating-the-new-compliance-frontier/) (2 weeks ago)
 
 ### Community
 
