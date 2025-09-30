@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Can an LLM Really Fix a Bug? A Start-to-Finish Case Study](https://anchore.com/blog/can-an-llm-really-fix-a-bug-a-start-to-finish-case-study/) (today)
 - [Hardened Images are Here to Stay](https://anchore.com/blog/hardened-images-are-here-to-stay/) (5 days ago)
 - [Strengthening Software Security: The Anchore and Chainguard Partnership](https://anchore.com/blog/chainguard-partnership/) (1 week ago)
 - [Grant’s Release 0.3.0: Smarter Policies, Faster Scans, and Simpler Compliance](https://anchore.com/blog/grants-release-0-3-0-smarter-policies-faster-scans-and-simpler-compliance/) (2 weeks ago)
 - [Anchore Enterprise is now SPDX 3 Ready](https://anchore.com/blog/anchore-enterprise-is-now-spdx-3-ready/) (2 weeks ago)
-- [NPM Supply Chain Breach Response for Anchore Enterprise and Grype Users](https://anchore.com/blog/npm-supply-chain-breach-response-for-anchore-enterprise-and-grype-users/) (2 weeks ago)
 
 ### Community
 
