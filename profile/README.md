@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Analyzing the top MCP Docker Containers](https://anchore.com/blog/analyzing-the-top-mcp-docker-containers/) (today)
 - [The Regulation and Liability of Open Source Software](https://anchore.com/events/the-regulation-and-liability-of-open-source-software/) (today)
 - [Can an LLM Really Fix a Bug? A Start-to-Finish Case Study](https://anchore.com/blog/can-an-llm-really-fix-a-bug-a-start-to-finish-case-study/) (2 days ago)
 - [Hardened Images are Here to Stay](https://anchore.com/blog/hardened-images-are-here-to-stay/) (1 week ago)
 - [Strengthening Software Security: The Anchore and Chainguard Partnership](https://anchore.com/blog/chainguard-partnership/) (1 week ago)
-- [Grant’s Release 0.3.0: Smarter Policies, Faster Scans, and Simpler Compliance](https://anchore.com/blog/grants-release-0-3-0-smarter-policies-faster-scans-and-simpler-compliance/) (2 weeks ago)
 
 ### Community
 
