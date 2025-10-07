@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [October 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-9th-open-source-gardening-live-stream/574) (today)
 - [Corretly identifying jar file with only pom.xml](https://anchorecommunity.discourse.group/t/corretly-identifying-jar-file-with-only-pom-xml/573) (5 days ago)
 - [October 2nd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-2nd-open-source-gardening-live-stream/572) (5 days ago)
 - [September 25th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-25th-open-source-gardening-live-stream/569) (2 weeks ago)
 - [Anchore Open Source Weekly Report, Week 38, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-38-2025/568) (2 weeks ago)
-- [About the Grant category](https://anchorecommunity.discourse.group/t/about-the-grant-category/567) (2 weeks ago)
