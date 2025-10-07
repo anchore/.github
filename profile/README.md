@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [How Sabel Systems Reduced Vulnerability Review Time by 75% While Maintaining Zero Critical Vulnerabilities](https://anchore.com/blog/how-sabel-systems-reduced-vulnerability-review-time-by-75-while-maintaining-zero-critical-vulnerabilities/) (today)
 - [Analyzing the top MCP Docker Containers](https://anchore.com/blog/analyzing-the-top-mcp-docker-containers/) (5 days ago)
 - [The Regulation and Liability of Open Source Software](https://anchore.com/events/the-regulation-and-liability-of-open-source-software/) (5 days ago)
 - [Can an LLM Really Fix a Bug? A Start-to-Finish Case Study](https://anchore.com/blog/can-an-llm-really-fix-a-bug-a-start-to-finish-case-study/) (1 week ago)
 - [Hardened Images are Here to Stay](https://anchore.com/blog/hardened-images-are-here-to-stay/) (1 week ago)
-- [Strengthening Software Security: The Anchore and Chainguard Partnership](https://anchore.com/blog/chainguard-partnership/) (2 weeks ago)
 
 ### Community
 
