@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [How Sabel Systems Reduced Vulnerability Review Time by 75% While Maintaining Zero Critical Vulnerabilities](https://anchore.com/blog/how-sabel-systems-reduced-vulnerability-review-time-by-75-while-maintaining-zero-critical-vulnerabilities/) (today)
-- [Analyzing the top MCP Docker Containers](https://anchore.com/blog/analyzing-the-top-mcp-docker-containers/) (5 days ago)
-- [The Regulation and Liability of Open Source Software](https://anchore.com/events/the-regulation-and-liability-of-open-source-software/) (5 days ago)
+- [How Sabel Systems Reduced Vulnerability Review Time by 75% While Maintaining Zero Critical Vulnerabilities](https://anchore.com/blog/how-sabel-systems-reduced-vulnerability-review-time-by-75-while-maintaining-zero-critical-vulnerabilities/) (1 day ago)
+- [Analyzing the top MCP Docker Containers](https://anchore.com/blog/analyzing-the-top-mcp-docker-containers/) (6 days ago)
+- [The Regulation and Liability of Open Source Software](https://anchore.com/events/the-regulation-and-liability-of-open-source-software/) (6 days ago)
 - [Can an LLM Really Fix a Bug? A Start-to-Finish Case Study](https://anchore.com/blog/can-an-llm-really-fix-a-bug-a-start-to-finish-case-study/) (1 week ago)
 - [Hardened Images are Here to Stay](https://anchore.com/blog/hardened-images-are-here-to-stay/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [October 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-9th-open-source-gardening-live-stream/574) (today)
-- [Corretly identifying jar file with only pom.xml](https://anchorecommunity.discourse.group/t/corretly-identifying-jar-file-with-only-pom-xml/573) (5 days ago)
-- [October 2nd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-2nd-open-source-gardening-live-stream/572) (5 days ago)
+- [October 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-9th-open-source-gardening-live-stream/574) (1 day ago)
+- [Corretly identifying jar file with only pom.xml](https://anchorecommunity.discourse.group/t/corretly-identifying-jar-file-with-only-pom-xml/573) (6 days ago)
+- [October 2nd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-2nd-open-source-gardening-live-stream/572) (6 days ago)
 - [September 25th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-25th-open-source-gardening-live-stream/569) (2 weeks ago)
 - [Anchore Open Source Weekly Report, Week 38, 2025](https://anchorecommunity.discourse.group/t/anchore-open-source-weekly-report-week-38-2025/568) (2 weeks ago)
