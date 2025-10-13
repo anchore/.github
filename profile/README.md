@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Weak SSL config for https://grype.anchore.io](https://anchorecommunity.discourse.group/t/weak-ssl-config-for-https-grype-anchore-io/576) (today)
 - [Not supported pnpm yet?](https://anchorecommunity.discourse.group/t/not-supported-pnpm-yet/575) (5 days ago)
 - [October 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-9th-open-source-gardening-live-stream/574) (6 days ago)
 - [Corretly identifying jar file with only pom.xml](https://anchorecommunity.discourse.group/t/corretly-identifying-jar-file-with-only-pom-xml/573) (1 week ago)
 - [October 2nd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-2nd-open-source-gardening-live-stream/572) (1 week ago)
-- [September 25th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/september-25th-open-source-gardening-live-stream/569) (3 weeks ago)
