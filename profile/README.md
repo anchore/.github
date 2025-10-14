@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Generative AI in Risk and Compliance: Insights from the 2025 Industry Report](https://anchore.com/webinars/generative-ai-in-risk-and-compliance-insights-from-the-2025-industry-report/) (today)
-- [Anchore Assessed “Awardable” for Department of Defense Work in the P1 Solutions Marketplace](https://anchore.com/news/anchore-assessed-awardable-for-department-of-defense-work-in-the-p1-solutions-marketplace/) (4 days ago)
-- [How Sabel Systems Reduced Vulnerability Review Time by 75% While Maintaining Zero Critical Vulnerabilities](https://anchore.com/blog/how-sabel-systems-reduced-vulnerability-review-time-by-75-while-maintaining-zero-critical-vulnerabilities/) (6 days ago)
+- [Generative AI in Risk and Compliance: Insights from the 2025 Industry Report](https://anchore.com/webinars/generative-ai-in-risk-and-compliance-insights-from-the-2025-industry-report/) (1 day ago)
+- [Anchore Assessed “Awardable” for Department of Defense Work in the P1 Solutions Marketplace](https://anchore.com/news/anchore-assessed-awardable-for-department-of-defense-work-in-the-p1-solutions-marketplace/) (5 days ago)
+- [How Sabel Systems Reduced Vulnerability Review Time by 75% While Maintaining Zero Critical Vulnerabilities](https://anchore.com/blog/how-sabel-systems-reduced-vulnerability-review-time-by-75-while-maintaining-zero-critical-vulnerabilities/) (1 week ago)
 - [Analyzing the top MCP Docker Containers](https://anchore.com/blog/analyzing-the-top-mcp-docker-containers/) (1 week ago)
 - [The Regulation and Liability of Open Source Software](https://anchore.com/events/the-regulation-and-liability-of-open-source-software/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Weak SSL config for https://grype.anchore.io](https://anchorecommunity.discourse.group/t/weak-ssl-config-for-https-grype-anchore-io/576) (today)
-- [Not supported pnpm yet?](https://anchorecommunity.discourse.group/t/not-supported-pnpm-yet/575) (5 days ago)
-- [October 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-9th-open-source-gardening-live-stream/574) (6 days ago)
+- [Weak SSL config for https://grype.anchore.io](https://anchorecommunity.discourse.group/t/weak-ssl-config-for-https-grype-anchore-io/576) (1 day ago)
+- [Not supported pnpm yet?](https://anchorecommunity.discourse.group/t/not-supported-pnpm-yet/575) (6 days ago)
+- [October 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-9th-open-source-gardening-live-stream/574) (1 week ago)
 - [Corretly identifying jar file with only pom.xml](https://anchorecommunity.discourse.group/t/corretly-identifying-jar-file-with-only-pom-xml/573) (1 week ago)
 - [October 2nd | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-2nd-open-source-gardening-live-stream/572) (1 week ago)
