@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/events/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops-2/) (today)
+- [Cloud Native Now 2025](https://anchore.com/events/cloud-native-now-2025/) (today)
 - [A Zero-day Incident Response Story from the Watchers on the Wall](https://anchore.com/blog/a-zero-day-incident-response-story-from-the-watchers-on-the-wall/) (1 day ago)
 - [Cybersecurity Awareness Month no longer works](https://anchore.com/blog/cybersecurity-awareness-month-no-longer-works/) (2 days ago)
 - [Generative AI in Risk and Compliance: Insights from the 2025 Industry Report](https://anchore.com/webinars/generative-ai-in-risk-and-compliance-insights-from-the-2025-industry-report/) (4 days ago)
-- [Anchore Assessed “Awardable” for Department of Defense Work in the P1 Solutions Marketplace](https://anchore.com/news/anchore-assessed-awardable-for-department-of-defense-work-in-the-p1-solutions-marketplace/) (1 week ago)
-- [How Sabel Systems Reduced Vulnerability Review Time by 75% While Maintaining Zero Critical Vulnerabilities](https://anchore.com/blog/how-sabel-systems-reduced-vulnerability-review-time-by-75-while-maintaining-zero-critical-vulnerabilities/) (1 week ago)
 
 ### Community
 
