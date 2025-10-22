@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Compliance Isn’t an Annual Ritual Anymore](https://anchore.com/blog/compliance-isnt-an-annual-ritual-anymore/) (today)
-- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/events/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops-2/) (4 days ago)
-- [Cloud Native Now 2025](https://anchore.com/events/cloud-native-now-2025/) (4 days ago)
-- [A Zero-day Incident Response Story from the Watchers on the Wall](https://anchore.com/blog/a-zero-day-incident-response-story-from-the-watchers-on-the-wall/) (5 days ago)
-- [Cybersecurity Awareness Month no longer works](https://anchore.com/blog/cybersecurity-awareness-month-no-longer-works/) (6 days ago)
+- [Compliance Isn’t an Annual Ritual Anymore](https://anchore.com/blog/compliance-isnt-an-annual-ritual-anymore/) (1 day ago)
+- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/events/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops-2/) (5 days ago)
+- [Cloud Native Now 2025](https://anchore.com/events/cloud-native-now-2025/) (5 days ago)
+- [A Zero-day Incident Response Story from the Watchers on the Wall](https://anchore.com/blog/a-zero-day-incident-response-story-from-the-watchers-on-the-wall/) (6 days ago)
+- [Cybersecurity Awareness Month no longer works](https://anchore.com/blog/cybersecurity-awareness-month-no-longer-works/) (1 week ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [October 23 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-23-open-source-gardening-live-stream/577) (2 days ago)
+- [October 23 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-23-open-source-gardening-live-stream/577) (3 days ago)
 - [Weak SSL config for https://grype.anchore.io](https://anchorecommunity.discourse.group/t/weak-ssl-config-for-https-grype-anchore-io/576) (1 week ago)
-- [Not supported pnpm yet?](https://anchorecommunity.discourse.group/t/not-supported-pnpm-yet/575) (1 week ago)
+- [Not supported pnpm yet?](https://anchorecommunity.discourse.group/t/not-supported-pnpm-yet/575) (2 weeks ago)
 - [October 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-9th-open-source-gardening-live-stream/574) (2 weeks ago)
 - [Corretly identifying jar file with only pom.xml](https://anchorecommunity.discourse.group/t/corretly-identifying-jar-file-with-only-pom-xml/573) (2 weeks ago)
