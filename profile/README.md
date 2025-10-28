@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Breaking the Vulnerability Management Cycle with Anchore and Echo](https://anchore.com/webinars/breaking-the-vulnerability-management-cycle-with-anchore-and-echo/) (today)
-- [Anchore Enterprise 5.22: OpenVEX, PURLs, and RHEL EUS Support](https://anchore.com/blog/anchore-enterprise-5-22/) (4 days ago)
-- [Compliance Isn’t an Annual Ritual Anymore](https://anchore.com/blog/compliance-isnt-an-annual-ritual-anymore/) (6 days ago)
+- [Breaking the Vulnerability Management Cycle with Anchore and Echo](https://anchore.com/webinars/breaking-the-vulnerability-management-cycle-with-anchore-and-echo/) (1 day ago)
+- [Anchore Enterprise 5.22: OpenVEX, PURLs, and RHEL EUS Support](https://anchore.com/blog/anchore-enterprise-5-22/) (5 days ago)
+- [Compliance Isn’t an Annual Ritual Anymore](https://anchore.com/blog/compliance-isnt-an-annual-ritual-anymore/) (1 week ago)
 - [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/events/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops-2/) (1 week ago)
 - [Cloud Native Now 2025](https://anchore.com/events/cloud-native-now-2025/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Syft is not scanning jar files which are integrated to docker image](https://anchorecommunity.discourse.group/t/syft-is-not-scanning-jar-files-which-are-integrated-to-docker-image/578) (3 days ago)
+- [Syft is not scanning jar files which are integrated to docker image](https://anchorecommunity.discourse.group/t/syft-is-not-scanning-jar-files-which-are-integrated-to-docker-image/578) (4 days ago)
 - [October 23 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-23-open-source-gardening-live-stream/577) (1 week ago)
 - [Weak SSL config for https://grype.anchore.io](https://anchorecommunity.discourse.group/t/weak-ssl-config-for-https-grype-anchore-io/576) (2 weeks ago)
 - [Not supported pnpm yet?](https://anchorecommunity.discourse.group/t/not-supported-pnpm-yet/575) (2 weeks ago)
-- [October 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-9th-open-source-gardening-live-stream/574) (2 weeks ago)
+- [October 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-9th-open-source-gardening-live-stream/574) (3 weeks ago)
