@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Beyond The CVE: Deep Container Analysis with Anchore](https://anchore.com/blog/beyond-the-cve-deep-container-analysis-with-anchore/) (today)
 - [Breaking the Vulnerability Management Cycle with Anchore and Echo](https://anchore.com/webinars/breaking-the-vulnerability-management-cycle-with-anchore-and-echo/) (1 day ago)
 - [Anchore Enterprise 5.22: OpenVEX, PURLs, and RHEL EUS Support](https://anchore.com/blog/anchore-enterprise-5-22/) (5 days ago)
 - [Compliance Isn’t an Annual Ritual Anymore](https://anchore.com/blog/compliance-isnt-an-annual-ritual-anymore/) (1 week ago)
 - [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/events/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops-2/) (1 week ago)
-- [Cloud Native Now 2025](https://anchore.com/events/cloud-native-now-2025/) (1 week ago)
 
 ### Community
 
