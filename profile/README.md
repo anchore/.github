@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [October 30 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-30-open-source-gardening-live-stream/579) (today)
 - [Syft is not scanning jar files which are integrated to docker image](https://anchorecommunity.discourse.group/t/syft-is-not-scanning-jar-files-which-are-integrated-to-docker-image/578) (4 days ago)
 - [October 23 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-23-open-source-gardening-live-stream/577) (1 week ago)
 - [Weak SSL config for https://grype.anchore.io](https://anchorecommunity.discourse.group/t/weak-ssl-config-for-https-grype-anchore-io/576) (2 weeks ago)
 - [Not supported pnpm yet?](https://anchorecommunity.discourse.group/t/not-supported-pnpm-yet/575) (2 weeks ago)
-- [October 9th | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-9th-open-source-gardening-live-stream/574) (3 weeks ago)
