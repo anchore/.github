@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Security Without Friction: How Repoflow Created a DevSecOps Package Manager with Grype](https://anchore.com/blog/security-without-friction-how-repoflow-created-a-devsecops-package-manager-with-grype/) (today)
 - [Beyond The CVE: Deep Container Analysis with Anchore](https://anchore.com/blog/beyond-the-cve-deep-container-analysis-with-anchore/) (2 days ago)
 - [Breaking the Vulnerability Management Cycle with Anchore and Echo](https://anchore.com/webinars/breaking-the-vulnerability-management-cycle-with-anchore-and-echo/) (3 days ago)
 - [Anchore Enterprise 5.22: OpenVEX, PURLs, and RHEL EUS Support](https://anchore.com/blog/anchore-enterprise-5-22/) (1 week ago)
 - [Compliance Isn’t an Annual Ritual Anymore](https://anchore.com/blog/compliance-isnt-an-annual-ritual-anymore/) (1 week ago)
-- [Accelerate &amp; Secure: Optimizing Your Software Supply Chain with DevSecOps](https://anchore.com/events/accelerate-secure-optimizing-your-software-supply-chain-with-devsecops-2/) (1 week ago)
 
 ### Community
 
