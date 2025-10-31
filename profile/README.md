@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Security Without Friction: How Repoflow Created a DevSecOps Package Manager with Grype](https://anchore.com/blog/security-without-friction-how-repoflow-created-a-devsecops-package-manager-with-grype/) (today)
-- [Beyond The CVE: Deep Container Analysis with Anchore](https://anchore.com/blog/beyond-the-cve-deep-container-analysis-with-anchore/) (2 days ago)
-- [Breaking the Vulnerability Management Cycle with Anchore and Echo](https://anchore.com/webinars/breaking-the-vulnerability-management-cycle-with-anchore-and-echo/) (3 days ago)
+- [Security Without Friction: How Repoflow Created a DevSecOps Package Manager with Grype](https://anchore.com/blog/security-without-friction-how-repoflow-created-a-devsecops-package-manager-with-grype/) (1 day ago)
+- [Beyond The CVE: Deep Container Analysis with Anchore](https://anchore.com/blog/beyond-the-cve-deep-container-analysis-with-anchore/) (3 days ago)
+- [Breaking the Vulnerability Management Cycle with Anchore and Echo](https://anchore.com/webinars/breaking-the-vulnerability-management-cycle-with-anchore-and-echo/) (4 days ago)
 - [Anchore Enterprise 5.22: OpenVEX, PURLs, and RHEL EUS Support](https://anchore.com/blog/anchore-enterprise-5-22/) (1 week ago)
 - [Compliance Isn’t an Annual Ritual Anymore](https://anchore.com/blog/compliance-isnt-an-annual-ritual-anymore/) (1 week ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [October 30 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-30-open-source-gardening-live-stream/579) (2 days ago)
-- [Syft is not scanning jar files which are integrated to docker image](https://anchorecommunity.discourse.group/t/syft-is-not-scanning-jar-files-which-are-integrated-to-docker-image/578) (6 days ago)
-- [October 23 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-23-open-source-gardening-live-stream/577) (1 week ago)
-- [Weak SSL config for https://grype.anchore.io](https://anchorecommunity.discourse.group/t/weak-ssl-config-for-https-grype-anchore-io/576) (2 weeks ago)
-- [Not supported pnpm yet?](https://anchorecommunity.discourse.group/t/not-supported-pnpm-yet/575) (3 weeks ago)
+- [October 23rd 2025 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-23rd-2025-open-source-gardening-live-stream/582) (today)
+- [October 16th 2025 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-16th-2025-open-source-gardening-live-stream/581) (1 day ago)
+- [October 9th 2025 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-9th-2025-open-source-gardening-live-stream/580) (1 day ago)
+- [October 30 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-30-open-source-gardening-live-stream/579) (3 days ago)
+- [Syft is not scanning jar files which are integrated to docker image](https://anchorecommunity.discourse.group/t/syft-is-not-scanning-jar-files-which-are-integrated-to-docker-image/578) (1 week ago)
