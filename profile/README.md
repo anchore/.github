@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Does grype fully handle the Trivy based SBOM vulnerability analysis?](https://anchorecommunity.discourse.group/t/does-grype-fully-handle-the-trivy-based-sbom-vulnerability-analysis/584) (today)
 - [Does grype covers urls instead of version in npm?](https://anchorecommunity.discourse.group/t/does-grype-covers-urls-instead-of-version-in-npm/583) (1 day ago)
 - [October 23rd 2025 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-23rd-2025-open-source-gardening-live-stream/582) (3 days ago)
 - [October 16th 2025 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-16th-2025-open-source-gardening-live-stream/581) (4 days ago)
 - [October 9th 2025 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-9th-2025-open-source-gardening-live-stream/580) (4 days ago)
-- [October 30 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-30-open-source-gardening-live-stream/579) (6 days ago)
