@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Security Without Friction: How RepoFlow Created a DevSecOps Package Manager with Grype](https://anchore.com/blog/security-without-friction-how-repoflow-created-a-devsecops-package-manager-with-grype/) (5 days ago)
+- [Security Without Friction: How RepoFlow Created a DevSecOps Package Manager with Grype](https://anchore.com/blog/security-without-friction-how-repoflow-created-a-devsecops-package-manager-with-grype/) (6 days ago)
 - [Beyond The CVE: Deep Container Analysis with Anchore](https://anchore.com/blog/beyond-the-cve-deep-container-analysis-with-anchore/) (1 week ago)
 - [Breaking the Vulnerability Management Cycle with Anchore and Echo](https://anchore.com/webinars/breaking-the-vulnerability-management-cycle-with-anchore-and-echo/) (1 week ago)
 - [Anchore Enterprise 5.22: OpenVEX, PURLs, and RHEL EUS Support](https://anchore.com/blog/anchore-enterprise-5-22/) (1 week ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [November 6 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-6-open-source-gardening-live-stream/585) (today)
-- [Does grype fully handle the Trivy based SBOM vulnerability analysis?](https://anchorecommunity.discourse.group/t/does-grype-fully-handle-the-trivy-based-sbom-vulnerability-analysis/584) (1 day ago)
-- [Does grype covers urls instead of version in npm?](https://anchorecommunity.discourse.group/t/does-grype-covers-urls-instead-of-version-in-npm/583) (2 days ago)
-- [October 23rd 2025 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-23rd-2025-open-source-gardening-live-stream/582) (4 days ago)
-- [October 16th 2025 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-16th-2025-open-source-gardening-live-stream/581) (5 days ago)
+- [November 6 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-6-open-source-gardening-live-stream/585) (1 day ago)
+- [Does grype fully handle the Trivy based SBOM vulnerability analysis?](https://anchorecommunity.discourse.group/t/does-grype-fully-handle-the-trivy-based-sbom-vulnerability-analysis/584) (2 days ago)
+- [Does grype covers urls instead of version in npm?](https://anchorecommunity.discourse.group/t/does-grype-covers-urls-instead-of-version-in-npm/583) (3 days ago)
+- [October 23rd 2025 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-23rd-2025-open-source-gardening-live-stream/582) (5 days ago)
+- [October 16th 2025 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-16th-2025-open-source-gardening-live-stream/581) (6 days ago)
