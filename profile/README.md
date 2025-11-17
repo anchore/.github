@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Supply Chain Security made the OWASP Top Ten, this changes nothing](https://anchore.com/blog/supply-chain-security-made-the-owasp-top-ten-this-changes-nothing/) (3 days ago)
-- [Anchore Welcomes SBOM Pioneer Dr. Allan Friedman as Board Advisor](https://anchore.com/blog/anchore-welcomes-sbom-pioneer-dr-allan-friedman-as-board-advisor/) (5 days ago)
+- [Supply Chain Security made the OWASP Top Ten, this changes nothing](https://anchore.com/blog/supply-chain-security-made-the-owasp-top-ten-this-changes-nothing/) (4 days ago)
+- [Anchore Welcomes SBOM Pioneer Dr. Allan Friedman as Board Advisor](https://anchore.com/blog/anchore-welcomes-sbom-pioneer-dr-allan-friedman-as-board-advisor/) (6 days ago)
 - [Anchore Enterprise 5.23: CycloneDX VEX and VDR Support](https://anchore.com/blog/anchore-enterprise-5-23-cyclonedx-vex-and-vdr-support/) (1 week ago)
 - [The EU CRA “Compliance Cascade”: Why Your Customers (and Acquirers) Now Demand a Verifiable DevSecOps Pipeline](https://anchore.com/blog/the-eu-cra-compliance-cascade-why-your-customers-and-acquirers-now-demand-a-verifiable-devsecops-pipeline/) (1 week ago)
 - [Security Without Friction: How RepoFlow Created a DevSecOps Package Manager with Grype](https://anchore.com/blog/security-without-friction-how-repoflow-created-a-devsecops-package-manager-with-grype/) (2 weeks ago)
@@ -30,7 +30,7 @@ We discuss our open source tools on <a href="https://anchore.com/discourse">Disc
 
 
 - [November 6 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-6-open-source-gardening-live-stream/585) (1 week ago)
-- [Does grype fully handle the Trivy based SBOM vulnerability analysis?](https://anchorecommunity.discourse.group/t/does-grype-fully-handle-the-trivy-based-sbom-vulnerability-analysis/584) (1 week ago)
+- [Does grype fully handle the Trivy based SBOM vulnerability analysis?](https://anchorecommunity.discourse.group/t/does-grype-fully-handle-the-trivy-based-sbom-vulnerability-analysis/584) (2 weeks ago)
 - [Does grype covers urls instead of version in npm?](https://anchorecommunity.discourse.group/t/does-grype-covers-urls-instead-of-version-in-npm/583) (2 weeks ago)
 - [October 23rd 2025 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-23rd-2025-open-source-gardening-live-stream/582) (2 weeks ago)
 - [October 16th 2025 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/october-16th-2025-open-source-gardening-live-stream/581) (2 weeks ago)
