@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [SBOM is an investment in the future](https://anchore.com/blog/sbom-is-an-investment-in-the-future/) (today)
+- [SBOM is an investment in the future](https://anchore.com/blog/sbom-is-an-investment-in-the-future/) (1 day ago)
 - [The Unseen Threat: Why You Need To Scan Your Source Code Repositories](https://anchore.com/blog/the-unseen-threat-why-you-need-to-scan-your-source-code-repositories/) (1 week ago)
 - [Supply Chain Security made the OWASP Top Ten, this changes nothing](https://anchore.com/blog/supply-chain-security-made-the-owasp-top-ten-this-changes-nothing/) (1 week ago)
 - [Anchore Welcomes SBOM Pioneer Dr. Allan Friedman as Board Advisor](https://anchore.com/blog/anchore-welcomes-sbom-pioneer-dr-allan-friedman-as-board-advisor/) (2 weeks ago)
@@ -29,7 +29,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [PSA: No livestream next week (Nov 27th, 2025)](https://anchorecommunity.discourse.group/t/psa-no-livestream-next-week-nov-27th-2025/586) (4 days ago)
+- [PSA: No livestream next week (Nov 27th, 2025)](https://anchorecommunity.discourse.group/t/psa-no-livestream-next-week-nov-27th-2025/586) (5 days ago)
 - [November 6 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-6-open-source-gardening-live-stream/585) (3 weeks ago)
 - [Does grype fully handle the Trivy based SBOM vulnerability analysis?](https://anchorecommunity.discourse.group/t/does-grype-fully-handle-the-trivy-based-sbom-vulnerability-analysis/584) (3 weeks ago)
 - [Does grype covers urls instead of version in npm?](https://anchorecommunity.discourse.group/t/does-grype-covers-urls-instead-of-version-in-npm/583) (3 weeks ago)
