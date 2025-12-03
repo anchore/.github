@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [NIST 2.0: Common Failures and Their Impact on Cybersecurity Resilience](https://anchore.com/events/nist-2-0-common-failures-and-their-impact-on-cybersecurity-resilience/) (today)
 - [4 Lessons on the Future of Software Transparency from Steve Springett of CycloneDX](https://anchore.com/blog/4-lessons-on-future-of-software-transparency-with-steve-springett/) (1 day ago)
 - [SBOM is an investment in the future](https://anchore.com/blog/sbom-is-an-investment-in-the-future/) (1 week ago)
 - [The Unseen Threat: Why You Need To Scan Your Source Code Repositories](https://anchore.com/blog/the-unseen-threat-why-you-need-to-scan-your-source-code-repositories/) (2 weeks ago)
 - [Supply Chain Security made the OWASP Top Ten, this changes nothing](https://anchore.com/blog/supply-chain-security-made-the-owasp-top-ten-this-changes-nothing/) (2 weeks ago)
-- [Anchore Welcomes SBOM Pioneer Dr. Allan Friedman as Board Advisor](https://anchore.com/blog/anchore-welcomes-sbom-pioneer-dr-allan-friedman-as-board-advisor/) (3 weeks ago)
 
 ### Community
 
