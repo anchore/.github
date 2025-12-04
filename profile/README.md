@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Start Safe, Stay Secure: How Anchore and Chainguard Libraries Strengthen Software Supply Chains](https://anchore.com/blog/start-safe-stay-secure-anchore-and-chainguard-libraries/) (today)
 - [NIST 2.0: Common Failures and Their Impact on Cybersecurity Resilience](https://anchore.com/events/nist-2-0-common-failures-and-their-impact-on-cybersecurity-resilience/) (1 day ago)
 - [4 Lessons on the Future of Software Transparency from Steve Springett of CycloneDX](https://anchore.com/blog/4-lessons-on-future-of-software-transparency-with-steve-springett/) (2 days ago)
 - [SBOM is an investment in the future](https://anchore.com/blog/sbom-is-an-investment-in-the-future/) (1 week ago)
 - [The Unseen Threat: Why You Need To Scan Your Source Code Repositories](https://anchore.com/blog/the-unseen-threat-why-you-need-to-scan-your-source-code-repositories/) (2 weeks ago)
-- [Supply Chain Security made the OWASP Top Ten, this changes nothing](https://anchore.com/blog/supply-chain-security-made-the-owasp-top-ten-this-changes-nothing/) (3 weeks ago)
 
 ### Community
 
