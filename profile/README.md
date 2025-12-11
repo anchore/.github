@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Beyond Cargo Audit: Securing Your Rust Crates in Container Images](https://anchore.com/blog/beyond-cargo-audit-securing-your-rust-crates-in-container-images/) (today)
 - [Anchore Enterprise 5.24: Native filesystem SBOMs and policy gates for BYOS](https://anchore.com/blog/anchore-enterprise-5-24/) (2 days ago)
 - [Anchore Enterprise Q4 release: File System Scanning, BYOS Policy, Vulnerability Search](https://anchore.com/webinars/anchore-enterprise-q4-release-file-system-scanning-byos-policy-vulnerability-search/) (6 days ago)
 - [Start Safe, Stay Secure: How Anchore and Chainguard Libraries Strengthen Software Supply Chains](https://anchore.com/blog/start-safe-stay-secure-anchore-and-chainguard-libraries/) (1 week ago)
 - [NIST 2.0: Common Failures and Their Impact on Cybersecurity Resilience](https://anchore.com/events/nist-2-0-common-failures-and-their-impact-on-cybersecurity-resilience/) (1 week ago)
-- [4 Lessons on the Future of Software Transparency from Steve Springett of CycloneDX](https://anchore.com/blog/4-lessons-on-future-of-software-transparency-with-steve-springett/) (1 week ago)
 
 ### Community
 
