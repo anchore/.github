@@ -18,8 +18,8 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Beyond Cargo Audit: Securing Your Rust Crates in Container Images](https://anchore.com/blog/beyond-cargo-audit-securing-your-rust-crates-in-container-images/) (2 days ago)
-- [Anchore Enterprise 5.24: Native filesystem SBOMs and policy gates for BYOS](https://anchore.com/blog/anchore-enterprise-5-24/) (4 days ago)
+- [Beyond Cargo Audit: Securing Your Rust Crates in Container Images](https://anchore.com/blog/beyond-cargo-audit-securing-your-rust-crates-in-container-images/) (3 days ago)
+- [Anchore Enterprise 5.24: Native filesystem SBOMs and policy gates for BYOS](https://anchore.com/blog/anchore-enterprise-5-24/) (5 days ago)
 - [Anchore Enterprise Q4 release: File System Scanning, BYOS Policy, Vulnerability Search](https://anchore.com/webinars/anchore-enterprise-q4-release-file-system-scanning-byos-policy-vulnerability-search/) (1 week ago)
 - [Start Safe, Stay Secure: How Anchore and Chainguard Libraries Strengthen Software Supply Chains](https://anchore.com/blog/start-safe-stay-secure-anchore-and-chainguard-libraries/) (1 week ago)
 - [NIST 2.0: Common Failures and Their Impact on Cybersecurity Resilience](https://anchore.com/events/nist-2-0-common-failures-and-their-impact-on-cybersecurity-resilience/) (1 week ago)
@@ -29,7 +29,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Scanning Snaps for Vulnerabilities](https://anchorecommunity.discourse.group/t/scanning-snaps-for-vulnerabilities/588) (1 day ago)
+- [Scanning Snaps for Vulnerabilities](https://anchorecommunity.discourse.group/t/scanning-snaps-for-vulnerabilities/588) (2 days ago)
 - [Listing the image that is being scanned](https://anchorecommunity.discourse.group/t/listing-the-image-that-is-being-scanned/587) (2 weeks ago)
 - [PSA: No livestream next week (Nov 27th, 2025)](https://anchorecommunity.discourse.group/t/psa-no-livestream-next-week-nov-27th-2025/586) (3 weeks ago)
 - [November 6 | Open Source Gardening | Live Stream](https://anchorecommunity.discourse.group/t/november-6-open-source-gardening-live-stream/585) (1 month ago)
