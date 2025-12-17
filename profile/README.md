@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Anchore OSS Docs Have a New Home: Github → oss.anchore.com](https://anchore.com/blog/anchore-oss-docs-have-a-new-home/) (today)
 - [The Death of Manual SBOM Management and an Automated Future](https://anchore.com/blog/the-death-of-manual-sbom-management-and-an-automated-future/) (1 day ago)
 - [Beyond Cargo Audit: Securing Your Rust Crates in Container Images](https://anchore.com/blog/beyond-cargo-audit-securing-your-rust-crates-in-container-images/) (6 days ago)
 - [Anchore Enterprise 5.24: Native filesystem SBOMs and policy gates for BYOS](https://anchore.com/blog/anchore-enterprise-5-24/) (1 week ago)
 - [Anchore Enterprise Q4 release: File System Scanning, BYOS Policy, Vulnerability Search](https://anchore.com/webinars/anchore-enterprise-q4-release-file-system-scanning-byos-policy-vulnerability-search/) (1 week ago)
-- [Start Safe, Stay Secure: How Anchore and Chainguard Libraries Strengthen Software Supply Chains](https://anchore.com/blog/start-safe-stay-secure-anchore-and-chainguard-libraries/) (1 week ago)
 
 ### Community
 
