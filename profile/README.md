@@ -22,7 +22,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 - [Anchore Enterprise 5.24: Native filesystem SBOMs and policy gates for BYOS](https://anchore.com/blog/anchore-enterprise-5-24/) (1 week ago)
 - [Anchore Enterprise Q4 release: File System Scanning, BYOS Policy, Vulnerability Search](https://anchore.com/webinars/anchore-enterprise-q4-release-file-system-scanning-byos-policy-vulnerability-search/) (1 week ago)
 - [Start Safe, Stay Secure: How Anchore and Chainguard Libraries Strengthen Software Supply Chains](https://anchore.com/blog/start-safe-stay-secure-anchore-and-chainguard-libraries/) (2 weeks ago)
-- [NIST 2.0: Common Failures and Their Impact on Cybersecurity Resilience](https://anchore.com/events/nist-2-0-common-failures-and-their-impact-on-cybersecurity-resilience/) (2 weeks ago)
+- [NIST 2.0: Common Failures and Their Impact on Cybersecurity Resilience](https://anchore.com/webinars/nist-2-0-common-failures-and-their-impact-on-cybersecurity-resilience/) (2 weeks ago)
 
 ### Community
 
