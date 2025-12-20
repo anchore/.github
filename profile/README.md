@@ -29,7 +29,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [The OSS tools have a new documentation site!](https://anchorecommunity.discourse.group/t/the-oss-tools-have-a-new-documentation-site/589) (2 days ago)
+- [The OSS tools have a new documentation site!](https://anchorecommunity.discourse.group/t/the-oss-tools-have-a-new-documentation-site/589) (3 days ago)
 - [Scanning Snaps for Vulnerabilities](https://anchorecommunity.discourse.group/t/scanning-snaps-for-vulnerabilities/588) (1 week ago)
 - [Listing the image that is being scanned](https://anchorecommunity.discourse.group/t/listing-the-image-that-is-being-scanned/587) (3 weeks ago)
 - [PSA: No livestream next week (Nov 27th, 2025)](https://anchorecommunity.discourse.group/t/psa-no-livestream-next-week-nov-27th-2025/586) (4 weeks ago)
