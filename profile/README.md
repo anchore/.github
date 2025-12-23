@@ -18,9 +18,9 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The Death of Manual SBOM Management and an Automated Future](https://anchore.com/blog/the-death-of-manual-sbom-management-and-an-automated-future/) (6 days ago)
+- [The Death of Manual SBOM Management and an Automated Future](https://anchore.com/blog/the-death-of-manual-sbom-management-and-an-automated-future/) (1 week ago)
 - [Beyond Cargo Audit: Securing Your Rust Crates in Container Images](https://anchore.com/blog/beyond-cargo-audit-securing-your-rust-crates-in-container-images/) (1 week ago)
-- [Anchore Enterprise 5.24: Native filesystem SBOMs and policy gates for BYOS](https://anchore.com/blog/anchore-enterprise-5-24/) (1 week ago)
+- [Anchore Enterprise 5.24: Native filesystem SBOMs and policy gates for BYOS](https://anchore.com/blog/anchore-enterprise-5-24/) (2 weeks ago)
 - [Anchore Enterprise Q4 release: File System Scanning, BYOS Policy, Vulnerability Search](https://anchore.com/webinars/anchore-enterprise-q4-release-file-system-scanning-byos-policy-vulnerability-search/) (2 weeks ago)
 - [Start Safe, Stay Secure: How Anchore and Chainguard Libraries Strengthen Software Supply Chains](https://anchore.com/blog/start-safe-stay-secure-anchore-and-chainguard-libraries/) (2 weeks ago)
 
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [PSA: No livestream(s) this or next week (Dec 25, Jan 1), happy holidays!](https://anchorecommunity.discourse.group/t/psa-no-livestream-s-this-or-next-week-dec-25-jan-1-happy-holidays/590) (today)
-- [The OSS tools have a new documentation site!](https://anchorecommunity.discourse.group/t/the-oss-tools-have-a-new-documentation-site/589) (5 days ago)
+- [PSA: No livestream(s) this or next week (Dec 25, Jan 1), happy holidays!](https://anchorecommunity.discourse.group/t/psa-no-livestream-s-this-or-next-week-dec-25-jan-1-happy-holidays/590) (1 day ago)
+- [The OSS tools have a new documentation site!](https://anchorecommunity.discourse.group/t/the-oss-tools-have-a-new-documentation-site/589) (6 days ago)
 - [Scanning Snaps for Vulnerabilities](https://anchorecommunity.discourse.group/t/scanning-snaps-for-vulnerabilities/588) (1 week ago)
 - [Listing the image that is being scanned](https://anchorecommunity.discourse.group/t/listing-the-image-that-is-being-scanned/587) (3 weeks ago)
 - [PSA: No livestream next week (Nov 27th, 2025)](https://anchorecommunity.discourse.group/t/psa-no-livestream-next-week-nov-27th-2025/586) (1 month ago)
