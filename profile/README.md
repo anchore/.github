@@ -20,7 +20,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 - [Anchore OSS Docs Have a New Home: Github → oss.anchore.com](https://anchore.com/blog/anchore-oss-docs-have-a-new-home/) (1 week ago)
 - [The Death of Manual SBOM Management and an Automated Future](https://anchore.com/blog/the-death-of-manual-sbom-management-and-an-automated-future/) (1 week ago)
-- [Beyond Cargo Audit: Securing Your Rust Crates in Container Images](https://anchore.com/blog/beyond-cargo-audit-securing-your-rust-crates-in-container-images/) (1 week ago)
+- [Beyond Cargo Audit: Securing Your Rust Crates in Container Images](https://anchore.com/blog/beyond-cargo-audit-securing-your-rust-crates-in-container-images/) (2 weeks ago)
 - [Anchore Enterprise 5.24: Native filesystem SBOMs and policy gates for BYOS](https://anchore.com/blog/anchore-enterprise-5-24/) (2 weeks ago)
 - [Anchore Enterprise Q4 release: File System Scanning, BYOS Policy, Vulnerability Search](https://anchore.com/webinars/anchore-enterprise-q4-release-file-system-scanning-byos-policy-vulnerability-search/) (2 weeks ago)
 
@@ -29,7 +29,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [PSA: No livestream(s) this or next week (Dec 25, Jan 1), happy holidays!](https://anchorecommunity.discourse.group/t/psa-no-livestream-s-this-or-next-week-dec-25-jan-1-happy-holidays/590) (2 days ago)
+- [PSA: No livestream(s) this or next week (Dec 25, Jan 1), happy holidays!](https://anchorecommunity.discourse.group/t/psa-no-livestream-s-this-or-next-week-dec-25-jan-1-happy-holidays/590) (3 days ago)
 - [The OSS tools have a new documentation site!](https://anchorecommunity.discourse.group/t/the-oss-tools-have-a-new-documentation-site/589) (1 week ago)
 - [Scanning Snaps for Vulnerabilities](https://anchorecommunity.discourse.group/t/scanning-snaps-for-vulnerabilities/588) (1 week ago)
 - [Listing the image that is being scanned](https://anchorecommunity.discourse.group/t/listing-the-image-that-is-being-scanned/587) (4 weeks ago)
