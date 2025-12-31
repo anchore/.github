@@ -19,7 +19,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 
 - [Why SBOMs Are No Longer Optional in 2025](https://anchore.com/blog/why-sboms-are-no-longer-optional-in-2025/) (1 week ago)
-- [Anchore OSS Docs Have a New Home: Github → oss.anchore.com](https://anchore.com/blog/anchore-oss-docs-have-a-new-home/) (1 week ago)
+- [Anchore OSS Docs Have a New Home: Github → oss.anchore.com](https://anchore.com/blog/anchore-oss-docs-have-a-new-home/) (2 weeks ago)
 - [The Death of Manual SBOM Management and an Automated Future](https://anchore.com/blog/the-death-of-manual-sbom-management-and-an-automated-future/) (2 weeks ago)
 - [Beyond Cargo Audit: Securing Your Rust Crates in Container Images](https://anchore.com/blog/beyond-cargo-audit-securing-your-rust-crates-in-container-images/) (2 weeks ago)
 - [Anchore Enterprise 5.24: Native filesystem SBOMs and policy gates for BYOS](https://anchore.com/blog/anchore-enterprise-5-24/) (3 weeks ago)
@@ -30,7 +30,7 @@ We discuss our open source tools on <a href="https://anchore.com/discourse">Disc
 
 
 - [PSA: No livestream(s) this or next week (Dec 25, Jan 1), happy holidays!](https://anchorecommunity.discourse.group/t/psa-no-livestream-s-this-or-next-week-dec-25-jan-1-happy-holidays/590) (1 week ago)
-- [The OSS tools have a new documentation site!](https://anchorecommunity.discourse.group/t/the-oss-tools-have-a-new-documentation-site/589) (1 week ago)
+- [The OSS tools have a new documentation site!](https://anchorecommunity.discourse.group/t/the-oss-tools-have-a-new-documentation-site/589) (2 weeks ago)
 - [Scanning Snaps for Vulnerabilities](https://anchorecommunity.discourse.group/t/scanning-snaps-for-vulnerabilities/588) (2 weeks ago)
 - [Listing the image that is being scanned](https://anchorecommunity.discourse.group/t/listing-the-image-that-is-being-scanned/587) (1 month ago)
 - [PSA: No livestream next week (Nov 27th, 2025)](https://anchorecommunity.discourse.group/t/psa-no-livestream-next-week-nov-27th-2025/586) (1 month ago)
