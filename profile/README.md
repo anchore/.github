@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Under the Hood: How Anchore’s Enterprise Vulnerability Feeds Keep You Secure](https://anchore.com/blog/how-anchore-vulnerability-feeds-keep-you-secure/) (6 days ago)
 - [STIG in Action: 4 Lessons on Automating Compliance with MITRE SAF](https://anchore.com/blog/stig-in-action-4-lessons-on-automating-compliance-with-mitre-saf/) (1 week ago)
 - [The Top Ten List: The 2025 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2025-anchore-blog/) (2 weeks ago)
 - [Why SBOMs Are No Longer Optional in 2025](https://anchore.com/blog/why-sboms-are-no-longer-optional-in-2025/) (3 weeks ago)
 - [Anchore OSS Docs Have a New Home: Github → oss.anchore.com](https://anchore.com/blog/anchore-oss-docs-have-a-new-home/) (1 month ago)
-- [The Death of Manual SBOM Management and an Automated Future](https://anchore.com/blog/the-death-of-manual-sbom-management-and-an-automated-future/) (1 month ago)
 
 ### Community
 
