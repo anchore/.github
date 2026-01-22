@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
+- [Help with new provider](https://anchorecommunity.discourse.group/t/help-with-new-provider/596) (today)
 - [Grype is reporting a high number of vulnerabilities in one instance, while the other scan returns zero findings.](https://anchorecommunity.discourse.group/t/grype-is-reporting-a-high-number-of-vulnerabilities-in-one-instance-while-the-other-scan-returns-zero-findings/594) (1 day ago)
 - [Grype DB schema v5 will be EOL on March 6, 2026](https://anchorecommunity.discourse.group/t/grype-db-schema-v5-will-be-eol-on-march-6-2026/591) (2 weeks ago)
 - [PSA: No livestream(s) this or next week (Dec 25, Jan 1), happy holidays!](https://anchorecommunity.discourse.group/t/psa-no-livestream-s-this-or-next-week-dec-25-jan-1-happy-holidays/590) (1 month ago)
 - [The OSS tools have a new documentation site!](https://anchorecommunity.discourse.group/t/the-oss-tools-have-a-new-documentation-site/589) (1 month ago)
-- [Scanning Snaps for Vulnerabilities](https://anchorecommunity.discourse.group/t/scanning-snaps-for-vulnerabilities/588) (1 month ago)
