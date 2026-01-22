@@ -21,7 +21,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 - [Under the Hood: How Anchore’s Enterprise Vulnerability Feeds Keep You Secure](https://anchore.com/blog/how-anchore-vulnerability-feeds-keep-you-secure/) (1 week ago)
 - [STIG in Action: 4 Lessons on Automating Compliance with MITRE SAF](https://anchore.com/blog/stig-in-action-4-lessons-on-automating-compliance-with-mitre-saf/) (2 weeks ago)
 - [The Top Ten List: The 2025 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2025-anchore-blog/) (3 weeks ago)
-- [Why SBOMs Are No Longer Optional in 2025](https://anchore.com/blog/why-sboms-are-no-longer-optional-in-2025/) (4 weeks ago)
+- [Why SBOMs Are No Longer Optional in 2025](https://anchore.com/blog/why-sboms-are-no-longer-optional-in-2025/) (1 month ago)
 - [Anchore OSS Docs Have a New Home: Github → oss.anchore.com](https://anchore.com/blog/anchore-oss-docs-have-a-new-home/) (1 month ago)
 
 ### Community
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Grype is reporting a high number of vulnerabilities in one instance, while the other scan returns zero findings.](https://anchorecommunity.discourse.group/t/grype-is-reporting-a-high-number-of-vulnerabilities-in-one-instance-while-the-other-scan-returns-zero-findings/594) (today)
-- [Grype DB schema v5 will be EOL on March 6, 2026](https://anchorecommunity.discourse.group/t/grype-db-schema-v5-will-be-eol-on-march-6-2026/591) (1 week ago)
+- [Grype is reporting a high number of vulnerabilities in one instance, while the other scan returns zero findings.](https://anchorecommunity.discourse.group/t/grype-is-reporting-a-high-number-of-vulnerabilities-in-one-instance-while-the-other-scan-returns-zero-findings/594) (1 day ago)
+- [Grype DB schema v5 will be EOL on March 6, 2026](https://anchorecommunity.discourse.group/t/grype-db-schema-v5-will-be-eol-on-march-6-2026/591) (2 weeks ago)
 - [PSA: No livestream(s) this or next week (Dec 25, Jan 1), happy holidays!](https://anchorecommunity.discourse.group/t/psa-no-livestream-s-this-or-next-week-dec-25-jan-1-happy-holidays/590) (1 month ago)
 - [The OSS tools have a new documentation site!](https://anchorecommunity.discourse.group/t/the-oss-tools-have-a-new-documentation-site/589) (1 month ago)
 - [Scanning Snaps for Vulnerabilities](https://anchorecommunity.discourse.group/t/scanning-snaps-for-vulnerabilities/588) (1 month ago)
