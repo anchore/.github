@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Beyond the Bottleneck: How RAISE 2.0 is Transforming Navy DevSecOps](https://anchore.com/blog/how-raise-2-0-is-transforming-navy-devsecops/) (6 days ago)
 - [Under the Hood: How Anchore’s Enterprise Vulnerability Feeds Keep You Secure](https://anchore.com/blog/how-anchore-vulnerability-feeds-keep-you-secure/) (1 week ago)
 - [STIG in Action: 4 Lessons on Automating Compliance with MITRE SAF](https://anchore.com/blog/stig-in-action-4-lessons-on-automating-compliance-with-mitre-saf/) (2 weeks ago)
 - [The Top Ten List: The 2025 Anchore Blog](https://anchore.com/blog/the-top-ten-list-the-2025-anchore-blog/) (3 weeks ago)
 - [Why SBOMs Are No Longer Optional in 2025](https://anchore.com/blog/why-sboms-are-no-longer-optional-in-2025/) (1 month ago)
-- [Anchore OSS Docs Have a New Home: Github → oss.anchore.com](https://anchore.com/blog/anchore-oss-docs-have-a-new-home/) (1 month ago)
 
 ### Community
 
