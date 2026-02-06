@@ -18,7 +18,7 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [WEST 2026](https://anchore.com/events/west-2026/) (6 days ago)
+- [WEST 2026](https://anchore.com/events/west-2026/) (1 week ago)
 - [The DoD SWFT Initiative and the Promise of cATO Fulfilled](https://anchore.com/blog/dod-swft-initiative-and-promise-of-cato-fulfilled/) (1 week ago)
 - [Beyond the Bottleneck: How RAISE 2.0 is Transforming Navy DevSecOps](https://anchore.com/blog/how-raise-2-0-is-transforming-navy-devsecops/) (2 weeks ago)
 - [Under the Hood: How Anchore’s Enterprise Vulnerability Feeds Keep You Secure](https://anchore.com/blog/how-anchore-vulnerability-feeds-keep-you-secure/) (3 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Missing package identification from .zap packaging](https://anchorecommunity.discourse.group/t/missing-package-identification-from-zap-packaging/599) (2 days ago)
-- [Evaluating Anchore Score Alignment with ISO/SAE 21434 and Automotive Functional Safety Risk](https://anchorecommunity.discourse.group/t/evaluating-anchore-score-alignment-with-iso-sae-21434-and-automotive-functional-safety-risk/598) (5 days ago)
+- [Missing package identification from .zap packaging](https://anchorecommunity.discourse.group/t/missing-package-identification-from-zap-packaging/599) (3 days ago)
+- [Evaluating Anchore Score Alignment with ISO/SAE 21434 and Automotive Functional Safety Risk](https://anchorecommunity.discourse.group/t/evaluating-anchore-score-alignment-with-iso-sae-21434-and-automotive-functional-safety-risk/598) (6 days ago)
 - [CVE fallback for other ecosystems](https://anchorecommunity.discourse.group/t/cve-fallback-for-other-ecosystems/597) (1 week ago)
 - [Help with new provider](https://anchorecommunity.discourse.group/t/help-with-new-provider/596) (2 weeks ago)
 - [Grype is reporting a high number of vulnerabilities in one instance, while the other scan returns zero findings.](https://anchorecommunity.discourse.group/t/grype-is-reporting-a-high-number-of-vulnerabilities-in-one-instance-while-the-other-scan-returns-zero-findings/594) (2 weeks ago)
