@@ -18,18 +18,18 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Securing the Mission: How Anchore Enterprise Powers DoW Zero Trust](https://anchore.com/blog/anchore-enterprise-powers-dow-zero-trust/) (6 days ago)
+- [Securing the Mission: How Anchore Enterprise Powers DoW Zero Trust](https://anchore.com/blog/anchore-enterprise-powers-dow-zero-trust/) (1 week ago)
 - [WEST 2026](https://anchore.com/events/west-2026/) (1 week ago)
-- [The DoD SWFT Initiative and the Promise of cATO Fulfilled](https://anchore.com/blog/dod-swft-initiative-and-promise-of-cato-fulfilled/) (1 week ago)
-- [Beyond the Bottleneck: How RAISE 2.0 is Transforming Navy DevSecOps](https://anchore.com/blog/how-raise-2-0-is-transforming-navy-devsecops/) (2 weeks ago)
-- [Under the Hood: How Anchore’s Enterprise Vulnerability Feeds Keep You Secure](https://anchore.com/blog/how-anchore-vulnerability-feeds-keep-you-secure/) (3 weeks ago)
+- [The DoD SWFT Initiative and the Promise of cATO Fulfilled](https://anchore.com/blog/dod-swft-initiative-and-promise-of-cato-fulfilled/) (2 weeks ago)
+- [Beyond the Bottleneck: How RAISE 2.0 is Transforming Navy DevSecOps](https://anchore.com/blog/how-raise-2-0-is-transforming-navy-devsecops/) (3 weeks ago)
+- [Under the Hood: How Anchore’s Enterprise Vulnerability Feeds Keep You Secure](https://anchore.com/blog/how-anchore-vulnerability-feeds-keep-you-secure/) (4 weeks ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Missing package identification from .zap packaging](https://anchorecommunity.discourse.group/t/missing-package-identification-from-zap-packaging/599) (6 days ago)
+- [Missing package identification from .zap packaging](https://anchorecommunity.discourse.group/t/missing-package-identification-from-zap-packaging/599) (1 week ago)
 - [Evaluating Anchore Score Alignment with ISO/SAE 21434 and Automotive Functional Safety Risk](https://anchorecommunity.discourse.group/t/evaluating-anchore-score-alignment-with-iso-sae-21434-and-automotive-functional-safety-risk/598) (1 week ago)
 - [CVE fallback for other ecosystems](https://anchorecommunity.discourse.group/t/cve-fallback-for-other-ecosystems/597) (1 week ago)
 - [Help with new provider](https://anchorecommunity.discourse.group/t/help-with-new-provider/596) (2 weeks ago)
