@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [Syft, Grype, Grant: Celebrating 50 Million Downloads](https://anchore.com/blog/syft-grype-grant-50mill-downloads/) (6 days ago)
 - [Securing the Mission: How Anchore Enterprise Powers DoW Zero Trust](https://anchore.com/blog/anchore-enterprise-powers-dow-zero-trust/) (1 week ago)
 - [WEST 2026](https://anchore.com/events/west-2026/) (1 week ago)
 - [The DoD SWFT Initiative and the Promise of cATO Fulfilled](https://anchore.com/blog/dod-swft-initiative-and-promise-of-cato-fulfilled/) (2 weeks ago)
 - [Beyond the Bottleneck: How RAISE 2.0 is Transforming Navy DevSecOps](https://anchore.com/blog/how-raise-2-0-is-transforming-navy-devsecops/) (3 weeks ago)
-- [Under the Hood: How Anchore’s Enterprise Vulnerability Feeds Keep You Secure](https://anchore.com/blog/how-anchore-vulnerability-feeds-keep-you-secure/) (4 weeks ago)
 
 ### Community
 
