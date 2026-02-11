@@ -33,4 +33,4 @@ We discuss our open source tools on <a href="https://anchore.com/discourse">Disc
 - [Evaluating Anchore Score Alignment with ISO/SAE 21434 and Automotive Functional Safety Risk](https://anchorecommunity.discourse.group/t/evaluating-anchore-score-alignment-with-iso-sae-21434-and-automotive-functional-safety-risk/598) (1 week ago)
 - [CVE fallback for other ecosystems](https://anchorecommunity.discourse.group/t/cve-fallback-for-other-ecosystems/597) (1 week ago)
 - [Help with new provider](https://anchorecommunity.discourse.group/t/help-with-new-provider/596) (2 weeks ago)
-- [Grype is reporting a high number of vulnerabilities in one instance, while the other scan returns zero findings.](https://anchorecommunity.discourse.group/t/grype-is-reporting-a-high-number-of-vulnerabilities-in-one-instance-while-the-other-scan-returns-zero-findings/594) (2 weeks ago)
+- [Grype is reporting a high number of vulnerabilities in one instance, while the other scan returns zero findings.](https://anchorecommunity.discourse.group/t/grype-is-reporting-a-high-number-of-vulnerabilities-in-one-instance-while-the-other-scan-returns-zero-findings/594) (3 weeks ago)
