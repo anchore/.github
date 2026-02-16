@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [The “S” in SBOM is for system](https://anchore.com/blog/the-s-in-sbom-is-for-system/) (6 days ago)
 - [Assemble](https://anchore.com/events/assemble/) (6 days ago)
 - [Threat Intelligence and Hunting Summit](https://anchore.com/webinars/threat-intelligence-and-hunting-summit/) (6 days ago)
 - [Beyond the SBOM: Defending the Software Supply Chain Against Modern Attacks](https://anchore.com/webinars/beyond-the-sbom-defending-the-software-supply-chain-against-modern-attacks/) (6 days ago)
 - [Risk in Real Time: Continuous Monitoring &amp; Cyber Resilience](https://anchore.com/webinars/risk-in-real-time-continuous-monitoring-cyber-resilience/) (6 days ago)
-- [Syft, Grype, Grant: Celebrating 50 Million Downloads](https://anchore.com/blog/syft-grype-grant-50mill-downloads/) (1 week ago)
 
 ### Community
 
