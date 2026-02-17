@@ -18,18 +18,18 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [The “S” in SBOM is for system](https://anchore.com/blog/the-s-in-sbom-is-for-system/) (6 days ago)
-- [Assemble](https://anchore.com/events/assemble/) (6 days ago)
-- [Threat Intelligence and Hunting Summit](https://anchore.com/webinars/threat-intelligence-and-hunting-summit/) (6 days ago)
-- [Beyond the SBOM: Defending the Software Supply Chain Against Modern Attacks](https://anchore.com/webinars/beyond-the-sbom-defending-the-software-supply-chain-against-modern-attacks/) (6 days ago)
-- [Risk in Real Time: Continuous Monitoring &amp; Cyber Resilience](https://anchore.com/webinars/risk-in-real-time-continuous-monitoring-cyber-resilience/) (6 days ago)
+- [The “S” in SBOM is for system](https://anchore.com/blog/the-s-in-sbom-is-for-system/) (1 week ago)
+- [Assemble](https://anchore.com/events/assemble/) (1 week ago)
+- [Threat Intelligence and Hunting Summit](https://anchore.com/webinars/threat-intelligence-and-hunting-summit/) (1 week ago)
+- [Beyond the SBOM: Defending the Software Supply Chain Against Modern Attacks](https://anchore.com/webinars/beyond-the-sbom-defending-the-software-supply-chain-against-modern-attacks/) (1 week ago)
+- [Risk in Real Time: Continuous Monitoring &amp; Cyber Resilience](https://anchore.com/webinars/risk-in-real-time-continuous-monitoring-cyber-resilience/) (1 week ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Missing package identification from .zap packaging](https://anchorecommunity.discourse.group/t/missing-package-identification-from-zap-packaging/599) (1 week ago)
+- [Missing package identification from .zap packaging](https://anchorecommunity.discourse.group/t/missing-package-identification-from-zap-packaging/599) (2 weeks ago)
 - [Evaluating Anchore Score Alignment with ISO/SAE 21434 and Automotive Functional Safety Risk](https://anchorecommunity.discourse.group/t/evaluating-anchore-score-alignment-with-iso-sae-21434-and-automotive-functional-safety-risk/598) (2 weeks ago)
 - [CVE fallback for other ecosystems](https://anchorecommunity.discourse.group/t/cve-fallback-for-other-ecosystems/597) (2 weeks ago)
 - [Help with new provider](https://anchorecommunity.discourse.group/t/help-with-new-provider/596) (3 weeks ago)
