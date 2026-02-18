@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
+- [The EOL Trap: Why Supply Chain Risk is Often Born of Neglect, Not Malice](https://anchore.com/webinars/the-eol-trap-why-supply-chain-risk-is-often-born-of-neglect-not-malice/) (6 days ago)
 - [The “S” in SBOM is for system](https://anchore.com/blog/the-s-in-sbom-is-for-system/) (1 week ago)
 - [Assemble](https://anchore.com/events/assemble/) (1 week ago)
 - [Threat Intelligence and Hunting Summit](https://anchore.com/webinars/threat-intelligence-and-hunting-summit/) (1 week ago)
 - [Beyond the SBOM: Defending the Software Supply Chain Against Modern Attacks](https://anchore.com/webinars/beyond-the-sbom-defending-the-software-supply-chain-against-modern-attacks/) (1 week ago)
-- [Risk in Real Time: Continuous Monitoring &amp; Cyber Resilience](https://anchore.com/webinars/risk-in-real-time-continuous-monitoring-cyber-resilience/) (1 week ago)
 
 ### Community
 
