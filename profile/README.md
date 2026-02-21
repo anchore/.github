@@ -30,7 +30,7 @@ We discuss our open source tools on <a href="https://anchore.com/discourse">Disc
 
 
 - [Missing package identification from .zap packaging](https://anchorecommunity.discourse.group/t/missing-package-identification-from-zap-packaging/599) (2 weeks ago)
-- [Evaluating Anchore Score Alignment with ISO/SAE 21434 and Automotive Functional Safety Risk](https://anchorecommunity.discourse.group/t/evaluating-anchore-score-alignment-with-iso-sae-21434-and-automotive-functional-safety-risk/598) (2 weeks ago)
+- [Evaluating Anchore Score Alignment with ISO/SAE 21434 and Automotive Functional Safety Risk](https://anchorecommunity.discourse.group/t/evaluating-anchore-score-alignment-with-iso-sae-21434-and-automotive-functional-safety-risk/598) (3 weeks ago)
 - [CVE fallback for other ecosystems](https://anchorecommunity.discourse.group/t/cve-fallback-for-other-ecosystems/597) (3 weeks ago)
-- [Help with new provider](https://anchorecommunity.discourse.group/t/help-with-new-provider/596) (4 weeks ago)
+- [Help with new provider](https://anchorecommunity.discourse.group/t/help-with-new-provider/596) (1 month ago)
 - [Grype is reporting a high number of vulnerabilities in one instance, while the other scan returns zero findings.](https://anchorecommunity.discourse.group/t/grype-is-reporting-a-high-number-of-vulnerabilities-in-one-instance-while-the-other-scan-returns-zero-findings/594) (1 month ago)
