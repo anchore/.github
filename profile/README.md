@@ -18,11 +18,11 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [KubeCon EU 2026](https://anchore.com/events/kubecon-eu-2026/) (1 week ago)
 - [We have no crystal ball but we do have some directions for 2026](https://anchore.com/blog/no-crystal-ball-but-2026-directions/) (1 week ago)
 - [The EOL Trap: Why Supply Chain Risk is Often Born of Neglect, Not Malice](https://anchore.com/webinars/the-eol-trap-why-supply-chain-risk-is-often-born-of-neglect-not-malice/) (1 week ago)
 - [The “S” in SBOM is for system](https://anchore.com/blog/the-s-in-sbom-is-for-system/) (2 weeks ago)
 - [Assemble](https://anchore.com/events/assemble/) (2 weeks ago)
+- [Threat Intelligence and Hunting Summit](https://anchore.com/webinars/threat-intelligence-and-hunting-summit/) (2 weeks ago)
 
 ### Community
 
