@@ -29,7 +29,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Recommended Workflow for Large-Scale Recurring SBOM Scans with Syft and Grype](https://anchorecommunity.discourse.group/t/recommended-workflow-for-large-scale-recurring-sbom-scans-with-syft-and-grype/603) (1 day ago)
+- [Recommended Workflow for Large-Scale Recurring SBOM Scans with Syft and Grype](https://anchorecommunity.discourse.group/t/recommended-workflow-for-large-scale-recurring-sbom-scans-with-syft-and-grype/603) (2 days ago)
 - [Missing package identification from .zap packaging](https://anchorecommunity.discourse.group/t/missing-package-identification-from-zap-packaging/599) (3 weeks ago)
 - [Evaluating Anchore Score Alignment with ISO/SAE 21434 and Automotive Functional Safety Risk](https://anchorecommunity.discourse.group/t/evaluating-anchore-score-alignment-with-iso-sae-21434-and-automotive-functional-safety-risk/598) (3 weeks ago)
 - [CVE fallback for other ecosystems](https://anchorecommunity.discourse.group/t/cve-fallback-for-other-ecosystems/597) (3 weeks ago)
