@@ -19,7 +19,7 @@ We regularly write about what we're working on; here are some recent blog posts:
 
 
 - [We have no crystal ball but we do have some directions for 2026](https://anchore.com/blog/no-crystal-ball-but-2026-directions/) (1 week ago)
-- [The EOL Trap: Why Supply Chain Risk is Often Born of Neglect, Not Malice](https://anchore.com/webinars/the-eol-trap-why-supply-chain-risk-is-often-born-of-neglect-not-malice/) (1 week ago)
+- [The EOL Trap: Why Supply Chain Risk is Often Born of Neglect, Not Malice](https://anchore.com/webinars/the-eol-trap-why-supply-chain-risk-is-often-born-of-neglect-not-malice/) (2 weeks ago)
 - [The “S” in SBOM is for system](https://anchore.com/blog/the-s-in-sbom-is-for-system/) (2 weeks ago)
 - [Assemble](https://anchore.com/events/assemble/) (2 weeks ago)
 - [Threat Intelligence and Hunting Summit](https://anchore.com/webinars/threat-intelligence-and-hunting-summit/) (2 weeks ago)
@@ -29,8 +29,8 @@ We regularly write about what we're working on; here are some recent blog posts:
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Recommended Workflow for Large-Scale Recurring SBOM Scans with Syft and Grype](https://anchorecommunity.discourse.group/t/recommended-workflow-for-large-scale-recurring-sbom-scans-with-syft-and-grype/603) (2 days ago)
+- [Recommended Workflow for Large-Scale Recurring SBOM Scans with Syft and Grype](https://anchorecommunity.discourse.group/t/recommended-workflow-for-large-scale-recurring-sbom-scans-with-syft-and-grype/603) (3 days ago)
 - [Missing package identification from .zap packaging](https://anchorecommunity.discourse.group/t/missing-package-identification-from-zap-packaging/599) (3 weeks ago)
 - [Evaluating Anchore Score Alignment with ISO/SAE 21434 and Automotive Functional Safety Risk](https://anchorecommunity.discourse.group/t/evaluating-anchore-score-alignment-with-iso-sae-21434-and-automotive-functional-safety-risk/598) (3 weeks ago)
-- [CVE fallback for other ecosystems](https://anchorecommunity.discourse.group/t/cve-fallback-for-other-ecosystems/597) (3 weeks ago)
+- [CVE fallback for other ecosystems](https://anchorecommunity.discourse.group/t/cve-fallback-for-other-ecosystems/597) (4 weeks ago)
 - [Help with new provider](https://anchorecommunity.discourse.group/t/help-with-new-provider/596) (1 month ago)
