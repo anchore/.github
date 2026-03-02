@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  content: read
+  contents: read
 
 jobs:
   readme-scribe:
