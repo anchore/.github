@@ -1,11 +1,7 @@
 name: Update README ✍️
 
-# Run hourly
+# Run on demand
 on:
-  push:
-    branches: [main]
-  schedule:
-    - cron: "0 */1 * * *"
   workflow_dispatch:
 
 permissions:
