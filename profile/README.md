@@ -18,19 +18,19 @@ We are [Anchore](https://anchore.com/).
 We regularly write about what we're working on; here are some recent blog posts:
 
 
-- [Top STIG Compliance Tools to Automate Security Configuration &amp; Audits](https://anchore.com/blog/top-stig-compliance-tools/) (6 days ago)
-- [Automating STIG Compliance for Chainguard Images](https://anchore.com/webinars/automating-stig-compliance-for-chainguard-images/) (1 week ago)
-- [We have no crystal ball but we do have some directions for 2026](https://anchore.com/blog/no-crystal-ball-but-2026-directions/) (1 week ago)
-- [The EOL Trap: Why Supply Chain Risk is Often Born of Neglect, Not Malice](https://anchore.com/webinars/the-eol-trap-why-supply-chain-risk-is-often-born-of-neglect-not-malice/) (2 weeks ago)
-- [The “S” in SBOM is for system](https://anchore.com/blog/the-s-in-sbom-is-for-system/) (2 weeks ago)
+- [Anchore and Bitnami: Bridging the Data Gap for Accurate Image Scanning](https://anchore.com/blog/anchore-bitnami-secure-images/) (6 days ago)
+- [Neil Levine, Anchore | Chainguard Assemble 2026](https://anchore.com/videos/neil-levine-anchore-chainguard-assemble-2026/) (6 days ago)
+- [KubeCon EU 2026](https://anchore.com/events/kubecon-eu-2026/) (1 week ago)
+- [CypherCon 2026](https://anchore.com/events/cyphercon-2026/) (1 week ago)
+- [Anchore Enterprise 5.25: Unified Scanning Engine and First-Class Imported SBOMs](https://anchore.com/blog/anchore-enterprise-5-25/) (1 week ago)
 
 ### Community
 
 We discuss our open source tools on <a href="https://anchore.com/discourse">Discourse</a>. Here are some recent topics:
 
 
-- [Recommended Workflow for Large-Scale Recurring SBOM Scans with Syft and Grype](https://anchorecommunity.discourse.group/t/recommended-workflow-for-large-scale-recurring-sbom-scans-with-syft-and-grype/603) (1 week ago)
-- [Missing package identification from .zap packaging](https://anchorecommunity.discourse.group/t/missing-package-identification-from-zap-packaging/599) (3 weeks ago)
-- [Evaluating Anchore Score Alignment with ISO/SAE 21434 and Automotive Functional Safety Risk](https://anchorecommunity.discourse.group/t/evaluating-anchore-score-alignment-with-iso-sae-21434-and-automotive-functional-safety-risk/598) (1 month ago)
-- [CVE fallback for other ecosystems](https://anchorecommunity.discourse.group/t/cve-fallback-for-other-ecosystems/597) (1 month ago)
-- [Help with new provider](https://anchorecommunity.discourse.group/t/help-with-new-provider/596) (1 month ago)
+- [PSA: No livestream(s) next week (Mar 26th, 2026)](https://anchorecommunity.discourse.group/t/psa-no-livestream-s-next-week-mar-26th-2026/615) (1 week ago)
+- [Syft is not listing the packages under dev_dependencies section in package-lock.json](https://anchorecommunity.discourse.group/t/syft-is-not-listing-the-packages-under-dev-dependencies-section-in-package-lock-json/614) (1 week ago)
+- [PSA: No livestream(s) this week (Mar 5th, 2026)](https://anchorecommunity.discourse.group/t/psa-no-livestream-s-this-week-mar-5th-2026/605) (3 weeks ago)
+- [Recommended Workflow for Large-Scale Recurring SBOM Scans with Syft and Grype](https://anchorecommunity.discourse.group/t/recommended-workflow-for-large-scale-recurring-sbom-scans-with-syft-and-grype/603) (1 month ago)
+- [Missing package identification from .zap packaging](https://anchorecommunity.discourse.group/t/missing-package-identification-from-zap-packaging/599) (1 month ago)
